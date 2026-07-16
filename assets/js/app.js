@@ -143,12 +143,12 @@
       info.push('<div class="card-info">' + esc(f.categories.join(', ')) + '</div>');
     }
     return (
-      '<article class="facility-card" data-id="' + f.id + '" style="--cc1:' + kindColor(f.kind) + '33; --cc2:#FFFFFF">' +
-        '<div class="card-emoji">' +
-          '<button class="fav-btn" data-fav="' + f.id + '" aria-label="찜">' + (fav ? '❤️' : '🤍') + '</button>' +
-        '</div>' +
+      '<article class="facility-card" data-id="' + f.id + '">' +
         '<div class="card-body">' +
-          '<h3 class="card-name">' + esc(f.name) + '</h3>' +
+          '<div class="card-title-row">' +
+            '<h3 class="card-name">' + esc(f.name) + '</h3>' +
+            '<button class="fav-btn" data-fav="' + f.id + '" aria-label="찜">' + (fav ? '❤️' : '🤍') + '</button>' +
+          '</div>' +
           '<div class="card-tags">' + tags.join('') + '</div>' +
           info.join('') +
           (f.lat != null ? '<button class="card-locate" data-locate="' + f.id + '">위치보기</button>' : '') +
