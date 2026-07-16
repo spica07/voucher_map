@@ -91,7 +91,7 @@
   }
 
   /* ---------- 지도 ---------- */
-  var map = L.map('map', { zoomControl: true }).setView(SEOUL_CENTER, SEOUL_ZOOM);
+  var map = L.map('map', { zoomControl: true, renderer: L.canvas() }).setView(SEOUL_CENTER, SEOUL_ZOOM);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
