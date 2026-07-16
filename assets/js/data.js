@@ -12,8 +12,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sbiznews.com",
-    "lat": 37.4754586,
-    "lng": 126.8830974,
+    "lat": 37.4760631854134,
+    "lng": 126.882925390269,
     "geoApprox": false
   },
   {
@@ -28,9 +28,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.paranhanul.net/",
-    "lat": 37.47614,
-    "lng": 127.02186,
-    "geoApprox": true
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
+    "geoApprox": false
   },
   {
     "id": 3,
@@ -47,8 +47,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "http://wingsdrone.wooripage.net/",
-    "lat": 37.49092,
-    "lng": 126.9289145,
+    "lat": 37.4909210289001,
+    "lng": 126.928910070872,
     "geoApprox": false
   },
   {
@@ -67,8 +67,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.sb.go.kr/",
-    "lat": 37.6050584,
-    "lng": 127.0309893,
+    "lat": 37.6050371568783,
+    "lng": 127.030928150119,
     "geoApprox": false
   },
   {
@@ -83,8 +83,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://sinchon.sbsgameacademy.com/",
-    "lat": 37.5561551,
-    "lng": 126.9393113,
+    "lat": 37.5562057965146,
+    "lng": 126.939295914138,
     "geoApprox": false
   },
   {
@@ -101,9 +101,9 @@ window.VOUCHERS = [
       ")"
     ],
     "homepage": "https://blog.naver.com/nuri_vision",
-    "lat": 37.65784,
-    "lng": 127.05306,
-    "geoApprox": true
+    "lat": 37.6663488512082,
+    "lng": 127.07782664019,
+    "geoApprox": false
   },
   {
     "id": 7,
@@ -119,9 +119,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://gangseo.seoulwomanup.or.kr",
-    "lat": 37.53746,
-    "lng": 126.83454,
-    "geoApprox": true
+    "lat": 37.5661908750068,
+    "lng": 126.839184670321,
+    "geoApprox": false
   },
   {
     "id": 8,
@@ -135,9 +135,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/centerinpilatesyw",
-    "lat": 37.60434,
-    "lng": 127.10256,
-    "geoApprox": true
+    "lat": 37.6066433737247,
+    "lng": 127.106339503555,
+    "geoApprox": false
   },
   {
     "id": 9,
@@ -151,8 +151,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.spicus.com",
-    "lat": 37.5587734,
-    "lng": 126.9947209,
+    "lat": 37.5619106615735,
+    "lng": 126.995495084864,
     "geoApprox": false
   },
   {
@@ -167,8 +167,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/clalarnt",
-    "lat": 37.519375,
-    "lng": 127.0507702,
+    "lat": 37.5193752529313,
+    "lng": 127.050770229487,
     "geoApprox": false
   },
   {
@@ -183,9 +183,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.bnplab.org/",
-    "lat": 37.48706,
-    "lng": 127.04464,
-    "geoApprox": true
+    "lat": 37.4878312746356,
+    "lng": 127.01352253293,
+    "geoApprox": false
   },
   {
     "id": 12,
@@ -199,9 +199,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52008,
-    "lng": 126.86062,
-    "geoApprox": true
+    "lat": 37.5180156016829,
+    "lng": 126.845086473562,
+    "geoApprox": false
   },
   {
     "id": 13,
@@ -216,8 +216,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "dasdeutsch.com",
-    "lat": 37.4764639,
-    "lng": 126.8873368,
+    "lat": 37.4764394057239,
+    "lng": 126.887331650246,
     "geoApprox": false
   },
   {
@@ -232,8 +232,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.619612,
-    "lng": 126.9177484,
+    "lat": 37.6196145998156,
+    "lng": 126.91774666938,
     "geoApprox": false
   },
   {
@@ -250,8 +250,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.ssdc.or.kr",
-    "lat": 37.5592587,
-    "lng": 127.0360053,
+    "lat": 37.5593072327953,
+    "lng": 127.036006376334,
     "geoApprox": false
   },
   {
@@ -268,9 +268,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://hncacademy.com/",
-    "lat": 37.66036,
-    "lng": 127.04524,
-    "geoApprox": true
+    "lat": 37.6573064992277,
+    "lng": 127.061875723533,
+    "geoApprox": false
   },
   {
     "id": 17,
@@ -286,9 +286,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.dongsibok.or.kr/",
-    "lat": 37.58728,
-    "lng": 127.05252,
-    "geoApprox": true
+    "lat": 37.5831521688283,
+    "lng": 127.073193337342,
+    "geoApprox": false
   },
   {
     "id": 18,
@@ -305,9 +305,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.korhrd.co.kr/",
-    "lat": 37.68028,
-    "lng": 127.03792,
-    "geoApprox": true
+    "lat": 37.6626335319062,
+    "lng": 127.032714403529,
+    "geoApprox": false
   },
   {
     "id": 19,
@@ -321,9 +321,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.55836,
-    "lng": 127.05254,
-    "geoApprox": true
+    "lat": 37.5449131125173,
+    "lng": 127.051661118608,
+    "geoApprox": false
   },
   {
     "id": 20,
@@ -339,9 +339,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://lllcard.megahrd.co.kr/index.jsp",
-    "lat": 37.53064,
-    "lng": 127.06226,
-    "geoApprox": true
+    "lat": 37.5054927426087,
+    "lng": 127.053467711791,
+    "geoApprox": false
   },
   {
     "id": 21,
@@ -355,8 +355,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "wacampus.kr",
-    "lat": 37.526803,
-    "lng": 126.904262,
+    "lat": 37.5268034272278,
+    "lng": 126.904261652136,
     "geoApprox": false
   },
   {
@@ -372,8 +372,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://lifelongstudy.snue.ac.kr/",
-    "lat": 37.4899829,
-    "lng": 127.0165676,
+    "lat": 37.4907404857731,
+    "lng": 127.015424537648,
     "geoApprox": false
   },
   {
@@ -388,8 +388,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5125024,
-    "lng": 127.0211574,
+    "lat": 37.5125492510261,
+    "lng": 127.021184666372,
     "geoApprox": false
   },
   {
@@ -404,9 +404,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://map.naver.com/p/entry/place/1495989691",
-    "lat": 37.50918,
-    "lng": 127.10352,
-    "geoApprox": true
+    "lat": 37.4974357385,
+    "lng": 127.135434067417,
+    "geoApprox": false
   },
   {
     "id": 25,
@@ -420,9 +420,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.joongang-professional.com/",
-    "lat": 37.60546,
-    "lng": 127.10664,
-    "geoApprox": true
+    "lat": 37.5856997545219,
+    "lng": 127.08817890967,
+    "geoApprox": false
   },
   {
     "id": 26,
@@ -436,9 +436,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.46502,
-    "lng": 126.90808,
-    "geoApprox": true
+    "lat": 37.4706645019779,
+    "lng": 126.897662151152,
+    "geoApprox": false
   },
   {
     "id": 27,
@@ -452,8 +452,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.itbankcyber.com/",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -468,9 +468,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://map.naver.com/p/entry/place/1011471924",
-    "lat": 37.59426,
-    "lng": 127.09984,
-    "geoApprox": true
+    "lat": 37.6129774146228,
+    "lng": 127.076857313725,
+    "geoApprox": false
   },
   {
     "id": 29,
@@ -484,8 +484,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.laingang.co.kr/mobile/index.jsp",
-    "lat": 37.5528457,
-    "lng": 126.937547,
+    "lat": 37.552856414762,
+    "lng": 126.93754325996,
     "geoApprox": false
   },
   {
@@ -500,8 +500,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.5757214,
-    "lng": 126.8955387,
+    "lat": 37.5757572395919,
+    "lng": 126.895729992644,
     "geoApprox": false
   },
   {
@@ -516,8 +516,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://cleaning-business.co.kr/",
-    "lat": 37.5736169,
-    "lng": 127.0459784,
+    "lat": 37.573327863786,
+    "lng": 127.046204557882,
     "geoApprox": false
   },
   {
@@ -533,9 +533,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://sinmyung.ijesus.net",
-    "lat": 37.51758,
-    "lng": 127.10012,
-    "geoApprox": true
+    "lat": 37.4912086029096,
+    "lng": 127.157466024105,
+    "geoApprox": false
   },
   {
     "id": 33,
@@ -554,9 +554,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://seongdongedu.or.kr",
-    "lat": 37.56564,
-    "lng": 127.04506,
-    "geoApprox": true
+    "lat": 37.5477253682213,
+    "lng": 127.058309157408,
+    "geoApprox": false
   },
   {
     "id": 34,
@@ -570,9 +570,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.yeshanc.com",
-    "lat": 37.58358,
-    "lng": 126.98172,
-    "geoApprox": true
+    "lat": 37.5709332289676,
+    "lng": 126.972317273193,
+    "geoApprox": false
   },
   {
     "id": 35,
@@ -586,8 +586,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "baeoomup.co.kr",
-    "lat": 37.4785081,
-    "lng": 126.8834936,
+    "lat": 37.4783982078704,
+    "lng": 126.883347746349,
     "geoApprox": false
   },
   {
@@ -604,9 +604,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://sedulife.kcu.ac/",
-    "lat": 37.57574,
-    "lng": 126.98716,
-    "geoApprox": true
+    "lat": 37.574475499893,
+    "lng": 126.988775780571,
+    "geoApprox": false
   },
   {
     "id": 37,
@@ -623,9 +623,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.openlife.or.kr",
-    "lat": 37.59822,
-    "lng": 126.91278,
-    "geoApprox": true
+    "lat": 37.60561275596,
+    "lng": 126.906342824539,
+    "geoApprox": false
   },
   {
     "id": 38,
@@ -640,9 +640,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.ysrehab.or.kr/",
-    "lat": 37.54248,
-    "lng": 126.99272,
-    "geoApprox": true
+    "lat": 37.5473070682919,
+    "lng": 126.961569036761,
+    "geoApprox": false
   },
   {
     "id": 39,
@@ -656,8 +656,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.ecce.kr/",
-    "lat": 37.4803447,
-    "lng": 126.8841738,
+    "lat": 37.4803938924495,
+    "lng": 126.884121140151,
     "geoApprox": false
   },
   {
@@ -672,8 +672,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.baeron.com/",
-    "lat": 37.5571085,
-    "lng": 126.8641934,
+    "lat": 37.5571161918617,
+    "lng": 126.864347419732,
     "geoApprox": false
   },
   {
@@ -690,9 +690,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "creatoredu.net",
-    "lat": 37.50432,
-    "lng": 127.03438,
-    "geoApprox": true
+    "lat": 37.4978110517901,
+    "lng": 127.037521701125,
+    "geoApprox": false
   },
   {
     "id": 42,
@@ -708,8 +708,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://gangbuk.seoulwomanup.or.kr/gangbuk/main/main.do",
-    "lat": 37.6316893,
-    "lng": 127.0236006,
+    "lat": 37.6316925338476,
+    "lng": 127.02346745196,
     "geoApprox": false
   },
   {
@@ -724,9 +724,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hackers.com/voucher.html",
-    "lat": 37.48594,
-    "lng": 127.04056,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 44,
@@ -744,9 +744,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "",
-    "lat": 37.52708,
-    "lng": 126.86912,
-    "geoApprox": true
+    "lat": 37.537355448158,
+    "lng": 126.828491080363,
+    "geoApprox": false
   },
   {
     "id": 45,
@@ -760,9 +760,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52444,
-    "lng": 126.90606,
-    "geoApprox": true
+    "lat": 37.5375149140907,
+    "lng": 126.895068633861,
+    "geoApprox": false
   },
   {
     "id": 46,
@@ -776,8 +776,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4846935,
-    "lng": 126.9704327,
+    "lat": 37.4846936417148,
+    "lng": 126.970395108209,
     "geoApprox": false
   },
   {
@@ -794,9 +794,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "lll.gangdong.go.kr",
-    "lat": 37.53486,
-    "lng": 127.12404,
-    "geoApprox": true
+    "lat": 37.5510230174179,
+    "lng": 127.142909546851,
+    "geoApprox": false
   },
   {
     "id": 48,
@@ -810,9 +810,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.eckedu.com",
-    "lat": 37.5607,
-    "lng": 126.9155,
-    "geoApprox": true
+    "lat": 37.5490570889685,
+    "lng": 126.933747186072,
+    "geoApprox": false
   },
   {
     "id": 49,
@@ -827,9 +827,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.caihong.co.kr/",
-    "lat": 37.4826,
-    "lng": 126.9499,
-    "geoApprox": true
+    "lat": 37.491042929326,
+    "lng": 126.925536443215,
+    "geoApprox": false
   },
   {
     "id": 50,
@@ -845,9 +845,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "dongdaemunedu.or.kr",
-    "lat": 37.5632,
-    "lng": 127.0328,
-    "geoApprox": true
+    "lat": 37.5718134590301,
+    "lng": 127.034047390232,
+    "geoApprox": false
   },
   {
     "id": 51,
@@ -861,9 +861,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.instagram.com/jandapilates_anam/",
-    "lat": 37.5866,
-    "lng": 127.0065,
-    "geoApprox": true
+    "lat": 37.5829364347074,
+    "lng": 127.028897891511,
+    "geoApprox": false
   },
   {
     "id": 52,
@@ -877,8 +877,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.aplus.ac",
-    "lat": 37.5040883,
-    "lng": 127.1270315,
+    "lat": 37.5040882757342,
+    "lng": 127.12703153658,
     "geoApprox": false
   },
   {
@@ -893,8 +893,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.bhhanc.com",
-    "lat": 37.55001,
-    "lng": 126.8677882,
+    "lat": 37.5499997651807,
+    "lng": 126.867771904541,
     "geoApprox": false
   },
   {
@@ -909,9 +909,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.willbeslife.net",
-    "lat": 37.54382,
-    "lng": 127.12268,
-    "geoApprox": true
+    "lat": 37.5324894124197,
+    "lng": 127.122946851641,
+    "geoApprox": false
   },
   {
     "id": 55,
@@ -925,9 +925,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.22s.kr",
-    "lat": 37.4611,
-    "lng": 126.8938,
-    "geoApprox": true
+    "lat": 37.4789221483284,
+    "lng": 126.886029001849,
+    "geoApprox": false
   },
   {
     "id": 56,
@@ -941,8 +941,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.537418,
-    "lng": 127.0787587,
+    "lat": 37.5374179594352,
+    "lng": 127.078758734579,
     "geoApprox": false
   },
   {
@@ -957,8 +957,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "emecca.cau.ac.kr",
-    "lat": 37.5062859,
-    "lng": 126.957433,
+    "lat": 37.505978609789,
+    "lng": 126.95801778606415,
     "geoApprox": false
   },
   {
@@ -973,8 +973,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://voicecode.modoo.at/",
-    "lat": 37.5562153,
-    "lng": 127.0759494,
+    "lat": 37.5568732150225,
+    "lng": 127.076442245622,
     "geoApprox": false
   },
   {
@@ -989,8 +989,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://sinchon.sbsart.com/",
-    "lat": 37.5572221,
-    "lng": 126.9249712,
+    "lat": 37.5572467836494,
+    "lng": 126.924986220455,
     "geoApprox": false
   },
   {
@@ -1005,9 +1005,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.hakjisaedu.com",
-    "lat": 37.5579,
-    "lng": 126.9053,
-    "geoApprox": true
+    "lat": 37.5583087841391,
+    "lng": 126.91924240821,
+    "geoApprox": false
   },
   {
     "id": 61,
@@ -1021,8 +1021,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5567956,
-    "lng": 126.9348107,
+    "lat": 37.5568187720377,
+    "lng": 126.934784471189,
     "geoApprox": false
   },
   {
@@ -1037,8 +1037,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://coffeemonthly.creatorlink.net/",
-    "lat": 37.5477884,
-    "lng": 126.9715227,
+    "lat": 37.5476709088343,
+    "lng": 126.971482484737,
     "geoApprox": false
   },
   {
@@ -1053,8 +1053,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/pilates_bada",
-    "lat": 37.4485018,
-    "lng": 126.9037066,
+    "lat": 37.4485045972422,
+    "lng": 126.90370605363,
     "geoApprox": false
   },
   {
@@ -1070,9 +1070,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51002,
-    "lng": 127.08958,
-    "geoApprox": true
+    "lat": 37.4938424154689,
+    "lng": 127.12047915947,
+    "geoApprox": false
   },
   {
     "id": 65,
@@ -1086,9 +1086,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.50414,
-    "lng": 127.11916,
-    "geoApprox": true
+    "lat": 37.5106111999707,
+    "lng": 127.085567679947,
+    "geoApprox": false
   },
   {
     "id": 66,
@@ -1102,8 +1102,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5617573,
-    "lng": 126.9854028,
+    "lat": 37.5620183933917,
+    "lng": 126.988461528714,
     "geoApprox": false
   },
   {
@@ -1118,8 +1118,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://dreampilates.modoo.at/",
-    "lat": 37.5196466,
-    "lng": 126.8890691,
+    "lat": 37.5196525574619,
+    "lng": 126.889049579249,
     "geoApprox": false
   },
   {
@@ -1134,9 +1134,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.unisense.co.kr",
-    "lat": 37.51576,
-    "lng": 126.89144,
-    "geoApprox": true
+    "lat": 37.5242204723625,
+    "lng": 126.896610612932,
+    "geoApprox": false
   },
   {
     "id": 69,
@@ -1150,8 +1150,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.hmstudy.com",
-    "lat": 37.4701806,
-    "lng": 126.9371918,
+    "lat": 37.4701769281614,
+    "lng": 126.937193398048,
     "geoApprox": false
   },
   {
@@ -1166,8 +1166,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5578214,
-    "lng": 126.9433329,
+    "lat": 37.5578078536787,
+    "lng": 126.943269500894,
     "geoApprox": false
   },
   {
@@ -1182,8 +1182,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.5389966,
-    "lng": 127.0674893,
+    "lat": 37.5389966421946,
+    "lng": 127.067489336786,
     "geoApprox": false
   },
   {
@@ -1198,8 +1198,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.scce.kr/",
-    "lat": 37.4803447,
-    "lng": 126.8841738,
+    "lat": 37.4803938036867,
+    "lng": 126.884122497008,
     "geoApprox": false
   },
   {
@@ -1214,9 +1214,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/lookspilates73",
-    "lat": 37.49764,
-    "lng": 126.89556,
-    "geoApprox": true
+    "lat": 37.4941011501142,
+    "lng": 126.887150090464,
+    "geoApprox": false
   },
   {
     "id": 74,
@@ -1230,9 +1230,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://ep.seoulwomanup.or.kr/",
-    "lat": 37.60074,
-    "lng": 126.93896,
-    "geoApprox": true
+    "lat": 37.607086524279,
+    "lng": 126.932342507215,
+    "geoApprox": false
   },
   {
     "id": 75,
@@ -1246,8 +1246,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "krartcom.co.kr",
-    "lat": 37.4939668,
-    "lng": 127.1420721,
+    "lat": 37.4939642960015,
+    "lng": 127.142070821807,
     "geoApprox": false
   },
   {
@@ -1262,9 +1262,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.4854,
-    "lng": 126.9601,
-    "geoApprox": true
+    "lat": 37.4847692003801,
+    "lng": 126.930088627422,
+    "geoApprox": false
   },
   {
     "id": 77,
@@ -1278,8 +1278,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://cheonho.wcomputerart.com/",
-    "lat": 37.5407348,
-    "lng": 127.1247155,
+    "lat": 37.540555377209,
+    "lng": 127.124975762766,
     "geoApprox": false
   },
   {
@@ -1295,8 +1295,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5461269,
-    "lng": 126.8716982,
+    "lat": 37.5461435933542,
+    "lng": 126.871701493477,
     "geoApprox": false
   },
   {
@@ -1311,8 +1311,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.ybmedu.com/sinchon",
-    "lat": 37.5559449,
-    "lng": 126.9385179,
+    "lat": 37.5559736844642,
+    "lng": 126.938569863979,
     "geoApprox": false
   },
   {
@@ -1328,8 +1328,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://happy01.co.kr/",
-    "lat": 37.511004,
-    "lng": 127.019236,
+    "lat": 37.5110016602574,
+    "lng": 127.019228509389,
     "geoApprox": false
   },
   {
@@ -1348,9 +1348,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://jgewc.or.kr/",
-    "lat": 37.55626,
-    "lng": 127.00334,
-    "geoApprox": true
+    "lat": 37.559430257461,
+    "lng": 126.966259528781,
+    "geoApprox": false
   },
   {
     "id": 82,
@@ -1364,9 +1364,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/coffee_inbarista",
-    "lat": 37.55986,
-    "lng": 126.84814,
-    "geoApprox": true
+    "lat": 37.5406136121104,
+    "lng": 126.840825542309,
+    "geoApprox": false
   },
   {
     "id": 83,
@@ -1380,9 +1380,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hackers.com/voucher.html",
-    "lat": 37.49518,
-    "lng": 127.02322,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 84,
@@ -1396,9 +1396,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "착한실용음악학원.kr",
-    "lat": 37.59958,
-    "lng": 127.10222,
-    "geoApprox": true
+    "lat": 37.6129774146228,
+    "lng": 127.076857313725,
+    "geoApprox": false
   },
   {
     "id": 85,
@@ -1412,8 +1412,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5125024,
-    "lng": 127.0211574,
+    "lat": 37.5125492510261,
+    "lng": 127.021184666372,
     "geoApprox": false
   },
   {
@@ -1428,9 +1428,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51408,
-    "lng": 126.94542,
-    "geoApprox": true
+    "lat": 37.4841740773502,
+    "lng": 126.979550473951,
+    "geoApprox": false
   },
   {
     "id": 87,
@@ -1444,8 +1444,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.ibstudy.co.kr",
-    "lat": 37.5557189,
-    "lng": 126.939907,
+    "lat": 37.5557422183902,
+    "lng": 126.93997159818,
     "geoApprox": false
   },
   {
@@ -1460,9 +1460,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.icrpw.com/main/index.jsp",
-    "lat": 37.46754,
-    "lng": 126.90026,
-    "geoApprox": true
+    "lat": 37.4787416385486,
+    "lng": 126.881862654269,
+    "geoApprox": false
   },
   {
     "id": 89,
@@ -1476,8 +1476,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/majorpilates",
-    "lat": 37.4801392,
-    "lng": 126.9029167,
+    "lat": 37.4842802459038,
+    "lng": 126.927877966284,
     "geoApprox": false
   },
   {
@@ -1492,8 +1492,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.hanmicomputer.com",
-    "lat": 37.5744747,
-    "lng": 127.0198039,
+    "lat": 37.5745510412021,
+    "lng": 127.019838583294,
     "geoApprox": false
   },
   {
@@ -1510,9 +1510,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.gwangjin.go.kr/edu/main/main.do",
-    "lat": 37.52898,
-    "lng": 127.08162,
-    "geoApprox": true
+    "lat": 37.5352984127979,
+    "lng": 127.080412690888,
+    "geoApprox": false
   },
   {
     "id": 92,
@@ -1526,8 +1526,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5616833,
-    "lng": 126.9869747,
+    "lat": 37.561676746103,
+    "lng": 126.986840464439,
     "geoApprox": false
   },
   {
@@ -1542,8 +1542,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.uni-edu.co.kr/",
-    "lat": 37.5195995,
-    "lng": 127.0190719,
+    "lat": 37.4875260729748,
+    "lng": 127.031942504736,
     "geoApprox": false
   },
   {
@@ -1558,9 +1558,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.gseekcampus.com/",
-    "lat": 37.56994,
-    "lng": 126.89816,
-    "geoApprox": true
+    "lat": 37.5583087841391,
+    "lng": 126.91924240821,
+    "geoApprox": false
   },
   {
     "id": 95,
@@ -1574,8 +1574,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://pilateskeming.com/",
-    "lat": 37.4693715,
-    "lng": 126.8970542,
+    "lat": 37.4693591753013,
+    "lng": 126.897001948519,
     "geoApprox": false
   },
   {
@@ -1590,9 +1590,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.gs-hscook.com/main/index.do",
-    "lat": 37.54306,
-    "lng": 126.85494,
-    "geoApprox": true
+    "lat": 37.5589663547183,
+    "lng": 126.837818288246,
+    "geoApprox": false
   },
   {
     "id": 97,
@@ -1606,8 +1606,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://jaeedu.com/",
-    "lat": 37.5744747,
-    "lng": 127.0198039,
+    "lat": 37.5745510412021,
+    "lng": 127.019838583294,
     "geoApprox": false
   },
   {
@@ -1625,8 +1625,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.learningfactory.co.kr",
-    "lat": 37.488607,
-    "lng": 127.017102,
+    "lat": 37.4886072092124,
+    "lng": 127.017102207134,
     "geoApprox": false
   },
   {
@@ -1641,9 +1641,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "learninvest.co.kr",
-    "lat": 37.56662,
-    "lng": 126.99008,
-    "geoApprox": true
+    "lat": 37.5634061843625,
+    "lng": 126.978656063809,
+    "geoApprox": false
   },
   {
     "id": 100,
@@ -1661,9 +1661,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.yangcheonedu.or.kr/",
-    "lat": 37.52204,
-    "lng": 126.85076,
-    "geoApprox": true
+    "lat": 37.5128194279739,
+    "lng": 126.855685447508,
+    "geoApprox": false
   },
   {
     "id": 101,
@@ -1677,9 +1677,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://edu.sdfac.or.kr/www/index.do",
-    "lat": 37.56844,
-    "lng": 127.02126,
-    "geoApprox": true
+    "lat": 37.5591798757923,
+    "lng": 127.034960654281,
+    "geoApprox": false
   },
   {
     "id": 102,
@@ -1694,8 +1694,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://cnemabeauty-cheonho.webflow.io/",
-    "lat": 37.535247,
-    "lng": 127.132662,
+    "lat": 37.5352477607977,
+    "lng": 127.132663780085,
     "geoApprox": false
   },
   {
@@ -1713,9 +1713,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.ingang7.co.kr",
-    "lat": 37.51688,
-    "lng": 126.95562,
-    "geoApprox": true
+    "lat": 37.4873124202466,
+    "lng": 126.910744536966,
+    "geoApprox": false
   },
   {
     "id": 104,
@@ -1729,9 +1729,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.ybmcc.com/v2/index.asp",
-    "lat": 37.58638,
-    "lng": 126.99192,
-    "geoApprox": true
+    "lat": 37.5698794886241,
+    "lng": 126.988409831075,
+    "geoApprox": false
   },
   {
     "id": 105,
@@ -1747,9 +1747,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "",
-    "lat": 37.58274,
-    "lng": 126.93306,
-    "geoApprox": true
+    "lat": 37.5783573708367,
+    "lng": 126.928306720891,
+    "geoApprox": false
   },
   {
     "id": 106,
@@ -1764,9 +1764,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.goodwoori.or.kr/",
-    "lat": 37.5887,
-    "lng": 126.9121,
-    "geoApprox": true
+    "lat": 37.6047406023648,
+    "lng": 126.926588916944,
+    "geoApprox": false
   },
   {
     "id": 107,
@@ -1781,9 +1781,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://jagyuk.step.or.kr",
-    "lat": 37.51576,
-    "lng": 126.95154,
-    "geoApprox": true
+    "lat": 37.5118158725856,
+    "lng": 126.925372051544,
+    "geoApprox": false
   },
   {
     "id": 108,
@@ -1797,9 +1797,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kdedu.co.kr/main/index.jsp",
-    "lat": 37.5397,
-    "lng": 126.8427,
-    "geoApprox": true
+    "lat": 37.5491007391066,
+    "lng": 126.862555289037,
+    "geoApprox": false
   },
   {
     "id": 109,
@@ -1813,9 +1813,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.bompilates.com",
-    "lat": 37.51772,
-    "lng": 126.94168,
-    "geoApprox": true
+    "lat": 37.5076635727862,
+    "lng": 126.963127205926,
+    "geoApprox": false
   },
   {
     "id": 110,
@@ -1829,9 +1829,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "slccampus.co.kr",
-    "lat": 37.5599,
-    "lng": 126.9996,
-    "geoApprox": true
+    "lat": 37.5542282696951,
+    "lng": 127.012535442877,
+    "geoApprox": false
   },
   {
     "id": 111,
@@ -1846,9 +1846,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.global-care.co.kr",
-    "lat": 37.49932,
-    "lng": 126.90168,
-    "geoApprox": true
+    "lat": 37.492634022828,
+    "lng": 126.89126202138,
+    "geoApprox": false
   },
   {
     "id": 112,
@@ -1866,8 +1866,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "turningcampus.com",
-    "lat": 37.4742435,
-    "lng": 126.8810955,
+    "lat": 37.4742216639032,
+    "lng": 126.881082370861,
     "geoApprox": false
   },
   {
@@ -1882,9 +1882,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "blog.naver.com/secret2406",
-    "lat": 37.5669,
-    "lng": 127.0081,
-    "geoApprox": true
+    "lat": 37.5624534171762,
+    "lng": 127.000377468493,
+    "geoApprox": false
   },
   {
     "id": 114,
@@ -1898,8 +1898,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://engall.net/",
-    "lat": 37.5687923,
-    "lng": 126.9788197,
+    "lat": 37.5674727196383,
+    "lng": 126.98811318937,
     "geoApprox": false
   },
   {
@@ -1914,9 +1914,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://philipenglish.co.kr",
-    "lat": 37.56564,
-    "lng": 127.04506,
-    "geoApprox": true
+    "lat": 37.5564064658861,
+    "lng": 127.043024874034,
+    "geoApprox": false
   },
   {
     "id": 116,
@@ -1930,8 +1930,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "http://edu.hstudy.co.kr/",
-    "lat": 37.526803,
-    "lng": 126.904262,
+    "lat": 37.5268034272278,
+    "lng": 126.904261652136,
     "geoApprox": false
   },
   {
@@ -1946,9 +1946,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "solviolin.com",
-    "lat": 37.53704,
-    "lng": 126.90096,
-    "geoApprox": true
+    "lat": 37.5207908297398,
+    "lng": 126.926911965929,
+    "geoApprox": false
   },
   {
     "id": 118,
@@ -1964,8 +1964,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.489007,
-    "lng": 126.9923344,
+    "lat": 37.4890076091191,
+    "lng": 126.992242397414,
     "geoApprox": false
   },
   {
@@ -1981,9 +1981,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://sappa.co.kr",
-    "lat": 37.49014,
-    "lng": 127.03886,
-    "geoApprox": true
+    "lat": 37.4920399796118,
+    "lng": 127.014950670419,
+    "geoApprox": false
   },
   {
     "id": 120,
@@ -1999,8 +1999,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://theartschool.co.kr/",
-    "lat": 37.491876,
-    "lng": 127.00882,
+    "lat": 37.4918755318064,
+    "lng": 127.008820261085,
     "geoApprox": false
   },
   {
@@ -2019,9 +2019,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://nowonedu.or.kr/",
-    "lat": 37.65896,
-    "lng": 127.05714,
-    "geoApprox": true
+    "lat": 37.6828776276766,
+    "lng": 127.061077430321,
+    "geoApprox": false
   },
   {
     "id": 122,
@@ -2035,8 +2035,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "mbcpetacademy.com",
-    "lat": 37.6363559,
-    "lng": 127.0206526,
+    "lat": 37.6361531018563,
+    "lng": 127.020751118654,
     "geoApprox": false
   },
   {
@@ -2051,8 +2051,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/in_muu_sinchon",
-    "lat": 37.5558782,
-    "lng": 126.9381488,
+    "lat": 37.5558952575957,
+    "lng": 126.93814790244,
     "geoApprox": false
   },
   {
@@ -2067,9 +2067,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.47306,
-    "lng": 127.02764,
-    "geoApprox": true
+    "lat": 37.4952775719854,
+    "lng": 127.027859909106,
+    "geoApprox": false
   },
   {
     "id": 125,
@@ -2083,9 +2083,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.55538,
-    "lng": 126.91312,
-    "geoApprox": true
+    "lat": 37.5578315233016,
+    "lng": 126.928458355524,
+    "geoApprox": false
   },
   {
     "id": 126,
@@ -2099,9 +2099,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://yoursteven.com/",
-    "lat": 37.60574,
-    "lng": 127.09066,
-    "geoApprox": true
+    "lat": 37.5864359367373,
+    "lng": 127.09437858522,
+    "geoApprox": false
   },
   {
     "id": 127,
@@ -2115,8 +2115,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/youngspilates1",
-    "lat": 37.5587975,
-    "lng": 126.9676917,
+    "lat": 37.5587918787397,
+    "lng": 126.967138760189,
     "geoApprox": false
   },
   {
@@ -2132,8 +2132,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/giogio_",
-    "lat": 37.5553375,
-    "lng": 126.93298,
+    "lat": 37.5553170709668,
+    "lng": 126.932998775948,
     "geoApprox": false
   },
   {
@@ -2148,8 +2148,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hackers.ac/",
-    "lat": 37.4982951,
-    "lng": 127.0243614,
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
     "geoApprox": false
   },
   {
@@ -2164,8 +2164,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5921665,
-    "lng": 127.0154942,
+    "lat": 37.5921675534937,
+    "lng": 127.01549221016,
     "geoApprox": false
   },
   {
@@ -2184,8 +2184,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.kosas.org",
-    "lat": 37.5416468,
-    "lng": 127.0841547,
+    "lat": 37.5416475797474,
+    "lng": 127.084162253461,
     "geoApprox": false
   },
   {
@@ -2202,9 +2202,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.ducsi.ac.kr/Ducsi/ducsi_new/index.jsp",
-    "lat": 37.5711,
-    "lng": 127.0064,
-    "geoApprox": true
+    "lat": 37.5601247898333,
+    "lng": 127.000659502386,
+    "geoApprox": false
   },
   {
     "id": 133,
@@ -2219,8 +2219,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://dunand-acdemy.my.canva.site/",
-    "lat": 37.5614484,
-    "lng": 127.0054564,
+    "lat": 37.5618858207911,
+    "lng": 127.005937924834,
     "geoApprox": false
   },
   {
@@ -2235,8 +2235,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.snjob.or.kr/default/",
-    "lat": 37.4956308,
-    "lng": 126.8418379,
+    "lat": 37.4956124499427,
+    "lng": 126.841791274363,
     "geoApprox": false
   },
   {
@@ -2251,9 +2251,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51632,
-    "lng": 126.89348,
-    "geoApprox": true
+    "lat": 37.5349707819308,
+    "lng": 126.90147458542,
+    "geoApprox": false
   },
   {
     "id": 136,
@@ -2267,9 +2267,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/bodyin8925",
-    "lat": 37.56958,
-    "lng": 126.93612,
-    "geoApprox": true
+    "lat": 37.5788417081699,
+    "lng": 126.910800451007,
+    "geoApprox": false
   },
   {
     "id": 137,
@@ -2283,8 +2283,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.haksa2080.com/",
-    "lat": 37.4985696,
-    "lng": 127.0257413,
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
     "geoApprox": false
   },
   {
@@ -2299,9 +2299,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://with-piano.com/",
-    "lat": 37.49016,
-    "lng": 126.96044,
-    "geoApprox": true
+    "lat": 37.4819176267219,
+    "lng": 126.929378426304,
+    "geoApprox": false
   },
   {
     "id": 139,
@@ -2316,9 +2316,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://ydp.atelierkorea.com/",
-    "lat": 37.51436,
-    "lng": 126.90334,
-    "geoApprox": true
+    "lat": 37.5204542773544,
+    "lng": 126.90519531649,
+    "geoApprox": false
   },
   {
     "id": 140,
@@ -2332,8 +2332,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.gmnurse.kr",
-    "lat": 37.5952888,
-    "lng": 127.0824184,
+    "lat": 37.5952768871308,
+    "lng": 127.08239038348,
     "geoApprox": false
   },
   {
@@ -2349,8 +2349,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://eonhwa.co.kr/",
-    "lat": 37.5202218,
-    "lng": 127.0201815,
+    "lat": 37.5202218327812,
+    "lng": 127.020181536774,
     "geoApprox": false
   },
   {
@@ -2365,8 +2365,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5584193,
-    "lng": 127.0754112,
+    "lat": 37.5584318575875,
+    "lng": 127.075308664069,
     "geoApprox": false
   },
   {
@@ -2381,9 +2381,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5774285,
-    "lng": 126.813028,
-    "geoApprox": false
+    "lat": 37.5523,
+    "lng": 126.8376,
+    "geoApprox": true
   },
   {
     "id": 144,
@@ -2398,8 +2398,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://mokdong.spworks.co.kr/SUA1/main.asp",
-    "lat": 37.525211,
-    "lng": 126.875367,
+    "lat": 37.5252109797259,
+    "lng": 126.875367274981,
     "geoApprox": false
   },
   {
@@ -2414,9 +2414,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.64828,
-    "lng": 127.04032,
-    "geoApprox": true
+    "lat": 37.6272587232257,
+    "lng": 127.025480101226,
+    "geoApprox": false
   },
   {
     "id": 146,
@@ -2430,8 +2430,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5324073,
-    "lng": 126.8683621,
+    "lat": 37.5324416397205,
+    "lng": 126.868422907741,
     "geoApprox": false
   },
   {
@@ -2448,9 +2448,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.omni.or.kr/",
-    "lat": 37.56424,
-    "lng": 127.02296,
-    "geoApprox": true
+    "lat": 37.5701624045195,
+    "lng": 127.033348674483,
+    "geoApprox": false
   },
   {
     "id": 148,
@@ -2464,9 +2464,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://national.goodedu.net/",
-    "lat": 37.50912,
-    "lng": 126.88638,
-    "geoApprox": true
+    "lat": 37.4821079378772,
+    "lng": 126.895281502292,
+    "geoApprox": false
   },
   {
     "id": 149,
@@ -2480,8 +2480,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.wowpass.com/",
-    "lat": 37.485473,
-    "lng": 126.898223,
+    "lat": 37.485472620638,
+    "lng": 126.898223123534,
     "geoApprox": false
   },
   {
@@ -2496,9 +2496,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.songpa.go.kr/learn/youth/program/lecture_list.do?searchKind4=9997",
-    "lat": 37.50974,
-    "lng": 127.10556,
-    "geoApprox": true
+    "lat": 37.4999101173808,
+    "lng": 127.145627777884,
+    "geoApprox": false
   },
   {
     "id": 151,
@@ -2512,9 +2512,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.51364,
-    "lng": 126.85416,
-    "geoApprox": true
+    "lat": 37.5279188302263,
+    "lng": 126.864391372696,
+    "geoApprox": false
   },
   {
     "id": 152,
@@ -2528,9 +2528,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.daum.net/Yulbang",
-    "lat": 37.5637,
-    "lng": 126.9943,
-    "geoApprox": true
+    "lat": 37.5767289811454,
+    "lng": 126.989810707172,
+    "geoApprox": false
   },
   {
     "id": 153,
@@ -2544,8 +2544,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://db.eduwill.net/sites/home",
-    "lat": 37.512953,
-    "lng": 126.9289275,
+    "lat": 37.5129529701191,
+    "lng": 126.928927523118,
     "geoApprox": false
   },
   {
@@ -2560,8 +2560,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hrdit.greenart.co.kr/",
-    "lat": 37.5001716,
-    "lng": 127.0290709,
+    "lat": 37.5001716373021,
+    "lng": 127.029070884291,
     "geoApprox": false
   },
   {
@@ -2576,9 +2576,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.epilates.co.kr",
-    "lat": 37.52262,
-    "lng": 127.11848,
-    "geoApprox": true
+    "lat": 37.5272034267773,
+    "lng": 127.118263618849,
+    "geoApprox": false
   },
   {
     "id": 156,
@@ -2592,9 +2592,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.dbad.co.kr",
-    "lat": 37.52136,
-    "lng": 126.91184,
-    "geoApprox": true
+    "lat": 37.5176613772619,
+    "lng": 126.911022752191,
+    "geoApprox": false
   },
   {
     "id": 157,
@@ -2610,8 +2610,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.ra-edu.net/main/login.jsp",
-    "lat": 37.478169,
-    "lng": 126.8816,
+    "lat": 37.4781692344362,
+    "lng": 126.881599455022,
     "geoApprox": false
   },
   {
@@ -2626,9 +2626,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52528,
-    "lng": 126.89212,
-    "geoApprox": true
+    "lat": 37.5264931861603,
+    "lng": 126.897260686477,
+    "geoApprox": false
   },
   {
     "id": 159,
@@ -2643,9 +2643,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "ylabac.kr",
-    "lat": 37.57078,
-    "lng": 126.91822,
-    "geoApprox": true
+    "lat": 37.55212083100826,
+    "lng": 126.91859689660645,
+    "geoApprox": false
   },
   {
     "id": 160,
@@ -2659,9 +2659,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.pqi.kr",
-    "lat": 37.55164,
-    "lng": 127.02806,
-    "geoApprox": true
+    "lat": 37.5407344358936,
+    "lng": 127.059551203681,
+    "geoApprox": false
   },
   {
     "id": 161,
@@ -2675,8 +2675,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://pass.sdulife.com/",
-    "lat": 37.5430664,
-    "lng": 126.9476356,
+    "lat": 37.5429651275759,
+    "lng": 126.947873237042,
     "geoApprox": false
   },
   {
@@ -2691,8 +2691,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://naver.me/GNWkA78p",
-    "lat": 37.5085058,
-    "lng": 127.022124,
+    "lat": 37.5086091733698,
+    "lng": 127.022086677152,
     "geoApprox": false
   },
   {
@@ -2707,9 +2707,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.45522,
-    "lng": 126.88938,
-    "geoApprox": true
+    "lat": 37.4762292326406,
+    "lng": 126.892888670055,
+    "geoApprox": false
   },
   {
     "id": 164,
@@ -2723,8 +2723,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gangbuk.allthat-beauty.com/",
-    "lat": 37.5589867,
-    "lng": 126.9451787,
+    "lat": 37.5589881516307,
+    "lng": 126.945159029873,
     "geoApprox": false
   },
   {
@@ -2742,9 +2742,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "gnsedu.kr",
-    "lat": 37.5172,
-    "lng": 127.0473,
-    "geoApprox": true
+    "lat": 37.4869703890357,
+    "lng": 127.10695276213,
+    "geoApprox": false
   },
   {
     "id": 166,
@@ -2758,8 +2758,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://artafterwork.kr/",
-    "lat": 37.4760943,
-    "lng": 126.9646188,
+    "lat": 37.4760911961869,
+    "lng": 126.964603827591,
     "geoApprox": false
   },
   {
@@ -2774,8 +2774,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4863758,
-    "lng": 127.1238237,
+    "lat": 37.4863680003765,
+    "lng": 127.123810718767,
     "geoApprox": false
   },
   {
@@ -2790,8 +2790,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.531107,
-    "lng": 126.8466977,
+    "lat": 37.5311063652026,
+    "lng": 126.846691735763,
     "geoApprox": false
   },
   {
@@ -2806,9 +2806,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/pilatesfindme",
-    "lat": 37.5075,
-    "lng": 127.0974,
-    "geoApprox": true
+    "lat": 37.4768338451182,
+    "lng": 127.127496170789,
+    "geoApprox": false
   },
   {
     "id": 170,
@@ -2823,9 +2823,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.gasong.kr",
-    "lat": 37.66652,
-    "lng": 127.06768,
-    "geoApprox": true
+    "lat": 37.6360095543051,
+    "lng": 127.073411245747,
+    "geoApprox": false
   },
   {
     "id": 171,
@@ -2843,8 +2843,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.kwoman.or.kr/",
-    "lat": 37.4796647,
-    "lng": 126.944935,
+    "lat": 37.4796636465434,
+    "lng": 126.94493248435,
     "geoApprox": false
   },
   {
@@ -2859,8 +2859,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.kvd.co.kr",
-    "lat": 37.5509016,
-    "lng": 126.9718472,
+    "lat": 37.55095846444,
+    "lng": 126.971824805901,
     "geoApprox": false
   },
   {
@@ -2875,8 +2875,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "kn.pulip.kr",
-    "lat": 37.5057809,
-    "lng": 127.0281405,
+    "lat": 37.5059164529797,
+    "lng": 127.028313428889,
     "geoApprox": false
   },
   {
@@ -2891,8 +2891,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5207616,
-    "lng": 126.9291366,
+    "lat": 37.5207615513454,
+    "lng": 126.929136630611,
     "geoApprox": false
   },
   {
@@ -2907,9 +2907,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.jr-hscook.com/main/index.do",
-    "lat": 37.58694,
-    "lng": 126.99396,
-    "geoApprox": true
+    "lat": 37.5699036176606,
+    "lng": 126.987359941594,
+    "geoApprox": false
   },
   {
     "id": 176,
@@ -2923,8 +2923,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.aedu.kr",
-    "lat": 37.4860257,
-    "lng": 127.0210543,
+    "lat": 37.4860261857246,
+    "lng": 127.020988802524,
     "geoApprox": false
   },
   {
@@ -2957,9 +2957,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.eduinto.com",
-    "lat": 37.51756,
-    "lng": 126.86844,
-    "geoApprox": true
+    "lat": 37.5226612959889,
+    "lng": 126.863991154929,
+    "geoApprox": false
   },
   {
     "id": 179,
@@ -2973,8 +2973,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6386648,
-    "lng": 126.9191072,
+    "lat": 37.6386515578411,
+    "lng": 126.919081540985,
     "geoApprox": false
   },
   {
@@ -2990,9 +2990,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/johnsonher",
-    "lat": 37.59066,
-    "lng": 126.93624,
-    "geoApprox": true
+    "lat": 37.6205126665641,
+    "lng": 126.915651282823,
+    "geoApprox": false
   },
   {
     "id": 181,
@@ -3006,8 +3006,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://onyxcoffeeacademy.com/",
-    "lat": 37.5628795,
-    "lng": 126.8237679,
+    "lat": 37.5626706927393,
+    "lng": 126.823605646871,
     "geoApprox": false
   },
   {
@@ -3022,9 +3022,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.meforyoupilates.kr/",
-    "lat": 37.5554128,
-    "lng": 126.854619,
-    "geoApprox": false
+    "lat": 37.55062,
+    "lng": 126.86548,
+    "geoApprox": true
   },
   {
     "id": 183,
@@ -3038,9 +3038,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://planbacademy.co.kr",
-    "lat": 37.50498,
-    "lng": 127.10522,
-    "geoApprox": true
+    "lat": 37.5070196463594,
+    "lng": 127.109338931945,
+    "geoApprox": false
   },
   {
     "id": 184,
@@ -3054,8 +3054,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.gu-hscook.com/main/index.do",
-    "lat": 37.4838866,
-    "lng": 126.9028166,
+    "lat": 37.4838892721327,
+    "lng": 126.90281628743,
     "geoApprox": false
   },
   {
@@ -3070,9 +3070,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://realclass.co.kr/",
-    "lat": 37.52308,
-    "lng": 127.05172,
-    "geoApprox": true
+    "lat": 37.5054927426087,
+    "lng": 127.053467711791,
+    "geoApprox": false
   },
   {
     "id": 186,
@@ -3086,8 +3086,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.snwc.or.kr/",
-    "lat": 37.6050242,
-    "lng": 127.0911473,
+    "lat": 37.6058186173408,
+    "lng": 127.091609767692,
     "geoApprox": false
   },
   {
@@ -3102,9 +3102,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.kooj.or.kr",
-    "lat": 37.48006,
-    "lng": 127.03614,
-    "geoApprox": true
+    "lat": 37.5020135169887,
+    "lng": 127.024071206653,
+    "geoApprox": false
   },
   {
     "id": 188,
@@ -3118,8 +3118,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://irumplus.com",
-    "lat": 37.65616,
-    "lng": 127.061515,
+    "lat": 37.6561602782805,
+    "lng": 127.06151518884,
     "geoApprox": false
   },
   {
@@ -3134,8 +3134,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.5835956,
-    "lng": 127.0491439,
+    "lat": 37.5835972980592,
+    "lng": 127.049119761501,
     "geoApprox": false
   },
   {
@@ -3151,8 +3151,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.sinjiwonedu.co.kr",
-    "lat": 37.5591468,
-    "lng": 126.8609582,
+    "lat": 37.5591095584309,
+    "lng": 126.860941198154,
     "geoApprox": false
   },
   {
@@ -3168,9 +3168,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52458,
-    "lng": 127.10862,
-    "geoApprox": true
+    "lat": 37.4903295098937,
+    "lng": 127.127574286028,
+    "geoApprox": false
   },
   {
     "id": 192,
@@ -3185,9 +3185,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "http://www.heorum.com",
-    "lat": 37.52444,
-    "lng": 126.90606,
-    "geoApprox": true
+    "lat": 37.5319143458605,
+    "lng": 126.901077532801,
+    "geoApprox": false
   },
   {
     "id": 193,
@@ -3205,9 +3205,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.passdong.com",
-    "lat": 37.56994,
-    "lng": 126.89816,
-    "geoApprox": true
+    "lat": 37.5760516364471,
+    "lng": 126.890599494563,
+    "geoApprox": false
   },
   {
     "id": 194,
@@ -3221,8 +3221,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.codeit.kr",
-    "lat": 37.5687923,
-    "lng": 126.9788197,
+    "lat": 37.5674727196383,
+    "lng": 126.98811318937,
     "geoApprox": false
   },
   {
@@ -3237,8 +3237,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/wipisuyu01",
-    "lat": 37.6349999,
-    "lng": 127.0250094,
+    "lat": 37.6349999157971,
+    "lng": 127.025009402413,
     "geoApprox": false
   },
   {
@@ -3256,8 +3256,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.gbeducenter.or.kr",
-    "lat": 37.6413564,
-    "lng": 127.0296291,
+    "lat": 37.6413563761545,
+    "lng": 127.029629106136,
     "geoApprox": false
   },
   {
@@ -3272,9 +3272,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://ydp.seoulwomanup.or.kr/ydp/main/main.do",
-    "lat": 37.53032,
-    "lng": 126.91048,
-    "geoApprox": true
+    "lat": 37.5218971293994,
+    "lng": 126.904619054197,
+    "geoApprox": false
   },
   {
     "id": 198,
@@ -3289,9 +3289,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.kofdesign.co.kr",
-    "lat": 37.47446,
-    "lng": 127.01574,
-    "geoApprox": true
+    "lat": 37.4720769077958,
+    "lng": 127.039166788547,
+    "geoApprox": false
   },
   {
     "id": 199,
@@ -3307,8 +3307,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.zoominedu.com",
-    "lat": 37.6055477,
-    "lng": 126.9129237,
+    "lat": 37.6055444555547,
+    "lng": 126.912925292168,
     "geoApprox": false
   },
   {
@@ -3323,8 +3323,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5418176,
-    "lng": 126.8689667,
+    "lat": 37.5418163284943,
+    "lng": 126.868959298848,
     "geoApprox": false
   },
   {
@@ -3339,8 +3339,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5955577,
-    "lng": 127.062643,
+    "lat": 37.5955512254331,
+    "lng": 127.062610736569,
     "geoApprox": false
   },
   {
@@ -3356,8 +3356,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4898654,
-    "lng": 127.0411444,
+    "lat": 37.4915488149067,
+    "lng": 127.040954182934,
     "geoApprox": false
   },
   {
@@ -3374,9 +3374,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.cosmoedu.kr/",
-    "lat": 37.56426,
-    "lng": 126.96234,
-    "geoApprox": true
+    "lat": 37.5729836574607,
+    "lng": 127.016402211283,
+    "geoApprox": false
   },
   {
     "id": 204,
@@ -3390,8 +3390,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4827691,
-    "lng": 127.127565,
+    "lat": 37.4827389390203,
+    "lng": 127.127520789266,
     "geoApprox": false
   },
   {
@@ -3406,8 +3406,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://future.cuk.edu",
-    "lat": 37.5858546,
-    "lng": 126.9863015,
+    "lat": 37.5858471765331,
+    "lng": 126.985908604386,
     "geoApprox": false
   },
   {
@@ -3422,8 +3422,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/musicstory_gd",
-    "lat": 37.5407348,
-    "lng": 127.1247155,
+    "lat": 37.540555377209,
+    "lng": 127.124975762766,
     "geoApprox": false
   },
   {
@@ -3439,9 +3439,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "sca3280@naver.com",
-    "lat": 37.47812,
-    "lng": 126.96758,
-    "geoApprox": true
+    "lat": 37.486976401686,
+    "lng": 126.929334316145,
+    "geoApprox": false
   },
   {
     "id": 208,
@@ -3455,9 +3455,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.edupsy.me/",
-    "lat": 37.65868,
-    "lng": 127.07312,
-    "geoApprox": true
+    "lat": 37.6676974508953,
+    "lng": 127.079296187522,
+    "geoApprox": false
   },
   {
     "id": 209,
@@ -3471,8 +3471,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.saemteo.co.kr",
-    "lat": 37.5889578,
-    "lng": 127.0768644,
+    "lat": 37.588956391999,
+    "lng": 127.076835777255,
     "geoApprox": false
   },
   {
@@ -3487,8 +3487,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6034703,
-    "lng": 127.0371152,
+    "lat": 37.6034702633832,
+    "lng": 127.037115153165,
     "geoApprox": false
   },
   {
@@ -3503,9 +3503,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.50834,
-    "lng": 127.11746,
-    "geoApprox": true
+    "lat": 37.5165777895252,
+    "lng": 127.101225932288,
+    "geoApprox": false
   },
   {
     "id": 212,
@@ -3519,9 +3519,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "WWW.PILATESEDEN.CO.KR",
-    "lat": 37.6576,
-    "lng": 127.0403,
-    "geoApprox": true
+    "lat": 37.662690659963,
+    "lng": 127.03428016502,
+    "geoApprox": false
   },
   {
     "id": 213,
@@ -3536,8 +3536,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.ohmyschool.org/",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -3552,8 +3552,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://medicalpilatesmama.com/",
-    "lat": 37.5490308,
-    "lng": 126.939782,
+    "lat": 37.5491010350612,
+    "lng": 126.939760668586,
     "geoApprox": false
   },
   {
@@ -3569,9 +3569,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.56566,
-    "lng": 126.98444,
-    "geoApprox": true
+    "lat": 37.5696531094503,
+    "lng": 126.987069299555,
+    "geoApprox": false
   },
   {
     "id": 216,
@@ -3585,9 +3585,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.49686,
-    "lng": 127.02934,
-    "geoApprox": true
+    "lat": 37.5003183328671,
+    "lng": 127.011825492621,
+    "geoApprox": false
   },
   {
     "id": 217,
@@ -3601,9 +3601,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5908,
-    "lng": 127.0048,
-    "geoApprox": true
+    "lat": 37.6065077161625,
+    "lng": 127.010700150271,
+    "geoApprox": false
   },
   {
     "id": 218,
@@ -3617,9 +3617,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.530373,
-    "lng": 126.8471955,
-    "geoApprox": false
+    "lat": 37.54362,
+    "lng": 126.85698,
+    "geoApprox": true
   },
   {
     "id": 219,
@@ -3633,8 +3633,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5041694,
-    "lng": 127.0539168,
+    "lat": 37.5041906846279,
+    "lng": 127.053897791809,
     "geoApprox": false
   },
   {
@@ -3649,8 +3649,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.gosischool.or.kr",
-    "lat": 37.5144234,
-    "lng": 126.8993143,
+    "lat": 37.5147464245043,
+    "lng": 126.897536835727,
     "geoApprox": false
   },
   {
@@ -3665,9 +3665,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://www.koredutech.com",
-    "lat": 37.52512,
-    "lng": 126.87898,
-    "geoApprox": true
+    "lat": 37.522402706874,
+    "lng": 126.862279276303,
+    "geoApprox": false
   },
   {
     "id": 222,
@@ -3697,9 +3697,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/gammidang",
-    "lat": 37.60634,
-    "lng": 126.92536,
-    "geoApprox": true
+    "lat": 37.5912680835764,
+    "lng": 126.915413685029,
+    "geoApprox": false
   },
   {
     "id": 224,
@@ -3713,8 +3713,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.starcookcoffee.com/",
-    "lat": 37.5546938,
-    "lng": 126.9184753,
+    "lat": 37.5551891884111,
+    "lng": 126.918089939539,
     "geoApprox": false
   },
   {
@@ -3729,9 +3729,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://edu.asea.or.kr/",
-    "lat": 37.53996,
-    "lng": 127.00054,
-    "geoApprox": true
+    "lat": 37.5422348785302,
+    "lng": 126.96920372269,
+    "geoApprox": false
   },
   {
     "id": 226,
@@ -3745,9 +3745,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.61026,
-    "lng": 126.93964,
-    "geoApprox": true
+    "lat": 37.6105156536156,
+    "lng": 126.917939827365,
+    "geoApprox": false
   },
   {
     "id": 227,
@@ -3761,8 +3761,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sadangac.com",
-    "lat": 37.4806157,
-    "lng": 126.9828845,
+    "lat": 37.4807072662553,
+    "lng": 126.982960985396,
     "geoApprox": false
   },
   {
@@ -3779,9 +3779,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.65448,
-    "lng": 127.04082,
-    "geoApprox": true
+    "lat": 37.6517772138584,
+    "lng": 127.073859531237,
+    "geoApprox": false
   },
   {
     "id": 229,
@@ -3795,8 +3795,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://art-ate.com",
-    "lat": 37.5025076,
-    "lng": 127.0268166,
+    "lat": 37.5025182093061,
+    "lng": 127.026818294672,
     "geoApprox": false
   },
   {
@@ -3811,9 +3811,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "visionedu.step.or.kr",
-    "lat": 37.59066,
-    "lng": 126.93624,
-    "geoApprox": true
+    "lat": 37.5904238447716,
+    "lng": 126.916412390363,
+    "geoApprox": false
   },
   {
     "id": 231,
@@ -3828,8 +3828,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.eduwillit.net/",
-    "lat": 37.4834146,
-    "lng": 126.8997463,
+    "lat": 37.4835332463617,
+    "lng": 126.899752015371,
     "geoApprox": false
   },
   {
@@ -3846,9 +3846,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cec.swu.ac.kr/fro_end/html/main/#none",
-    "lat": 37.625317,
-    "lng": 127.088135,
-    "geoApprox": false
+    "lat": 37.66008,
+    "lng": 127.06122,
+    "geoApprox": true
   },
   {
     "id": 233,
@@ -3862,8 +3862,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "jeiledu.kr/admin",
-    "lat": 37.4933488,
-    "lng": 126.8981096,
+    "lat": 37.4942182104952,
+    "lng": 126.89859855894,
     "geoApprox": false
   },
   {
@@ -3878,9 +3878,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.53088,
-    "lng": 126.91252,
-    "geoApprox": true
+    "lat": 37.5377906428336,
+    "lng": 126.897869418375,
+    "geoApprox": false
   },
   {
     "id": 235,
@@ -3894,8 +3894,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://cyber.shu.ac.kr/",
-    "lat": 37.5874891,
-    "lng": 127.0644952,
+    "lat": 37.5862119387672,
+    "lng": 127.06355328121,
     "geoApprox": false
   },
   {
@@ -3910,8 +3910,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5027268,
-    "lng": 127.0983432,
+    "lat": 37.5027808998554,
+    "lng": 127.098335625581,
     "geoApprox": false
   },
   {
@@ -3926,8 +3926,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5041694,
-    "lng": 127.0539168,
+    "lat": 37.5041906846279,
+    "lng": 127.053897791809,
     "geoApprox": false
   },
   {
@@ -3943,8 +3943,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://life.gangnam.go.kr/fmcs/52?center=GNCC25&event=&class=&subject=",
-    "lat": 37.5190819,
-    "lng": 127.0464402,
+    "lat": 37.519081055346,
+    "lng": 127.046440083992,
     "geoApprox": false
   },
   {
@@ -3959,8 +3959,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.hubedu.net",
-    "lat": 37.5571085,
-    "lng": 126.8641934,
+    "lat": 37.5571161918617,
+    "lng": 126.864347419732,
     "geoApprox": false
   },
   {
@@ -3977,9 +3977,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.dongbang.ac.kr",
-    "lat": 37.58464,
-    "lng": 127.01636,
-    "geoApprox": true
+    "lat": 37.596656643417,
+    "lng": 126.991487842715,
+    "geoApprox": false
   },
   {
     "id": 241,
@@ -3993,8 +3993,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "musiclifebalance.com",
-    "lat": 37.4995164,
-    "lng": 127.0281416,
+    "lat": 37.4994839547907,
+    "lng": 127.028096922783,
     "geoApprox": false
   },
   {
@@ -4009,9 +4009,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.dongjaktv.net",
-    "lat": 37.50988,
-    "lng": 126.94712,
-    "geoApprox": true
+    "lat": 37.5044455276,
+    "lng": 126.941088352368,
+    "geoApprox": false
   },
   {
     "id": 243,
@@ -4026,9 +4026,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.happytime.or.kr",
-    "lat": 37.5054,
-    "lng": 126.9308,
-    "geoApprox": true
+    "lat": 37.4911249851608,
+    "lng": 126.982287172529,
+    "geoApprox": false
   },
   {
     "id": 244,
@@ -4042,9 +4042,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.60938,
-    "lng": 127.08692,
-    "geoApprox": true
+    "lat": 37.5902883288454,
+    "lng": 127.097568272006,
+    "geoApprox": false
   },
   {
     "id": 245,
@@ -4058,8 +4058,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.yudsenior.or.kr",
-    "lat": 37.5181341,
-    "lng": 126.9307294,
+    "lat": 37.5181419532174,
+    "lng": 126.930770593981,
     "geoApprox": false
   },
   {
@@ -4074,9 +4074,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.49294,
-    "lng": 127.04906,
-    "geoApprox": true
+    "lat": 37.4914169824646,
+    "lng": 126.992074681677,
+    "geoApprox": false
   },
   {
     "id": 247,
@@ -4090,8 +4090,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4831156,
-    "lng": 127.0603577,
+    "lat": 37.4831580387932,
+    "lng": 127.060395404774,
     "geoApprox": false
   },
   {
@@ -4106,9 +4106,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51694,
-    "lng": 127.12676,
-    "geoApprox": true
+    "lat": 37.5396196848963,
+    "lng": 127.149551483961,
+    "geoApprox": false
   },
   {
     "id": 249,
@@ -4123,8 +4123,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5130312,
-    "lng": 126.9369921,
+    "lat": 37.5129692662566,
+    "lng": 126.937003162857,
     "geoApprox": false
   },
   {
@@ -4139,9 +4139,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "gbbaking.kr",
-    "lat": 37.6452,
-    "lng": 127.0121,
-    "geoApprox": true
+    "lat": 37.6250118704133,
+    "lng": 127.025765702919,
+    "geoApprox": false
   },
   {
     "id": 251,
@@ -4158,9 +4158,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.withcem.com",
-    "lat": 37.51464,
-    "lng": 126.88736,
-    "geoApprox": true
+    "lat": 37.5262377082408,
+    "lng": 126.885831257971,
+    "geoApprox": false
   },
   {
     "id": 252,
@@ -4175,8 +4175,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5622067,
-    "lng": 127.0345097,
+    "lat": 37.56220672702,
+    "lng": 127.034509673864,
     "geoApprox": false
   },
   {
@@ -4192,8 +4192,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "dangtalk.co.kr",
-    "lat": 37.5156693,
-    "lng": 127.0177235,
+    "lat": 37.5157130529455,
+    "lng": 127.017808675422,
     "geoApprox": false
   },
   {
@@ -4208,9 +4208,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.christianchauveaus.co.kr/",
-    "lat": 37.64412,
-    "lng": 127.05408,
-    "geoApprox": true
+    "lat": 37.6567452176387,
+    "lng": 127.06351419165,
+    "geoApprox": false
   },
   {
     "id": 255,
@@ -4224,9 +4224,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "fisc.or.kr",
-    "lat": 37.4583,
-    "lng": 126.8836,
-    "geoApprox": true
+    "lat": 37.4844343587974,
+    "lng": 126.880576835889,
+    "geoApprox": false
   },
   {
     "id": 256,
@@ -4240,8 +4240,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://blog.naver.com/ssyoga",
-    "lat": 37.5076474,
-    "lng": 126.9647337,
+    "lat": 37.5076446931125,
+    "lng": 126.964738341052,
     "geoApprox": false
   },
   {
@@ -4257,9 +4257,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://markazarabic.com/",
-    "lat": 37.58666,
-    "lng": 126.97594,
-    "geoApprox": true
+    "lat": 37.569541373569,
+    "lng": 126.989688870159,
+    "geoApprox": false
   },
   {
     "id": 258,
@@ -4279,9 +4279,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.gncity.or.kr/",
-    "lat": 37.50432,
-    "lng": 127.03438,
-    "geoApprox": true
+    "lat": 37.5272971408199,
+    "lng": 127.035755786099,
+    "geoApprox": false
   },
   {
     "id": 259,
@@ -4295,9 +4295,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "etesys.co.kr",
-    "lat": 37.48874,
-    "lng": 127.01676,
-    "geoApprox": true
+    "lat": 37.4771425218453,
+    "lng": 126.983662171533,
+    "geoApprox": false
   },
   {
     "id": 260,
@@ -4312,9 +4312,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "sasada.ac.kr",
-    "lat": 37.50544,
-    "lng": 127.03846,
-    "geoApprox": true
+    "lat": 37.5158561486781,
+    "lng": 127.04119199287,
+    "geoApprox": false
   },
   {
     "id": 261,
@@ -4328,8 +4328,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.hoonscoffee.com",
-    "lat": 37.4669097,
-    "lng": 126.8884175,
+    "lat": 37.466834192886,
+    "lng": 126.887999661463,
     "geoApprox": false
   },
   {
@@ -4344,8 +4344,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/evepilates_sagajeong",
-    "lat": 37.5808088,
-    "lng": 127.0892491,
+    "lat": 37.5807727094014,
+    "lng": 127.089210569993,
     "geoApprox": false
   },
   {
@@ -4360,9 +4360,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5551,
-    "lng": 126.8951,
-    "geoApprox": true
+    "lat": 37.5551017740435,
+    "lng": 126.919770198707,
+    "geoApprox": false
   },
   {
     "id": 264,
@@ -4376,9 +4376,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://ycsupport.or.kr/",
-    "lat": 37.51028,
-    "lng": 126.87592,
-    "geoApprox": true
+    "lat": 37.519890082736,
+    "lng": 126.869909283549,
+    "geoApprox": false
   },
   {
     "id": 265,
@@ -4392,8 +4392,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hrledu.com/",
-    "lat": 37.4811281,
-    "lng": 127.1268879,
+    "lat": 37.4809892475086,
+    "lng": 127.126873029476,
     "geoApprox": false
   },
   {
@@ -4408,9 +4408,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.kstudy.co.kr",
-    "lat": 37.5749,
-    "lng": 126.9671,
-    "geoApprox": true
+    "lat": 37.5725455602956,
+    "lng": 126.999393931336,
+    "geoApprox": false
   },
   {
     "id": 267,
@@ -4425,8 +4425,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://onedu.me.kr",
-    "lat": 37.5275232,
-    "lng": 126.9195415,
+    "lat": 37.5275117444834,
+    "lng": 126.919665809662,
     "geoApprox": false
   },
   {
@@ -4441,9 +4441,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5866,
-    "lng": 127.0065,
-    "geoApprox": true
+    "lat": 37.6115560173195,
+    "lng": 127.008927474592,
+    "geoApprox": false
   },
   {
     "id": 269,
@@ -4457,9 +4457,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "http://www.speech365.kr",
-    "lat": 37.56902,
-    "lng": 126.96268,
-    "geoApprox": true
+    "lat": 37.5706618893648,
+    "lng": 126.991276860843,
+    "geoApprox": false
   },
   {
     "id": 270,
@@ -4473,9 +4473,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.gcacts.org/2016/",
-    "lat": 37.44626,
-    "lng": 126.89074,
-    "geoApprox": true
+    "lat": 37.4639691044583,
+    "lng": 126.896333618004,
+    "geoApprox": false
   },
   {
     "id": 271,
@@ -4489,8 +4489,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.yanadoo.co.kr/mall/lllcard/list",
-    "lat": 37.4914623,
-    "lng": 127.0291227,
+    "lat": 37.491478002131,
+    "lng": 127.029076560755,
     "geoApprox": false
   },
   {
@@ -4506,9 +4506,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://taeilwoodwork.page24.app/",
-    "lat": 37.53038,
-    "lng": 127.06972,
-    "geoApprox": true
+    "lat": 37.5427200917815,
+    "lng": 127.090311346737,
+    "geoApprox": false
   },
   {
     "id": 273,
@@ -4524,9 +4524,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.56202,
-    "lng": 126.98818,
-    "geoApprox": true
+    "lat": 37.5748784673834,
+    "lng": 127.020856702547,
+    "geoApprox": false
   },
   {
     "id": 274,
@@ -4540,9 +4540,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.piareno.com",
-    "lat": 37.54782,
-    "lng": 126.85528,
-    "geoApprox": true
+    "lat": 37.5666908435266,
+    "lng": 126.816280570288,
+    "geoApprox": false
   },
   {
     "id": 275,
@@ -4557,8 +4557,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.gurowoman.com",
-    "lat": 37.5019028,
-    "lng": 126.8888231,
+    "lat": 37.5020041382799,
+    "lng": 126.888854942576,
     "geoApprox": false
   },
   {
@@ -4573,9 +4573,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/sugarrb",
-    "lat": 37.562,
-    "lng": 127.0488,
-    "geoApprox": true
+    "lat": 37.5437979501297,
+    "lng": 127.063311994803,
+    "geoApprox": false
   },
   {
     "id": 277,
@@ -4589,9 +4589,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.kd-hanc.co.kr/",
-    "lat": 37.53066,
-    "lng": 127.12574,
-    "geoApprox": true
+    "lat": 37.537770398582,
+    "lng": 127.139680280513,
+    "geoApprox": false
   },
   {
     "id": 278,
@@ -4605,9 +4605,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://dsvocal-mo.imweb.me/index",
-    "lat": 37.49868,
-    "lng": 126.94032,
-    "geoApprox": true
+    "lat": 37.482090226625,
+    "lng": 126.978055901787,
+    "geoApprox": false
   },
   {
     "id": 279,
@@ -4621,9 +4621,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://phone.ybmclass.com/",
-    "lat": 37.57546,
-    "lng": 126.96914,
-    "geoApprox": true
+    "lat": 37.5698794886241,
+    "lng": 126.988409831075,
+    "geoApprox": false
   },
   {
     "id": 280,
@@ -4637,9 +4637,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.sgnc.or.kr",
-    "lat": 37.51272,
-    "lng": 127.03098,
-    "geoApprox": true
+    "lat": 37.5138471082679,
+    "lng": 127.027106142157,
+    "geoApprox": false
   },
   {
     "id": 281,
@@ -4653,9 +4653,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "imdacademy.kr",
-    "lat": 37.65728,
-    "lng": 127.05102,
-    "geoApprox": true
+    "lat": 37.6571152502969,
+    "lng": 127.062842474896,
+    "geoApprox": false
   },
   {
     "id": 282,
@@ -4669,8 +4669,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://ayna.yoga",
-    "lat": 37.5282967,
-    "lng": 126.8985486,
+    "lat": 37.5282966630399,
+    "lng": 126.898548599809,
     "geoApprox": false
   },
   {
@@ -4688,9 +4688,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "http://www.smwelfare.or.kr",
-    "lat": 37.52084,
-    "lng": 127.04356,
-    "geoApprox": true
+    "lat": 37.4705737744435,
+    "lng": 127.11942484917,
+    "geoApprox": false
   },
   {
     "id": 284,
@@ -4704,8 +4704,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.daesungcom.co.kr",
-    "lat": 37.5820199,
-    "lng": 127.0471489,
+    "lat": 37.5821227010138,
+    "lng": 127.047209103701,
     "geoApprox": false
   },
   {
@@ -4720,8 +4720,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5196804,
-    "lng": 126.9042942,
+    "lat": 37.5196804001431,
+    "lng": 126.904294169383,
     "geoApprox": false
   },
   {
@@ -4736,9 +4736,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "lhttp://linea.modoo.at/",
-    "lat": 37.57642,
-    "lng": 127.00878,
-    "geoApprox": true
+    "lat": 37.5665548575457,
+    "lng": 127.006251379421,
+    "geoApprox": false
   },
   {
     "id": 287,
@@ -4768,8 +4768,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/tastypiano_gpb",
-    "lat": 37.6348796,
-    "lng": 126.9195408,
+    "lat": 37.6348535294175,
+    "lng": 126.919584718281,
     "geoApprox": false
   },
   {
@@ -4785,9 +4785,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.hyundai.ac.kr/html/index/index.php",
-    "lat": 37.51688,
-    "lng": 126.89552,
-    "geoApprox": true
+    "lat": 37.5358985852164,
+    "lng": 126.900665744587,
+    "geoApprox": false
   },
   {
     "id": 290,
@@ -4801,8 +4801,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4999035,
-    "lng": 126.9289219,
+    "lat": 37.4999001041175,
+    "lng": 126.928915695415,
     "geoApprox": false
   },
   {
@@ -4817,9 +4817,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.eduirbd.com",
-    "lat": 37.55174,
-    "lng": 126.83556,
-    "geoApprox": true
+    "lat": 37.5606317523438,
+    "lng": 126.846579308762,
+    "geoApprox": false
   },
   {
     "id": 292,
@@ -4833,8 +4833,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://map.naver.com/p/entry/place/1311363280",
-    "lat": 37.5416731,
-    "lng": 126.8394566,
+    "lat": 37.5418323076538,
+    "lng": 126.839166396503,
     "geoApprox": false
   },
   {
@@ -4849,9 +4849,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.naver.com/antacademy1",
-    "lat": 37.55444,
-    "lng": 127.03826,
-    "geoApprox": true
+    "lat": 37.54514647655,
+    "lng": 127.057126460545,
+    "geoApprox": false
   },
   {
     "id": 294,
@@ -4865,8 +4865,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.mster.co.kr/",
-    "lat": 37.5008504,
-    "lng": 127.0356936,
+    "lat": 37.5008485547307,
+    "lng": 127.035677012169,
     "geoApprox": false
   },
   {
@@ -4882,8 +4882,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.5371972,
-    "lng": 126.8817297,
+    "lat": 37.537183341198,
+    "lng": 126.88171654872,
     "geoApprox": false
   },
   {
@@ -4898,8 +4898,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5054229,
-    "lng": 127.0864613,
+    "lat": 37.5054229249496,
+    "lng": 127.086461337655,
     "geoApprox": false
   },
   {
@@ -4914,8 +4914,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://dcgplatform.com/",
-    "lat": 37.5812398,
-    "lng": 127.0040209,
+    "lat": 37.581224141386,
+    "lng": 127.004021190026,
     "geoApprox": false
   },
   {
@@ -4930,9 +4930,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.53598,
-    "lng": 127.09012,
-    "geoApprox": true
+    "lat": 37.5420764096014,
+    "lng": 127.065136038417,
+    "geoApprox": false
   },
   {
     "id": 299,
@@ -4946,9 +4946,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.kusssound.com",
-    "lat": 37.55342,
-    "lng": 126.88898,
-    "geoApprox": true
+    "lat": 37.5502065753553,
+    "lng": 126.918996981239,
+    "geoApprox": false
   },
   {
     "id": 300,
@@ -4962,9 +4962,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.56572,
-    "lng": 127.02498,
-    "geoApprox": true
+    "lat": 37.5828224947419,
+    "lng": 127.044683044631,
+    "geoApprox": false
   },
   {
     "id": 301,
@@ -4979,9 +4979,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "blog.naver.com/ilove_cook",
-    "lat": 37.5194,
-    "lng": 126.8877,
-    "geoApprox": true
+    "lat": 37.5175213972258,
+    "lng": 126.910712075567,
+    "geoApprox": false
   },
   {
     "id": 302,
@@ -4995,9 +4995,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hd.theartacademy.co.kr/",
-    "lat": 37.57386,
-    "lng": 126.91244,
-    "geoApprox": true
+    "lat": 37.5567168124967,
+    "lng": 126.931346748386,
+    "geoApprox": false
   },
   {
     "id": 303,
@@ -5011,9 +5011,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5259,
-    "lng": 127.1254,
-    "geoApprox": true
+    "lat": 37.5657252144412,
+    "lng": 127.173190729553,
+    "geoApprox": false
   },
   {
     "id": 304,
@@ -5027,8 +5027,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://m.blog.naver.com/pilates8282?proxyReferer=https%3A%2F%2Fm.place.naver.com%2Fplace%2F10019005",
-    "lat": 37.4846935,
-    "lng": 126.9704327,
+    "lat": 37.4846936417148,
+    "lng": 126.970395108209,
     "geoApprox": false
   },
   {
@@ -5043,8 +5043,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.medicalpilatesmama.com/",
-    "lat": 37.5427188,
-    "lng": 126.9467206,
+    "lat": 37.5427136833578,
+    "lng": 126.946717429866,
     "geoApprox": false
   },
   {
@@ -5060,9 +5060,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.101moneylab.co.kr",
-    "lat": 37.5676,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.5464486005001,
+    "lng": 127.054456318551,
+    "geoApprox": false
   },
   {
     "id": 307,
@@ -5076,8 +5076,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.sorizavaacademy.com/",
-    "lat": 37.5004566,
-    "lng": 127.0327129,
+    "lat": 37.5004560347585,
+    "lng": 127.032708431114,
     "geoApprox": false
   },
   {
@@ -5093,8 +5093,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://songcamp99.com/",
-    "lat": 37.5654904,
-    "lng": 127.0307567,
+    "lat": 37.5654472145295,
+    "lng": 127.030726032687,
     "geoApprox": false
   },
   {
@@ -5109,8 +5109,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "solviolin.com",
-    "lat": 37.5600919,
-    "lng": 126.8383055,
+    "lat": 37.5600926354663,
+    "lng": 126.838304106686,
     "geoApprox": false
   },
   {
@@ -5130,8 +5130,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.seoultech.ac.kr/",
-    "lat": 37.62994,
-    "lng": 127.076553,
+    "lat": 37.6330789279387,
+    "lng": 127.076794742851,
     "geoApprox": false
   },
   {
@@ -5146,9 +5146,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.everywill.net",
-    "lat": 37.58414,
-    "lng": 126.98376,
-    "geoApprox": true
+    "lat": 37.5754764753901,
+    "lng": 126.983856931171,
+    "geoApprox": false
   },
   {
     "id": 312,
@@ -5162,9 +5162,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.jr.pulip.kr",
-    "lat": 37.56874,
-    "lng": 126.97866,
-    "geoApprox": true
+    "lat": 37.5706007422209,
+    "lng": 127.002255096369,
+    "geoApprox": false
   },
   {
     "id": 313,
@@ -5178,8 +5178,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.aucsub.co.kr",
-    "lat": 37.492893,
-    "lng": 127.013256,
+    "lat": 37.4930094671548,
+    "lng": 127.013418755214,
     "geoApprox": false
   },
   {
@@ -5198,9 +5198,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://itimesedu.com/lllcard",
-    "lat": 37.48706,
-    "lng": 127.04464,
-    "geoApprox": true
+    "lat": 37.4765317406815,
+    "lng": 127.038159651977,
+    "geoApprox": false
   },
   {
     "id": 315,
@@ -5220,8 +5220,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
-    "lat": 37.471989,
-    "lng": 126.958427,
+    "lat": 37.4722178724298,
+    "lng": 126.958335234959,
     "geoApprox": false
   },
   {
@@ -5236,9 +5236,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/qkrdpwls123",
-    "lat": 37.52164,
-    "lng": 126.95596,
-    "geoApprox": true
+    "lat": 37.4877474810489,
+    "lng": 126.912260416046,
+    "geoApprox": false
   },
   {
     "id": 317,
@@ -5252,9 +5252,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.53996,
-    "lng": 127.00054,
-    "geoApprox": true
+    "lat": 37.5502031084135,
+    "lng": 126.974377875914,
+    "geoApprox": false
   },
   {
     "id": 318,
@@ -5268,8 +5268,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/jwpila0101",
-    "lat": 37.5670627,
-    "lng": 126.8186193,
+    "lat": 37.5671170824829,
+    "lng": 126.818597219555,
     "geoApprox": false
   },
   {
@@ -5285,9 +5285,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.seanjoykorea.com",
-    "lat": 37.5058,
-    "lng": 126.8596,
-    "geoApprox": true
+    "lat": 37.5172453685974,
+    "lng": 126.853880423538,
+    "geoApprox": false
   },
   {
     "id": 320,
@@ -5301,8 +5301,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://nowon.koreaisacademy.com/",
-    "lat": 37.658772,
-    "lng": 127.0620906,
+    "lat": 37.6575429499887,
+    "lng": 127.061812569334,
     "geoApprox": false
   },
   {
@@ -5317,9 +5317,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.53774,
-    "lng": 126.85256,
-    "geoApprox": true
+    "lat": 37.5727585403151,
+    "lng": 126.817935470228,
+    "geoApprox": false
   },
   {
     "id": 322,
@@ -5333,9 +5333,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52248,
-    "lng": 126.88192,
-    "geoApprox": true
+    "lat": 37.5256217651854,
+    "lng": 126.89760409447,
+    "geoApprox": false
   },
   {
     "id": 323,
@@ -5350,8 +5350,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://prime.knou.ac.kr/prime/index.do?epTicket=LOG",
-    "lat": 37.5786076,
-    "lng": 127.0034506,
+    "lat": 37.5791954862382,
+    "lng": 127.003290880975,
     "geoApprox": false
   },
   {
@@ -5366,8 +5366,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://culture.lottemart.com",
-    "lat": 37.6467953,
-    "lng": 127.070944,
+    "lat": 37.6467905319279,
+    "lng": 127.070940893709,
     "geoApprox": false
   },
   {
@@ -5383,9 +5383,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.5334,
-    "lng": 126.9047,
-    "geoApprox": true
+    "lat": 37.5016993031354,
+    "lng": 126.895949776976,
+    "geoApprox": false
   },
   {
     "id": 326,
@@ -5399,9 +5399,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.50974,
-    "lng": 127.10556,
-    "geoApprox": true
+    "lat": 37.5124891997364,
+    "lng": 127.109525508529,
+    "geoApprox": false
   },
   {
     "id": 327,
@@ -5416,9 +5416,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "sts@sts.ac.kr",
-    "lat": 37.491,
-    "lng": 126.9465,
-    "geoApprox": true
+    "lat": 37.4734161306859,
+    "lng": 126.981848198192,
+    "geoApprox": false
   },
   {
     "id": 328,
@@ -5432,8 +5432,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.yeogicyber.co.kr",
-    "lat": 37.5138124,
-    "lng": 126.9267409,
+    "lat": 37.5138160173395,
+    "lng": 126.926676485586,
     "geoApprox": false
   },
   {
@@ -5464,9 +5464,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/gsound_music_academy",
-    "lat": 37.59808,
-    "lng": 127.03132,
-    "geoApprox": true
+    "lat": 37.6102660218884,
+    "lng": 127.009556459548,
+    "geoApprox": false
   },
   {
     "id": 331,
@@ -5480,8 +5480,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://m.place.naver.com/place/1105710146/home?entry=pll",
-    "lat": 37.6560525,
-    "lng": 127.0611615,
+    "lat": 37.656050001067,
+    "lng": 127.061162881077,
     "geoApprox": false
   },
   {
@@ -5496,8 +5496,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5980185,
-    "lng": 127.0105689,
+    "lat": 37.5980169765946,
+    "lng": 127.010539042475,
     "geoApprox": false
   },
   {
@@ -5512,9 +5512,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://jyacademy.kr/",
-    "lat": 37.56034,
-    "lng": 126.98206,
-    "geoApprox": true
+    "lat": 37.5748435872991,
+    "lng": 126.97135303676,
+    "geoApprox": false
   },
   {
     "id": 334,
@@ -5528,8 +5528,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://sdulife.com/",
-    "lat": 37.5430664,
-    "lng": 126.9476356,
+    "lat": 37.5429651275759,
+    "lng": 126.947873237042,
     "geoApprox": false
   },
   {
@@ -5544,9 +5544,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/bodymulti",
-    "lat": 37.60032,
-    "lng": 127.00548,
-    "geoApprox": true
+    "lat": 37.6138978320768,
+    "lng": 127.064747510182,
+    "geoApprox": false
   },
   {
     "id": 336,
@@ -5560,8 +5560,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.yeolin.net",
-    "lat": 37.5558259,
-    "lng": 127.083633,
+    "lat": 37.5558688836889,
+    "lng": 127.083732792092,
     "geoApprox": false
   },
   {
@@ -5576,9 +5576,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "iubion.com",
-    "lat": 37.50772,
-    "lng": 126.89828,
-    "geoApprox": true
+    "lat": 37.485472620638,
+    "lng": 126.898223123534,
+    "geoApprox": false
   },
   {
     "id": 338,
@@ -5592,9 +5592,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.ikss.kr",
-    "lat": 37.50596,
-    "lng": 126.93284,
-    "geoApprox": true
+    "lat": 37.4838818687946,
+    "lng": 126.978471458173,
+    "geoApprox": false
   },
   {
     "id": 339,
@@ -5608,9 +5608,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.51604,
-    "lng": 126.93556,
-    "geoApprox": true
+    "lat": 37.4787269077024,
+    "lng": 126.98098982437,
+    "geoApprox": false
   },
   {
     "id": 340,
@@ -5624,9 +5624,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://ekcls.kr",
-    "lat": 37.4723409,
-    "lng": 126.8842248,
-    "geoApprox": false
+    "lat": 37.45242,
+    "lng": 126.87918,
+    "geoApprox": true
   },
   {
     "id": 341,
@@ -5641,8 +5641,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://realdealclass.com/",
-    "lat": 37.5302466,
-    "lng": 126.9684193,
+    "lat": 37.5302754255574,
+    "lng": 126.968437057604,
     "geoApprox": false
   },
   {
@@ -5657,9 +5657,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5719,
-    "lng": 126.8883,
-    "geoApprox": true
+    "lat": 37.547247205528,
+    "lng": 126.932234468239,
+    "geoApprox": false
   },
   {
     "id": 343,
@@ -5673,8 +5673,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://academy.douzoneedu.co.kr/",
-    "lat": 37.4947574,
-    "lng": 127.0300788,
+    "lat": 37.4946959681486,
+    "lng": 127.030080389903,
     "geoApprox": false
   },
   {
@@ -5689,8 +5689,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5052352,
-    "lng": 127.022144,
+    "lat": 37.505232014823,
+    "lng": 127.02214765964,
     "geoApprox": false
   },
   {
@@ -5706,9 +5706,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://dobongedu.or.kr/",
-    "lat": 37.673,
-    "lng": 127.0454,
-    "geoApprox": true
+    "lat": 37.659860541949,
+    "lng": 127.050879459135,
+    "geoApprox": false
   },
   {
     "id": 346,
@@ -5722,9 +5722,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://wf.hunet.co.kr",
-    "lat": 37.50352,
-    "lng": 126.89998,
-    "geoApprox": true
+    "lat": 37.4816105919768,
+    "lng": 126.893479312123,
+    "geoApprox": false
   },
   {
     "id": 347,
@@ -5739,8 +5739,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "kamsungedu.com",
-    "lat": 37.5178577,
-    "lng": 127.0175976,
+    "lat": 37.5178807978403,
+    "lng": 127.0176724326,
     "geoApprox": false
   },
   {
@@ -5761,9 +5761,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://songpa-edu.co.kr/",
-    "lat": 37.50834,
-    "lng": 127.11746,
-    "geoApprox": true
+    "lat": 37.500399537533,
+    "lng": 127.141555787309,
+    "geoApprox": false
   },
   {
     "id": 349,
@@ -5779,8 +5779,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://culture.lottemart.com",
-    "lat": 37.5260675,
-    "lng": 126.8915759,
+    "lat": 37.5260658911576,
+    "lng": 126.891572019703,
     "geoApprox": false
   },
   {
@@ -5796,8 +5796,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://mtmtong.com",
-    "lat": 37.477221,
-    "lng": 126.8810631,
+    "lat": 37.4772339836706,
+    "lng": 126.881057813165,
     "geoApprox": false
   },
   {
@@ -5813,8 +5813,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.pagodastar.com/",
-    "lat": 37.499765,
-    "lng": 127.0261518,
+    "lat": 37.4998007315864,
+    "lng": 127.026210824749,
     "geoApprox": false
   },
   {
@@ -5829,8 +5829,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hrdedu.edumong.com/",
-    "lat": 37.4876138,
-    "lng": 127.0225207,
+    "lat": 37.4876246428242,
+    "lng": 127.022571225546,
     "geoApprox": false
   },
   {
@@ -5845,8 +5845,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "easytop.kr",
-    "lat": 37.6507425,
-    "lng": 127.0619309,
+    "lat": 37.6507430859966,
+    "lng": 127.061926369891,
     "geoApprox": false
   },
   {
@@ -5863,8 +5863,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.sub.ac.kr/",
-    "lat": 37.4663903,
-    "lng": 126.9022871,
+    "lat": 37.4664180215116,
+    "lng": 126.902325710646,
     "geoApprox": false
   },
   {
@@ -5879,9 +5879,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://lms.darakwon.co.kr/lllcard/",
-    "lat": 37.57778,
-    "lng": 126.89272,
-    "geoApprox": true
+    "lat": 37.5537227297579,
+    "lng": 126.917450206082,
+    "geoApprox": false
   },
   {
     "id": 356,
@@ -5895,8 +5895,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://macbroacademy.co.kr/",
-    "lat": 37.5378368,
-    "lng": 126.8946492,
+    "lat": 37.5378376344984,
+    "lng": 126.894643881557,
     "geoApprox": false
   },
   {
@@ -5912,9 +5912,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://wcomputerart.com/",
-    "lat": 37.58554,
-    "lng": 126.97186,
-    "geoApprox": true
+    "lat": 37.5845241826441,
+    "lng": 127.001174064059,
+    "geoApprox": false
   },
   {
     "id": 358,
@@ -5929,9 +5929,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://seongbukedu.or.kr/main/index.php",
-    "lat": 37.58436,
-    "lng": 127.03234,
-    "geoApprox": true
+    "lat": 37.5921861087393,
+    "lng": 127.036704754996,
+    "geoApprox": false
   },
   {
     "id": 359,
@@ -5945,9 +5945,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://nowon.greenart.co.kr",
-    "lat": 37.65336,
-    "lng": 127.07074,
-    "geoApprox": true
+    "lat": 37.6572141183604,
+    "lng": 127.062275580083,
+    "geoApprox": false
   },
   {
     "id": 360,
@@ -5961,9 +5961,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.ucanspeak.co.kr",
-    "lat": 37.50376,
-    "lng": 127.03234,
-    "geoApprox": true
+    "lat": 37.5048859677001,
+    "lng": 127.052750583508,
+    "geoApprox": false
   },
   {
     "id": 361,
@@ -5977,9 +5977,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.cyberjrc.com",
-    "lat": 37.47614,
-    "lng": 127.02186,
-    "geoApprox": true
+    "lat": 37.4822942597879,
+    "lng": 127.004883640212,
+    "geoApprox": false
   },
   {
     "id": 362,
@@ -5993,9 +5993,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.midilearn.com",
-    "lat": 37.57274,
-    "lng": 126.90836,
-    "geoApprox": true
+    "lat": 37.5570753577831,
+    "lng": 126.922527195449,
+    "geoApprox": false
   },
   {
     "id": 363,
@@ -6009,8 +6009,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://vlabpilates.com/",
-    "lat": 37.553612,
-    "lng": 127.172035,
+    "lat": 37.5533182082692,
+    "lng": 127.168788219773,
     "geoApprox": false
   },
   {
@@ -6027,8 +6027,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.siwonschool.com/",
-    "lat": 37.5229322,
-    "lng": 126.9022224,
+    "lat": 37.5226784655386,
+    "lng": 126.901962138943,
     "geoApprox": false
   },
   {
@@ -6043,8 +6043,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.edgepilates.co.kr",
-    "lat": 37.653053,
-    "lng": 127.046388,
+    "lat": 37.6530884876081,
+    "lng": 127.046291895459,
     "geoApprox": false
   },
   {
@@ -6059,8 +6059,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://passone.kr",
-    "lat": 37.4764639,
-    "lng": 126.8873368,
+    "lat": 37.4764394057239,
+    "lng": 126.887331650246,
     "geoApprox": false
   },
   {
@@ -6075,8 +6075,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "modulearning.kr",
-    "lat": 37.4723409,
-    "lng": 126.8842248,
+    "lat": 37.47229921968084,
+    "lng": 126.88420734495728,
     "geoApprox": false
   },
   {
@@ -6091,9 +6091,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.fineok.co.kr",
-    "lat": 37.52288,
-    "lng": 126.98932,
-    "geoApprox": true
+    "lat": 37.5305918901339,
+    "lng": 126.996917275904,
+    "geoApprox": false
   },
   {
     "id": 369,
@@ -6108,8 +6108,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.rebom.co.kr",
-    "lat": 37.5623665,
-    "lng": 126.9959076,
+    "lat": 37.5624227137843,
+    "lng": 126.995931151636,
     "geoApprox": false
   },
   {
@@ -6124,8 +6124,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/lifepilates7997",
-    "lat": 37.5571085,
-    "lng": 126.8641934,
+    "lat": 37.5571161918617,
+    "lng": 126.864347419732,
     "geoApprox": false
   },
   {
@@ -6140,8 +6140,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "jpgosi.com",
-    "lat": 37.5697586,
-    "lng": 126.9896402,
+    "lat": 37.5697050231621,
+    "lng": 126.99002424417,
     "geoApprox": false
   },
   {
@@ -6156,9 +6156,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.vanvo.co.kr/",
-    "lat": 37.46944,
-    "lng": 126.95296,
-    "geoApprox": true
+    "lat": 37.491042929326,
+    "lng": 126.925536443215,
+    "geoApprox": false
   },
   {
     "id": 373,
@@ -6172,8 +6172,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.550591,
-    "lng": 127.127991,
+    "lat": 37.5505918863599,
+    "lng": 127.127989379513,
     "geoApprox": false
   },
   {
@@ -6207,8 +6207,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://edulife.ocu.ac.kr/home/main/main.jsp",
-    "lat": 37.5983945,
-    "lng": 127.0918305,
+    "lat": 37.5983328190955,
+    "lng": 127.091624142481,
     "geoApprox": false
   },
   {
@@ -6226,9 +6226,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "chedu.itpage.kr",
-    "lat": 37.52954,
-    "lng": 127.12166,
-    "geoApprox": true
+    "lat": 37.5393391659214,
+    "lng": 127.123301730964,
+    "geoApprox": false
   },
   {
     "id": 377,
@@ -6248,9 +6248,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
-    "lat": 37.44598,
-    "lng": 126.90672,
-    "geoApprox": true
+    "lat": 37.4781993742934,
+    "lng": 126.907036601946,
+    "geoApprox": false
   },
   {
     "id": 378,
@@ -6265,9 +6265,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.naver.com/dhrbarista",
-    "lat": 37.5721,
-    "lng": 126.9909,
-    "geoApprox": true
+    "lat": 37.5866968430537,
+    "lng": 126.999927765223,
+    "geoApprox": false
   },
   {
     "id": 379,
@@ -6281,8 +6281,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.ssmdacademy.com/",
-    "lat": 37.5509886,
-    "lng": 126.9210678,
+    "lat": 37.5509576951977,
+    "lng": 126.921063042067,
     "geoApprox": false
   },
   {
@@ -6302,8 +6302,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.epedu.or.kr/",
-    "lat": 37.6406849,
-    "lng": 126.9376205,
+    "lat": 37.6407482650607,
+    "lng": 126.937676983813,
     "geoApprox": false
   },
   {
@@ -6318,8 +6318,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.558876,
-    "lng": 126.8377781,
+    "lat": 37.5589663547183,
+    "lng": 126.837818288246,
     "geoApprox": false
   },
   {
@@ -6334,8 +6334,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.pagoda21.com",
-    "lat": 37.5679737,
-    "lng": 126.9830724,
+    "lat": 37.5679275647765,
+    "lng": 126.983120773451,
     "geoApprox": false
   },
   {
@@ -6350,9 +6350,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.japansisa.com/?utm_source=naver&utm_medium=cpc&utm_campaign=1-1.%EC%8B%9C%EC%82%AC%EC%9D",
-    "lat": 37.56566,
-    "lng": 126.98444,
-    "geoApprox": true
+    "lat": 37.5698319629,
+    "lng": 126.98556501869,
+    "geoApprox": false
   },
   {
     "id": 384,
@@ -6366,8 +6366,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.codingvalley.com/",
-    "lat": 37.4952945,
-    "lng": 127.0294347,
+    "lat": 37.4955498697675,
+    "lng": 127.029293901519,
     "geoApprox": false
   },
   {
@@ -6382,8 +6382,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6366779,
-    "lng": 127.0246387,
+    "lat": 37.6366778987558,
+    "lng": 127.02463869236,
     "geoApprox": false
   },
   {
@@ -6398,9 +6398,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "soulclass.kr",
-    "lat": 37.5362,
-    "lng": 126.8809,
-    "geoApprox": true
+    "lat": 37.5250069872213,
+    "lng": 126.892605725806,
+    "geoApprox": false
   },
   {
     "id": 387,
@@ -6414,8 +6414,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "epca.itpage.kr",
-    "lat": 37.6106297,
-    "lng": 126.9167458,
+    "lat": 37.6106349764298,
+    "lng": 126.916699306661,
     "geoApprox": false
   },
   {
@@ -6432,9 +6432,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.airklass.com",
-    "lat": 37.4753,
-    "lng": 127.0358,
-    "geoApprox": true
+    "lat": 37.4892569861927,
+    "lng": 127.009308091156,
+    "geoApprox": false
   },
   {
     "id": 389,
@@ -6448,9 +6448,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://land.hackers.com",
-    "lat": 37.47222,
-    "lng": 127.04158,
-    "geoApprox": true
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
+    "geoApprox": false
   },
   {
     "id": 390,
@@ -6467,9 +6467,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://kwonanaschool.com/",
-    "lat": 37.48426,
-    "lng": 127.03444,
-    "geoApprox": true
+    "lat": 37.4772064227939,
+    "lng": 126.983158383368,
+    "geoApprox": false
   },
   {
     "id": 391,
@@ -6483,8 +6483,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5345626,
-    "lng": 126.9020067,
+    "lat": 37.5345598210701,
+    "lng": 126.901998519775,
     "geoApprox": false
   },
   {
@@ -6499,8 +6499,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "myjob.re.kr",
-    "lat": 37.606257,
-    "lng": 127.0271661,
+    "lat": 37.6062570320801,
+    "lng": 127.027166140765,
     "geoApprox": false
   },
   {
@@ -6515,8 +6515,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.gangnam.go.kr/office/activeart/main.do",
-    "lat": 37.4919828,
-    "lng": 127.0735148,
+    "lat": 37.4919833035471,
+    "lng": 127.073467372853,
     "geoApprox": false
   },
   {
@@ -6547,8 +6547,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "m.pagoda21.com",
-    "lat": 37.5561551,
-    "lng": 126.9393113,
+    "lat": 37.5562057965146,
+    "lng": 126.939295914138,
     "geoApprox": false
   },
   {
@@ -6563,9 +6563,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6556,
-    "lng": 127.0449,
-    "geoApprox": true
+    "lat": 37.6572141183604,
+    "lng": 127.062275580083,
+    "geoApprox": false
   },
   {
     "id": 397,
@@ -6579,8 +6579,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.japansisa.com/",
-    "lat": 37.5588417,
-    "lng": 126.940331,
+    "lat": 37.5588057675887,
+    "lng": 126.940284342483,
     "geoApprox": false
   },
   {
@@ -6595,9 +6595,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.48314,
-    "lng": 127.03036,
-    "geoApprox": true
+    "lat": 37.483152198163,
+    "lng": 127.036374682032,
+    "geoApprox": false
   },
   {
     "id": 399,
@@ -6611,8 +6611,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kfo.ai",
-    "lat": 37.55004,
-    "lng": 127.050663,
+    "lat": 37.5500400476309,
+    "lng": 127.050663371547,
     "geoApprox": false
   },
   {
@@ -6627,8 +6627,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.inmuunity.com/branch/jongno/",
-    "lat": 37.5829517,
-    "lng": 127.0032289,
+    "lat": 37.582967317783,
+    "lng": 127.003235798076,
     "geoApprox": false
   },
   {
@@ -6643,8 +6643,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "newspresso.kr",
-    "lat": 37.503382,
-    "lng": 127.0415998,
+    "lat": 37.5028813541774,
+    "lng": 127.041356540268,
     "geoApprox": false
   },
   {
@@ -6659,9 +6659,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://reneepilates.modoo.at/",
-    "lat": 37.51722,
-    "lng": 127.11078,
-    "geoApprox": true
+    "lat": 37.5382317510332,
+    "lng": 127.127289366861,
+    "geoApprox": false
   },
   {
     "id": 403,
@@ -6675,8 +6675,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4901047,
-    "lng": 127.1120481,
+    "lat": 37.4881292540693,
+    "lng": 127.111066039437,
     "geoApprox": false
   },
   {
@@ -6692,9 +6692,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.linklaw.co.kr",
-    "lat": 37.49154,
-    "lng": 127.02696,
-    "geoApprox": true
+    "lat": 37.4879697294758,
+    "lng": 127.009138776497,
+    "geoApprox": false
   },
   {
     "id": 405,
@@ -6708,8 +6708,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kmedia.site/",
-    "lat": 37.482971,
-    "lng": 126.8787536,
+    "lat": 37.482895189256,
+    "lng": 126.878829171601,
     "geoApprox": false
   },
   {
@@ -6724,9 +6724,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/amusing_music",
-    "lat": 37.50092,
-    "lng": 126.94848,
-    "geoApprox": true
+    "lat": 37.494701442449,
+    "lng": 126.954383436535,
+    "geoApprox": false
   },
   {
     "id": 407,
@@ -6742,9 +6742,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "http://www.xn--939ajxn84botr.com/",
-    "lat": 37.55062,
-    "lng": 126.86548,
-    "geoApprox": true
+    "lat": 37.5600800563689,
+    "lng": 126.832639349443,
+    "geoApprox": false
   },
   {
     "id": 408,
@@ -6760,9 +6760,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://berea.in/",
-    "lat": 37.51856,
-    "lng": 126.90164,
-    "geoApprox": true
+    "lat": 37.500916439781,
+    "lng": 126.898248758452,
+    "geoApprox": false
   },
   {
     "id": 409,
@@ -6779,9 +6779,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.women.co.kr",
-    "lat": 37.49462,
-    "lng": 127.02118,
-    "geoApprox": true
+    "lat": 37.5136203063167,
+    "lng": 127.011971241007,
+    "geoApprox": false
   },
   {
     "id": 410,
@@ -6795,9 +6795,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.carrotenglish.kr",
-    "lat": 37.4837,
-    "lng": 127.0324,
-    "geoApprox": true
+    "lat": 37.5050804346935,
+    "lng": 127.023700440543,
+    "geoApprox": false
   },
   {
     "id": 411,
@@ -6811,8 +6811,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.4859441,
-    "lng": 126.8973364,
+    "lat": 37.4859231683292,
+    "lng": 126.897336395657,
     "geoApprox": false
   },
   {
@@ -6827,9 +6827,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51694,
-    "lng": 127.12676,
-    "geoApprox": true
+    "lat": 37.5720997177008,
+    "lng": 127.174497989376,
+    "geoApprox": false
   },
   {
     "id": 413,
@@ -6843,8 +6843,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.m4study.com",
-    "lat": 37.54268,
-    "lng": 127.01189,
+    "lat": 37.5426796954104,
+    "lng": 127.011889775629,
     "geoApprox": false
   },
   {
@@ -6859,9 +6859,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://ydp.trenmi.co.kr/",
-    "lat": 37.5194,
-    "lng": 126.8877,
-    "geoApprox": true
+    "lat": 37.5168847084598,
+    "lng": 126.906811269539,
+    "geoApprox": false
   },
   {
     "id": 415,
@@ -6875,8 +6875,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gnland.eduwill.net",
-    "lat": 37.512614,
-    "lng": 126.940553,
+    "lat": 37.5126135878966,
+    "lng": 126.940553263162,
     "geoApprox": false
   },
   {
@@ -6891,8 +6891,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "evepilates_21@naver.com",
-    "lat": 37.4791313,
-    "lng": 126.9527016,
+    "lat": 37.4791228888251,
+    "lng": 126.952692287445,
     "geoApprox": false
   },
   {
@@ -6907,9 +6907,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://hansung.ac.kr/edubank/index.do",
-    "lat": 37.57568,
-    "lng": 127.01772,
-    "geoApprox": true
+    "lat": 37.5832358514072,
+    "lng": 127.010390004805,
+    "geoApprox": false
   },
   {
     "id": 418,
@@ -6923,8 +6923,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.kcgt.or.kr",
-    "lat": 37.4961697,
-    "lng": 126.8914299,
+    "lat": 37.4960795695469,
+    "lng": 126.891564274155,
     "geoApprox": false
   },
   {
@@ -6939,8 +6939,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.kystudy.co.kr",
-    "lat": 37.49343,
-    "lng": 127.028514,
+    "lat": 37.4934898858962,
+    "lng": 127.028606363309,
     "geoApprox": false
   },
   {
@@ -6956,9 +6956,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://dongbu.seoulwomanup.or.kr/dongbu/main/main.do",
-    "lat": 37.53374,
-    "lng": 127.08196,
-    "geoApprox": true
+    "lat": 37.539476387304404,
+    "lng": 127.06676255930583,
+    "geoApprox": false
   },
   {
     "id": 421,
@@ -6973,8 +6973,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.kgitbank.co.kr",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -6989,9 +6989,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51562,
-    "lng": 127.10998,
-    "geoApprox": true
+    "lat": 37.5109956587836,
+    "lng": 127.082785706876,
+    "geoApprox": false
   },
   {
     "id": 423,
@@ -7005,9 +7005,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.elinklaw.co.kr",
-    "lat": 37.4837,
-    "lng": 127.0324,
-    "geoApprox": true
+    "lat": 37.4900903152034,
+    "lng": 127.009471813621,
+    "geoApprox": false
   },
   {
     "id": 424,
@@ -7024,9 +7024,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.gangdongedu.or.kr/",
-    "lat": 37.54186,
-    "lng": 127.13254,
-    "geoApprox": true
+    "lat": 37.5447523302648,
+    "lng": 127.125306963807,
+    "geoApprox": false
   },
   {
     "id": 425,
@@ -7042,8 +7042,8 @@ window.VOUCHERS = [
       "C언어)"
     ],
     "homepage": "http://sinchon.koreaisacademy.com/",
-    "lat": 37.5541303,
-    "lng": 126.9358508,
+    "lat": 37.5540455131893,
+    "lng": 126.93579173517,
     "geoApprox": false
   },
   {
@@ -7074,9 +7074,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.61638,
-    "lng": 127.09542,
-    "geoApprox": true
+    "lat": 37.5839916838426,
+    "lng": 127.08813658984,
+    "geoApprox": false
   },
   {
     "id": 428,
@@ -7093,8 +7093,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.gangnam.go.kr/office/memewell/main.do",
-    "lat": 37.5003274,
-    "lng": 127.0392017,
+    "lat": 37.50032657365,
+    "lng": 127.039178938268,
     "geoApprox": false
   },
   {
@@ -7109,8 +7109,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4810979,
-    "lng": 126.9509329,
+    "lat": 37.4810880767354,
+    "lng": 126.950917798181,
     "geoApprox": false
   },
   {
@@ -7125,9 +7125,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52618,
-    "lng": 127.10942,
-    "geoApprox": true
+    "lat": 37.5465618086041,
+    "lng": 127.142841394568,
+    "geoApprox": false
   },
   {
     "id": 431,
@@ -7142,8 +7142,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://whitewave.kr/",
-    "lat": 37.4933613,
-    "lng": 127.0072472,
+    "lat": 37.4934331177427,
+    "lng": 127.007282333912,
     "geoApprox": false
   },
   {
@@ -7158,8 +7158,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6427322,
-    "lng": 127.0641733,
+    "lat": 37.6429787995689,
+    "lng": 127.063230307894,
     "geoApprox": false
   },
   {
@@ -7177,9 +7177,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.jungnangedu.or.kr/",
-    "lat": 37.59734,
-    "lng": 127.09406,
-    "geoApprox": true
+    "lat": 37.602135907905,
+    "lng": 127.080095243268,
+    "geoApprox": false
   },
   {
     "id": 434,
@@ -7193,8 +7193,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://naver.me/xKEkHR6L",
-    "lat": 37.476296,
-    "lng": 127.1431674,
+    "lat": 37.4770954347659,
+    "lng": 127.14372351448,
     "geoApprox": false
   },
   {
@@ -7209,8 +7209,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kspoedu.com/",
-    "lat": 37.5731325,
-    "lng": 126.9973699,
+    "lat": 37.5730918955168,
+    "lng": 126.997352137528,
     "geoApprox": false
   },
   {
@@ -7225,9 +7225,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5087478,
-    "lng": 126.9245314,
-    "geoApprox": false
+    "lat": 37.52472,
+    "lng": 126.95018,
+    "geoApprox": true
   },
   {
     "id": 437,
@@ -7241,9 +7241,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.bler.co.kr",
-    "lat": 37.4697,
-    "lng": 127.0154,
-    "geoApprox": true
+    "lat": 37.4872741567552,
+    "lng": 127.031921705585,
+    "geoApprox": false
   },
   {
     "id": 438,
@@ -7257,9 +7257,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://nw.firstcoffee.co.kr/",
-    "lat": 37.65868,
-    "lng": 127.07312,
-    "geoApprox": true
+    "lat": 37.6560678024865,
+    "lng": 127.065268919304,
+    "geoApprox": false
   },
   {
     "id": 439,
@@ -7273,8 +7273,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.famenurse.com/",
-    "lat": 37.6022091,
-    "lng": 127.021999,
+    "lat": 37.602179051622194,
+    "lng": 127.02202031763585,
     "geoApprox": false
   },
   {
@@ -7289,8 +7289,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.518569,
-    "lng": 126.854283,
+    "lat": 37.5185718753061,
+    "lng": 126.854286078199,
     "geoApprox": false
   },
   {
@@ -7305,9 +7305,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.50666,
-    "lng": 127.11134,
-    "geoApprox": true
+    "lat": 37.5039376838599,
+    "lng": 127.088561618297,
+    "geoApprox": false
   },
   {
     "id": 442,
@@ -7321,8 +7321,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.3030english.com/",
-    "lat": 37.5592289,
-    "lng": 126.8358877,
+    "lat": 37.5593135416408,
+    "lng": 126.83523920295,
     "geoApprox": false
   },
   {
@@ -7337,8 +7337,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5285486,
-    "lng": 127.1168986,
+    "lat": 37.5285572688035,
+    "lng": 127.116817771337,
     "geoApprox": false
   },
   {
@@ -7354,9 +7354,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/PostList.nhn?blogId=peteras814&from=postList&categoryNo=11&parentCategoryNo=1",
-    "lat": 37.52416,
-    "lng": 126.94814,
-    "geoApprox": true
+    "lat": 37.4832049142291,
+    "lng": 126.975994526657,
+    "geoApprox": false
   },
   {
     "id": 445,
@@ -7370,9 +7370,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://lifelong.miraedu.kr/",
-    "lat": 37.49008,
-    "lng": 126.88502,
-    "geoApprox": true
+    "lat": 37.4816105919768,
+    "lng": 126.893479312123,
+    "geoApprox": false
   },
   {
     "id": 446,
@@ -7386,9 +7386,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://koreaaccleaning.qshop.ai/",
-    "lat": 37.65,
-    "lng": 127.0585,
-    "geoApprox": true
+    "lat": 37.6785091893201,
+    "lng": 127.052365758903,
+    "geoApprox": false
   },
   {
     "id": 447,
@@ -7406,8 +7406,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://gwangjinedu.or.kr/",
-    "lat": 37.5369146,
-    "lng": 127.0861441,
+    "lat": 37.5369374120109,
+    "lng": 127.086176038243,
     "geoApprox": false
   },
   {
@@ -7422,9 +7422,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/ambungee2",
-    "lat": 37.50972,
-    "lng": 126.87388,
-    "geoApprox": true
+    "lat": 37.5166958923118,
+    "lng": 126.839146720905,
+    "geoApprox": false
   },
   {
     "id": 449,
@@ -7438,9 +7438,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://life.scau.ac.kr/",
-    "lat": 37.5763,
-    "lng": 126.9266,
-    "geoApprox": true
+    "lat": 37.5854437357557,
+    "lng": 126.943879163212,
+    "geoApprox": false
   },
   {
     "id": 450,
@@ -7454,9 +7454,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5774285,
-    "lng": 126.813028,
-    "geoApprox": false
+    "lat": 37.55706,
+    "lng": 126.83794,
+    "geoApprox": true
   },
   {
     "id": 451,
@@ -7473,9 +7473,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.47644,
-    "lng": 126.96146,
-    "geoApprox": true
+    "lat": 37.4829905930825,
+    "lng": 126.922411546168,
+    "geoApprox": false
   },
   {
     "id": 452,
@@ -7489,8 +7489,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5583079,
-    "lng": 126.8564277,
+    "lat": 37.5582753111279,
+    "lng": 126.856412477687,
     "geoApprox": false
   },
   {
@@ -7505,8 +7505,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.everydaytalk.co.kr",
-    "lat": 37.5462664,
-    "lng": 126.9521231,
+    "lat": 37.5461944939177,
+    "lng": 126.95214128315,
     "geoApprox": false
   },
   {
@@ -7521,9 +7521,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.57686,
-    "lng": 126.99124,
-    "geoApprox": true
+    "lat": 37.5699362991594,
+    "lng": 126.984167036879,
+    "geoApprox": false
   },
   {
     "id": 455,
@@ -7537,9 +7537,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://jr.ezenac.co.kr/",
-    "lat": 37.57042,
-    "lng": 126.98478,
-    "geoApprox": true
+    "lat": 37.5696691992451,
+    "lng": 126.985210523759,
+    "geoApprox": false
   },
   {
     "id": 456,
@@ -7553,9 +7553,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://e-yj.co.kr/",
-    "lat": 37.5242,
-    "lng": 127.0558,
-    "geoApprox": true
+    "lat": 37.5023642298791,
+    "lng": 127.03287132604,
+    "geoApprox": false
   },
   {
     "id": 457,
@@ -7573,9 +7573,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.mapoedu.or.kr/",
-    "lat": 37.55818,
-    "lng": 126.88932,
-    "geoApprox": true
+    "lat": 37.555858987325,
+    "lng": 126.942320769699,
+    "geoApprox": false
   },
   {
     "id": 458,
@@ -7590,8 +7590,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/siwoonvocallab",
-    "lat": 37.5376835,
-    "lng": 127.0836849,
+    "lat": 37.5376694764699,
+    "lng": 127.083667631804,
     "geoApprox": false
   },
   {
@@ -7610,9 +7610,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.51996,
-    "lng": 126.88974,
-    "geoApprox": true
+    "lat": 37.5109974343909,
+    "lng": 126.892563932322,
+    "geoApprox": false
   },
   {
     "id": 460,
@@ -7626,8 +7626,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "mspeech.co.kr",
-    "lat": 37.5346333,
-    "lng": 126.8999238,
+    "lat": 37.5346312418462,
+    "lng": 126.899923178483,
     "geoApprox": false
   },
   {
@@ -7642,8 +7642,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5592289,
-    "lng": 126.8358877,
+    "lat": 37.5593135416408,
+    "lng": 126.83523920295,
     "geoApprox": false
   },
   {
@@ -7659,8 +7659,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5412865,
-    "lng": 126.8381,
+    "lat": 37.5412945871929,
+    "lng": 126.838173965203,
     "geoApprox": false
   },
   {
@@ -7675,9 +7675,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sgh.co.kr",
-    "lat": 37.52192,
-    "lng": 126.87988,
-    "geoApprox": true
+    "lat": 37.5209083109259,
+    "lng": 126.89519426891,
+    "geoApprox": false
   },
   {
     "id": 464,
@@ -7691,8 +7691,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://ks.spworks.co.kr/SU86/main.asp",
-    "lat": 37.5591553,
-    "lng": 126.8365204,
+    "lat": 37.5591532341498,
+    "lng": 126.836520966803,
     "geoApprox": false
   },
   {
@@ -7707,8 +7707,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "globalcaddie.org",
-    "lat": 37.4995348,
-    "lng": 127.1469733,
+    "lat": 37.499538854156,
+    "lng": 127.146976885143,
     "geoApprox": false
   },
   {
@@ -7724,9 +7724,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.sungminwelfare.or.kr/",
-    "lat": 37.6444,
-    "lng": 127.0721,
-    "geoApprox": true
+    "lat": 37.655755936829,
+    "lng": 127.068973707372,
+    "geoApprox": false
   },
   {
     "id": 467,
@@ -7740,8 +7740,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/hueinpilates",
-    "lat": 37.615027,
-    "lng": 127.076989,
+    "lat": 37.6150265366805,
+    "lng": 127.07698944928,
     "geoApprox": false
   },
   {
@@ -7756,9 +7756,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.54082,
-    "lng": 126.84678,
-    "geoApprox": true
+    "lat": 37.5630457825024,
+    "lng": 126.852223862157,
+    "geoApprox": false
   },
   {
     "id": 469,
@@ -7773,9 +7773,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.grccp.or.kr/",
-    "lat": 37.54194,
-    "lng": 126.85086,
-    "geoApprox": true
+    "lat": 37.5742091401237,
+    "lng": 126.812581012661,
+    "geoApprox": false
   },
   {
     "id": 470,
@@ -7789,9 +7789,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/seunga25",
-    "lat": 37.65952,
-    "lng": 127.05918,
-    "geoApprox": true
+    "lat": 37.6265202574678,
+    "lng": 127.075589368289,
+    "geoApprox": false
   },
   {
     "id": 471,
@@ -7811,8 +7811,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
-    "lat": 37.557441,
-    "lng": 127.169679,
+    "lat": 37.5574405229047,
+    "lng": 127.16967893433,
     "geoApprox": false
   },
   {
@@ -7827,9 +7827,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.lawschool.co.kr",
-    "lat": 37.46552,
-    "lng": 126.93868,
-    "geoApprox": true
+    "lat": 37.470382921575,
+    "lng": 126.940725202759,
+    "geoApprox": false
   },
   {
     "id": 473,
@@ -7843,9 +7843,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.smart.ac.kr/",
-    "lat": 37.5236,
-    "lng": 126.9461,
-    "geoApprox": true
+    "lat": 37.494873702941,
+    "lng": 126.958505392549,
+    "geoApprox": false
   },
   {
     "id": 474,
@@ -7859,8 +7859,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.53428,
-    "lng": 127.076465,
+    "lat": 37.5417521895385,
+    "lng": 127.066020044205,
     "geoApprox": false
   },
   {
@@ -7878,9 +7878,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://free1english.com",
-    "lat": 37.51884,
-    "lng": 126.88566,
-    "geoApprox": true
+    "lat": 37.5207908297398,
+    "lng": 126.926911965929,
+    "geoApprox": false
   },
   {
     "id": 476,
@@ -7895,8 +7895,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.papa-power.com",
-    "lat": 37.489007,
-    "lng": 126.9923344,
+    "lat": 37.4890076091191,
+    "lng": 126.992242397414,
     "geoApprox": false
   },
   {
@@ -7911,9 +7911,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://kd.pulip.kr/",
-    "lat": 37.5329,
-    "lng": 127.0959,
-    "geoApprox": true
+    "lat": 37.5387426056997,
+    "lng": 127.075453148864,
+    "geoApprox": false
   },
   {
     "id": 478,
@@ -7931,9 +7931,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://lle.ssgu.ac.kr/",
-    "lat": 37.53956,
-    "lng": 126.89314,
-    "geoApprox": true
+    "lat": 37.519555574413,
+    "lng": 126.903143681464,
+    "geoApprox": false
   },
   {
     "id": 479,
@@ -7963,9 +7963,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.hackersut.com/",
-    "lat": 37.4753,
-    "lng": 127.0358,
-    "geoApprox": true
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
+    "geoApprox": false
   },
   {
     "id": 481,
@@ -7979,9 +7979,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/bodymulti",
-    "lat": 37.52506,
-    "lng": 127.13934,
-    "geoApprox": true
+    "lat": 37.5577459800108,
+    "lng": 127.16891138348,
+    "geoApprox": false
   },
   {
     "id": 482,
@@ -7995,8 +7995,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6001543,
-    "lng": 127.0336766,
+    "lat": 37.6001542980723,
+    "lng": 127.033676640345,
     "geoApprox": false
   },
   {
@@ -8013,9 +8013,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.sdmvision.org/",
-    "lat": 37.56678,
-    "lng": 126.92592,
-    "geoApprox": true
+    "lat": 37.579816513772,
+    "lng": 126.928279396665,
+    "geoApprox": false
   },
   {
     "id": 484,
@@ -8029,8 +8029,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://gumjung.edu2080.co.kr/",
-    "lat": 37.4985696,
-    "lng": 127.0257413,
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
     "geoApprox": false
   },
   {
@@ -8045,9 +8045,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://jaeil-cook.com/",
-    "lat": 37.5716,
-    "lng": 127.0294,
-    "geoApprox": true
+    "lat": 37.5618156326667,
+    "lng": 127.066468745001,
+    "geoApprox": false
   },
   {
     "id": 486,
@@ -8061,9 +8061,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.js-hanc.com",
-    "lat": 37.51478,
-    "lng": 127.08992,
-    "geoApprox": true
+    "lat": 37.5103614722614,
+    "lng": 127.082742365788,
+    "geoApprox": false
   },
   {
     "id": 487,
@@ -8077,9 +8077,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/moonpilates01",
-    "lat": 37.55622,
-    "lng": 126.85188,
-    "geoApprox": true
+    "lat": 37.5610289299524,
+    "lng": 126.810709978338,
+    "geoApprox": false
   },
   {
     "id": 488,
@@ -8094,8 +8094,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5785911,
-    "lng": 127.0355703,
+    "lat": 37.5764095029218,
+    "lng": 127.024717648999,
     "geoApprox": false
   },
   {
@@ -8110,8 +8110,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.classcloud.kr",
-    "lat": 37.5643473,
-    "lng": 126.9829236,
+    "lat": 37.5641849908728,
+    "lng": 126.983004582977,
     "geoApprox": false
   },
   {
@@ -8129,9 +8129,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.happyall.or.kr",
-    "lat": 37.54586,
-    "lng": 126.86514,
-    "geoApprox": true
+    "lat": 37.5579738421304,
+    "lng": 126.849189076142,
+    "geoApprox": false
   },
   {
     "id": 491,
@@ -8146,9 +8146,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.misoye.co.kr",
-    "lat": 37.48846,
-    "lng": 127.03274,
-    "geoApprox": true
+    "lat": 37.4473249504426,
+    "lng": 127.056296409418,
+    "geoApprox": false
   },
   {
     "id": 492,
@@ -8162,8 +8162,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5002336,
-    "lng": 127.0514517,
+    "lat": 37.5002229368483,
+    "lng": 127.051448351881,
     "geoApprox": false
   },
   {
@@ -8179,9 +8179,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://yongsan.seoulwomanup.or.kr/yongsan/main/main.do",
-    "lat": 37.52484,
-    "lng": 126.97946,
-    "geoApprox": true
+    "lat": 37.5348287029005,
+    "lng": 126.966398353049,
+    "geoApprox": false
   },
   {
     "id": 494,
@@ -8195,8 +8195,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://dcgplatform.com/",
-    "lat": 37.5812398,
-    "lng": 127.0040209,
+    "lat": 37.581224141386,
+    "lng": 127.004021190026,
     "geoApprox": false
   },
   {
@@ -8227,8 +8227,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "wow3d.co.kr",
-    "lat": 37.5479183,
-    "lng": 126.9237718,
+    "lat": 37.5479182451523,
+    "lng": 126.923771836348,
     "geoApprox": false
   },
   {
@@ -8243,9 +8243,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.educase.co.kr",
-    "lat": 37.49484,
-    "lng": 126.88536,
-    "geoApprox": true
+    "lat": 37.4821079378772,
+    "lng": 126.895281502292,
+    "geoApprox": false
   },
   {
     "id": 498,
@@ -8259,8 +8259,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.daehan1.com/",
-    "lat": 37.5330124,
-    "lng": 126.9042532,
+    "lat": 37.533012399973,
+    "lng": 126.904253150207,
     "geoApprox": false
   },
   {
@@ -8275,8 +8275,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6199065,
-    "lng": 127.0166786,
+    "lat": 37.6198929274703,
+    "lng": 127.016648114846,
     "geoApprox": false
   },
   {
@@ -8291,8 +8291,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "art-ate.com",
-    "lat": 37.545519,
-    "lng": 127.046409,
+    "lat": 37.5464641293356,
+    "lng": 127.046362011836,
     "geoApprox": false
   },
   {
@@ -8309,9 +8309,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.yangcheon.go.kr/dong/sinwol07/main.do",
-    "lat": 37.517,
-    "lng": 126.8664,
-    "geoApprox": true
+    "lat": 37.5242450448382,
+    "lng": 126.832928150264,
+    "geoApprox": false
   },
   {
     "id": 502,
@@ -8325,9 +8325,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.56424,
-    "lng": 127.02296,
-    "geoApprox": true
+    "lat": 37.5449131125173,
+    "lng": 127.051661118608,
+    "geoApprox": false
   },
   {
     "id": 503,
@@ -8341,9 +8341,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/bodymulti",
-    "lat": 37.58604,
-    "lng": 127.00446,
-    "geoApprox": true
+    "lat": 37.6055372596331,
+    "lng": 127.011654702043,
+    "geoApprox": false
   },
   {
     "id": 504,
@@ -8357,9 +8357,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.chamnamu.net/",
-    "lat": 37.5483,
-    "lng": 127.067,
-    "geoApprox": true
+    "lat": 37.5507930950574,
+    "lng": 127.10990666093,
+    "geoApprox": false
   },
   {
     "id": 505,
@@ -8373,8 +8373,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.vocal-planet.com/",
-    "lat": 37.5558879,
-    "lng": 127.0818015,
+    "lat": 37.5558878970515,
+    "lng": 127.081801499149,
     "geoApprox": false
   },
   {
@@ -8389,8 +8389,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5655342,
-    "lng": 127.0230656,
+    "lat": 37.5654978890631,
+    "lng": 127.023038399771,
     "geoApprox": false
   },
   {
@@ -8405,8 +8405,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://shesculture.com/",
-    "lat": 37.4843554,
-    "lng": 126.9555346,
+    "lat": 37.4843576823304,
+    "lng": 126.955533502141,
     "geoApprox": false
   },
   {
@@ -8421,9 +8421,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52164,
-    "lng": 126.95596,
-    "geoApprox": true
+    "lat": 37.4839470549391,
+    "lng": 126.973780468328,
+    "geoApprox": false
   },
   {
     "id": 509,
@@ -8443,8 +8443,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
-    "lat": 37.5714564,
-    "lng": 126.966272,
+    "lat": 37.5702217430549,
+    "lng": 126.966204176024,
     "geoApprox": false
   },
   {
@@ -8459,8 +8459,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "lectus.kr",
-    "lat": 37.5563432,
-    "lng": 126.9063965,
+    "lat": 37.5563432343247,
+    "lng": 126.906396487076,
     "geoApprox": false
   },
   {
@@ -8476,8 +8476,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.mapocc.or.kr/",
-    "lat": 37.5422226,
-    "lng": 126.9556344,
+    "lat": 37.5422338474855,
+    "lng": 126.955511259347,
     "geoApprox": false
   },
   {
@@ -8492,9 +8492,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.52372,
-    "lng": 126.85688,
-    "geoApprox": true
+    "lat": 37.5313860847415,
+    "lng": 126.864097614546,
+    "geoApprox": false
   },
   {
     "id": 513,
@@ -8508,8 +8508,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.brstudy.net",
-    "lat": 37.5809939,
-    "lng": 127.0037072,
+    "lat": 37.5809598000771,
+    "lng": 127.003708144724,
     "geoApprox": false
   },
   {
@@ -8524,8 +8524,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5257703,
-    "lng": 126.8631614,
+    "lat": 37.5257642505039,
+    "lng": 126.863206293208,
     "geoApprox": false
   },
   {
@@ -8540,9 +8540,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.55594,
-    "lng": 126.83386,
-    "geoApprox": true
+    "lat": 37.5683581388462,
+    "lng": 126.841860529114,
+    "geoApprox": false
   },
   {
     "id": 516,
@@ -8556,9 +8556,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.66768,
-    "lng": 127.04302,
-    "geoApprox": true
+    "lat": 37.6468375610077,
+    "lng": 127.034118660279,
+    "geoApprox": false
   },
   {
     "id": 517,
@@ -8572,9 +8572,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gangnam.trenmi.co.kr/",
-    "lat": 37.50404,
-    "lng": 127.05036,
-    "geoApprox": true
+    "lat": 37.5054070438773,
+    "lng": 127.026682479708,
+    "geoApprox": false
   },
   {
     "id": 518,
@@ -8588,9 +8588,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.47978,
-    "lng": 127.01812,
-    "geoApprox": true
+    "lat": 37.4876661025712,
+    "lng": 127.031559027455,
+    "geoApprox": false
   },
   {
     "id": 519,
@@ -8604,8 +8604,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.saycraft.co.kr",
-    "lat": 37.6368554,
-    "lng": 127.0247494,
+    "lat": 37.6371277340534,
+    "lng": 127.025191277715,
     "geoApprox": false
   },
   {
@@ -8620,8 +8620,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4541926,
-    "lng": 126.9010927,
+    "lat": 37.454225418124,
+    "lng": 126.901216447928,
     "geoApprox": false
   },
   {
@@ -8636,8 +8636,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5058102,
-    "lng": 127.10624,
+    "lat": 37.5058062726505,
+    "lng": 127.106167920976,
     "geoApprox": false
   },
   {
@@ -8652,9 +8652,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://fause.or.kr",
-    "lat": 37.532,
-    "lng": 126.8826,
-    "geoApprox": true
+    "lat": 37.5274986135335,
+    "lng": 126.895006415381,
+    "geoApprox": false
   },
   {
     "id": 523,
@@ -8671,9 +8671,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.yongsanedu.or.kr/",
-    "lat": 37.53884,
-    "lng": 126.99646,
-    "geoApprox": true
+    "lat": 37.5389037956572,
+    "lng": 126.965012154483,
+    "geoApprox": false
   },
   {
     "id": 524,
@@ -8688,8 +8688,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.dobongwoman.or.kr/",
-    "lat": 37.663349,
-    "lng": 127.030457,
+    "lat": 37.6633342131647,
+    "lng": 127.030401050561,
     "geoApprox": false
   },
   {
@@ -8704,8 +8704,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6208768,
-    "lng": 126.9191007,
+    "lat": 37.6208784469298,
+    "lng": 126.919096164116,
     "geoApprox": false
   },
   {
@@ -8720,8 +8720,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.557441,
-    "lng": 127.169679,
+    "lat": 37.5574405229047,
+    "lng": 127.16967893433,
     "geoApprox": false
   },
   {
@@ -8738,9 +8738,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "kramerschool.com",
-    "lat": 37.50638,
-    "lng": 127.09332,
-    "geoApprox": true
+    "lat": 37.5122773292847,
+    "lng": 127.110251239751,
+    "geoApprox": false
   },
   {
     "id": 528,
@@ -8754,8 +8754,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.kisa.co.kr",
-    "lat": 37.4790648,
-    "lng": 126.8834517,
+    "lat": 37.479966429878,
+    "lng": 126.88263620024,
     "geoApprox": false
   },
   {
@@ -8770,9 +8770,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "edutpk.co.kr",
-    "lat": 37.508,
-    "lng": 126.8823,
-    "geoApprox": true
+    "lat": 37.4833068478418,
+    "lng": 126.89359867439,
+    "geoApprox": false
   },
   {
     "id": 530,
@@ -8788,8 +8788,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://jpurme.org/",
-    "lat": 37.5840944,
-    "lng": 126.9698377,
+    "lat": 37.5840274363304,
+    "lng": 126.96997427579,
     "geoApprox": false
   },
   {
@@ -8805,8 +8805,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.517066,
-    "lng": 126.8644758,
+    "lat": 37.5170567070217,
+    "lng": 126.864388634123,
     "geoApprox": false
   },
   {
@@ -8821,8 +8821,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5413762,
-    "lng": 126.9733381,
+    "lat": 37.5413997471572,
+    "lng": 126.973296099405,
     "geoApprox": false
   },
   {
@@ -8837,9 +8837,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.topedu.kr",
-    "lat": 37.57782,
-    "lng": 126.99688,
-    "geoApprox": true
+    "lat": 37.5644110678081,
+    "lng": 127.002874834523,
+    "geoApprox": false
   },
   {
     "id": 534,
@@ -8854,8 +8854,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://coloso.co.kr/",
-    "lat": 37.503382,
-    "lng": 127.0415998,
+    "lat": 37.5028813541774,
+    "lng": 127.041356540268,
     "geoApprox": false
   },
   {
@@ -8871,9 +8871,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://jungnang.seoulwomanup.or.kr/",
-    "lat": 37.6161,
-    "lng": 127.0774,
-    "geoApprox": true
+    "lat": 37.592995952764,
+    "lng": 127.076476348168,
+    "geoApprox": false
   },
   {
     "id": 536,
@@ -8888,9 +8888,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.fwc.or.kr/",
-    "lat": 37.48196,
-    "lng": 126.87244,
-    "geoApprox": true
+    "lat": 37.4818020938496,
+    "lng": 126.890562715528,
+    "geoApprox": false
   },
   {
     "id": 537,
@@ -8904,8 +8904,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://live-lab.siwonschool.ac/",
-    "lat": 37.5565154,
-    "lng": 126.9240228,
+    "lat": 37.5565331423821,
+    "lng": 126.924060032781,
     "geoApprox": false
   },
   {
@@ -8920,8 +8920,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4825893,
-    "lng": 127.1228334,
+    "lat": 37.4826157890248,
+    "lng": 127.122826416048,
     "geoApprox": false
   },
   {
@@ -8936,9 +8936,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://naver.me/5VmsbrYp",
-    "lat": 37.48624,
-    "lng": 126.94616,
-    "geoApprox": true
+    "lat": 37.4820441870141,
+    "lng": 126.917252351174,
+    "geoApprox": false
   },
   {
     "id": 540,
@@ -8952,8 +8952,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "nowon.allthat-beauty.com",
-    "lat": 37.6543215,
-    "lng": 127.0621692,
+    "lat": 37.6543222923845,
+    "lng": 127.062168567542,
     "geoApprox": false
   },
   {
@@ -8984,9 +8984,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.didgevibe.com",
-    "lat": 37.52,
-    "lng": 127.0575,
-    "geoApprox": true
+    "lat": 37.4817960784401,
+    "lng": 127.043351995783,
+    "geoApprox": false
   },
   {
     "id": 543,
@@ -9000,9 +9000,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kedu21.co.kr",
-    "lat": 37.53828,
-    "lng": 126.99442,
-    "geoApprox": true
+    "lat": 37.5445808383243,
+    "lng": 126.972997701523,
+    "geoApprox": false
   },
   {
     "id": 544,
@@ -9016,9 +9016,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51974,
-    "lng": 127.13696,
-    "geoApprox": true
+    "lat": 37.5292613524201,
+    "lng": 127.142992352633,
+    "geoApprox": false
   },
   {
     "id": 545,
@@ -9035,8 +9035,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://songpa.seoulwomanup.or.kr",
-    "lat": 37.4963405,
-    "lng": 127.1187984,
+    "lat": 37.4963405358618,
+    "lng": 127.118798446524,
     "geoApprox": false
   },
   {
@@ -9051,8 +9051,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5505129,
-    "lng": 127.1450294,
+    "lat": 37.5505129007445,
+    "lng": 127.14502941322,
     "geoApprox": false
   },
   {
@@ -9099,9 +9099,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.ncdrive.co.kr",
-    "lat": 37.66428,
-    "lng": 127.05952,
-    "geoApprox": true
+    "lat": 37.643537632818,
+    "lng": 127.051464657906,
+    "geoApprox": false
   },
   {
     "id": 550,
@@ -9115,9 +9115,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "allpasscampus.co.kr",
-    "lat": 37.50576,
-    "lng": 126.87414,
-    "geoApprox": true
+    "lat": 37.4821079378772,
+    "lng": 126.895281502292,
+    "geoApprox": false
   },
   {
     "id": 551,
@@ -9131,9 +9131,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.newbornpilates.com",
-    "lat": 37.4826,
-    "lng": 126.9499,
-    "geoApprox": true
+    "lat": 37.4847068287051,
+    "lng": 126.930663063584,
+    "geoApprox": false
   },
   {
     "id": 552,
@@ -9147,8 +9147,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.shuvpilates.com",
-    "lat": 37.572405,
-    "lng": 127.0555089,
+    "lat": 37.5724894025765,
+    "lng": 127.055597303756,
     "geoApprox": false
   },
   {
@@ -9164,8 +9164,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.gwangjin.or.kr/",
-    "lat": 37.5375773,
-    "lng": 127.0705582,
+    "lat": 37.5375706269359,
+    "lng": 127.070576040786,
     "geoApprox": false
   },
   {
@@ -9180,8 +9180,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hyehwa.sbsart.com/",
-    "lat": 37.5842131,
-    "lng": 127.0019032,
+    "lat": 37.5842489176,
+    "lng": 127.002029979851,
     "geoApprox": false
   },
   {
@@ -9196,9 +9196,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.47222,
-    "lng": 127.04158,
-    "geoApprox": true
+    "lat": 37.4852533866519,
+    "lng": 127.030515870452,
+    "geoApprox": false
   },
   {
     "id": 556,
@@ -9212,8 +9212,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5454984,
-    "lng": 126.8626921,
+    "lat": 37.5454968174628,
+    "lng": 126.86269396164,
     "geoApprox": false
   },
   {
@@ -9234,8 +9234,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.5582383,
-    "lng": 126.9994886,
+    "lat": 37.5589366401553,
+    "lng": 126.998737605491,
     "geoApprox": false
   },
   {
@@ -9250,8 +9250,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4809069,
-    "lng": 127.1217328,
+    "lat": 37.4807917612963,
+    "lng": 127.120842269438,
     "geoApprox": false
   },
   {
@@ -9266,9 +9266,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.insadream.com/main/index.html",
-    "lat": 37.49742,
-    "lng": 127.03138,
-    "geoApprox": true
+    "lat": 37.480883127568,
+    "lng": 126.982242783244,
+    "geoApprox": false
   },
   {
     "id": 560,
@@ -9286,8 +9286,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.seochowomen.kr/seocho/index.do",
-    "lat": 37.5026616,
-    "lng": 127.0221206,
+    "lat": 37.5027155848517,
+    "lng": 127.022210022593,
     "geoApprox": false
   },
   {
@@ -9302,8 +9302,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.ssuedu.kr/",
-    "lat": 37.495414,
-    "lng": 126.954892,
+    "lat": 37.4954053993678,
+    "lng": 126.95485331925,
     "geoApprox": false
   },
   {
@@ -9319,9 +9319,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://banposenior.org",
-    "lat": 37.48706,
-    "lng": 127.04464,
-    "geoApprox": true
+    "lat": 37.5044198399477,
+    "lng": 126.998278787595,
+    "geoApprox": false
   },
   {
     "id": 563,
@@ -9335,9 +9335,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.naver.com/withpiano07",
-    "lat": 37.60046,
-    "lng": 126.92094,
-    "geoApprox": true
+    "lat": 37.6194098554967,
+    "lng": 126.919650287607,
+    "geoApprox": false
   },
   {
     "id": 564,
@@ -9351,8 +9351,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5007016,
-    "lng": 127.0341008,
+    "lat": 37.5006504238701,
+    "lng": 127.034151551929,
     "geoApprox": false
   },
   {
@@ -9369,9 +9369,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.51168,
-    "lng": 126.86402,
-    "geoApprox": true
+    "lat": 37.5143994546524,
+    "lng": 126.859671273515,
+    "geoApprox": false
   },
   {
     "id": 566,
@@ -9386,9 +9386,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "",
-    "lat": 37.4714,
-    "lng": 126.9431,
-    "geoApprox": true
+    "lat": 37.4820178180774,
+    "lng": 126.905745559577,
+    "geoApprox": false
   },
   {
     "id": 567,
@@ -9402,9 +9402,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kiveed.co.kr/",
-    "lat": 37.53458,
-    "lng": 127.14002,
-    "geoApprox": true
+    "lat": 37.535692266714,
+    "lng": 127.131740412059,
+    "geoApprox": false
   },
   {
     "id": 568,
@@ -9418,9 +9418,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://cafe.naver.com/leesamcom",
-    "lat": 37.59878,
-    "lng": 126.91482,
-    "geoApprox": true
+    "lat": 37.6137601237622,
+    "lng": 126.912315879884,
+    "geoApprox": false
   },
   {
     "id": 569,
@@ -9435,8 +9435,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://www.gla.or.kr",
-    "lat": 37.5070011,
-    "lng": 127.1050955,
+    "lat": 37.5070042192613,
+    "lng": 127.105092338682,
     "geoApprox": false
   },
   {
@@ -9451,8 +9451,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kkspc.kr/",
-    "lat": 37.500254,
-    "lng": 126.922654,
+    "lat": 37.4996876886461,
+    "lng": 126.921171440403,
     "geoApprox": false
   },
   {
@@ -9467,9 +9467,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.inbm.kr/main/index.jsp",
-    "lat": 37.52618,
-    "lng": 127.07142,
-    "geoApprox": true
+    "lat": 37.535725176732,
+    "lng": 127.095692162256,
+    "geoApprox": false
   },
   {
     "id": 572,
@@ -9483,8 +9483,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5582067,
-    "lng": 126.8449136,
+    "lat": 37.5582028449804,
+    "lng": 126.844922731223,
     "geoApprox": false
   },
   {
@@ -9499,8 +9499,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.esmod.co.kr",
-    "lat": 37.5227539,
-    "lng": 127.0203176,
+    "lat": 37.522695242361,
+    "lng": 127.020317951629,
     "geoApprox": false
   },
   {
@@ -9516,8 +9516,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://beautifulbodyacademy.kr/",
-    "lat": 37.5077714,
-    "lng": 127.0367033,
+    "lat": 37.5074347785897,
+    "lng": 127.037537148914,
     "geoApprox": false
   },
   {
@@ -9532,8 +9532,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.gn-hscook.com/main/index.do",
-    "lat": 37.4987437,
-    "lng": 127.0267,
+    "lat": 37.4987750083767,
+    "lng": 127.026692446306,
     "geoApprox": false
   },
   {
@@ -9548,9 +9548,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://edu.csu.ac.kr/",
-    "lat": 37.52472,
-    "lng": 126.95018,
-    "geoApprox": true
+    "lat": 37.4879290070931,
+    "lng": 126.966763108256,
+    "geoApprox": false
   },
   {
     "id": 577,
@@ -9564,8 +9564,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "7study.co.kr",
-    "lat": 37.4566024,
-    "lng": 127.0595123,
+    "lat": 37.4566480469869,
+    "lng": 127.059522329008,
     "geoApprox": false
   },
   {
@@ -9583,9 +9583,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.nsice.kr",
-    "lat": 37.57328,
-    "lng": 127.03552,
-    "geoApprox": true
+    "lat": 37.5767579715876,
+    "lng": 127.024888817848,
+    "geoApprox": false
   },
   {
     "id": 579,
@@ -9599,8 +9599,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://academy.crowdworks.kr/",
-    "lat": 37.5035476,
-    "lng": 127.0444153,
+    "lat": 37.5035572530344,
+    "lng": 127.04443196555,
     "geoApprox": false
   },
   {
@@ -9615,9 +9615,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.smartonepass.co.kr/",
-    "lat": 37.50148,
-    "lng": 126.95052,
-    "geoApprox": true
+    "lat": 37.494873702941,
+    "lng": 126.958505392549,
+    "geoApprox": false
   },
   {
     "id": 581,
@@ -9631,8 +9631,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "hyon.hanyang.ac.kr",
-    "lat": 37.5569876,
-    "lng": 127.0470893,
+    "lat": 37.5545036393023,
+    "lng": 127.046611216845,
     "geoApprox": false
   },
   {
@@ -9663,8 +9663,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.no1hsk.co.kr",
-    "lat": 37.5463327,
-    "lng": 126.9226841,
+    "lat": 37.5463326811966,
+    "lng": 126.922684063912,
     "geoApprox": false
   },
   {
@@ -9680,9 +9680,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://blog.naver.com/mmsi2020",
-    "lat": 37.47474,
-    "lng": 127.03376,
-    "geoApprox": true
+    "lat": 37.4922687743127,
+    "lng": 127.016101623528,
+    "geoApprox": false
   },
   {
     "id": 585,
@@ -9696,8 +9696,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6063817,
-    "lng": 127.0946261,
+    "lat": 37.6064526315197,
+    "lng": 127.094707041869,
     "geoApprox": false
   },
   {
@@ -9712,9 +9712,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://kelispetaca.com/academy/introduce.asp",
-    "lat": 37.48034,
-    "lng": 127.02016,
-    "geoApprox": true
+    "lat": 37.5105734454153,
+    "lng": 127.018459507873,
+    "geoApprox": false
   },
   {
     "id": 587,
@@ -9728,9 +9728,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kib.or.kr",
-    "lat": 37.53564,
-    "lng": 126.91286,
-    "geoApprox": true
+    "lat": 37.5159630199729,
+    "lng": 126.922035366789,
+    "geoApprox": false
   },
   {
     "id": 588,
@@ -9744,8 +9744,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://lab.siwonschool.ac/",
-    "lat": 37.5565154,
-    "lng": 126.9240228,
+    "lat": 37.5565331423821,
+    "lng": 126.924060032781,
     "geoApprox": false
   },
   {
@@ -9760,9 +9760,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sida.or.kr",
-    "lat": 37.51212,
-    "lng": 126.95528,
-    "geoApprox": true
+    "lat": 37.477113558418,
+    "lng": 126.977874433857,
+    "geoApprox": false
   },
   {
     "id": 590,
@@ -9776,8 +9776,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://new.uniwise.kr/",
-    "lat": 37.4883111,
-    "lng": 127.1040363,
+    "lat": 37.4885591040326,
+    "lng": 127.104470715166,
     "geoApprox": false
   },
   {
@@ -9792,9 +9792,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51926,
-    "lng": 127.10624,
-    "geoApprox": true
+    "lat": 37.4953081365846,
+    "lng": 127.124168794375,
+    "geoApprox": false
   },
   {
     "id": 592,
@@ -9808,9 +9808,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "edu.jobgo.ne.kr",
-    "lat": 37.4898,
-    "lng": 126.901,
-    "geoApprox": true
+    "lat": 37.4869823311106,
+    "lng": 126.895314838586,
+    "geoApprox": false
   },
   {
     "id": 593,
@@ -9824,9 +9824,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.naver.com/bangwhapulib",
-    "lat": 37.55762,
-    "lng": 126.83998,
-    "geoApprox": true
+    "lat": 37.5608674912247,
+    "lng": 126.812019329631,
+    "geoApprox": false
   },
   {
     "id": 594,
@@ -9840,9 +9840,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.gurocc.or.kr",
-    "lat": 37.49456,
-    "lng": 126.90134,
-    "geoApprox": true
+    "lat": 37.4953581177104,
+    "lng": 126.846035797544,
+    "geoApprox": false
   },
   {
     "id": 595,
@@ -9856,8 +9856,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5825682,
-    "lng": 127.0441478,
+    "lat": 37.5825251776862,
+    "lng": 127.044175666746,
     "geoApprox": false
   },
   {
@@ -9872,9 +9872,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.imbpilates.com",
-    "lat": 37.51436,
-    "lng": 126.90334,
-    "geoApprox": true
+    "lat": 37.5341717034196,
+    "lng": 126.895419416931,
+    "geoApprox": false
   },
   {
     "id": 597,
@@ -9888,8 +9888,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://friendlyuni2.com/",
-    "lat": 37.5491624,
-    "lng": 126.9182108,
+    "lat": 37.5490840454683,
+    "lng": 126.918247241653,
     "geoApprox": false
   },
   {
@@ -9904,8 +9904,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5457314,
-    "lng": 126.9512725,
+    "lat": 37.5456898892221,
+    "lng": 126.951150675917,
     "geoApprox": false
   },
   {
@@ -9921,9 +9921,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.isbcc.or.kr",
-    "lat": 37.59164,
-    "lng": 127.02486,
-    "geoApprox": true
+    "lat": 37.5897131362686,
+    "lng": 127.00574980327,
+    "geoApprox": false
   },
   {
     "id": 600,
@@ -9941,8 +9941,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://class101.net/ko/pages/lllcard_voucher",
-    "lat": 37.4991955,
-    "lng": 127.0282138,
+    "lat": 37.4991963225538,
+    "lng": 127.028227205943,
     "geoApprox": false
   },
   {
@@ -9958,9 +9958,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://laroseschool.com/",
-    "lat": 37.5242,
-    "lng": 127.0558,
-    "geoApprox": true
+    "lat": 37.5093081354553,
+    "lng": 127.024120486906,
+    "geoApprox": false
   },
   {
     "id": 602,
@@ -9974,9 +9974,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "musiclifebalance.com",
-    "lat": 37.5413,
-    "lng": 127.1305,
-    "geoApprox": true
+    "lat": 37.5378379676663,
+    "lng": 127.12733248525,
+    "geoApprox": false
   },
   {
     "id": 603,
@@ -9990,9 +9990,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "http://lifelong.rts.ac.kr/index.php",
-    "lat": 37.63848,
-    "lng": 127.02162,
-    "geoApprox": true
+    "lat": 37.6295549133101,
+    "lng": 127.024506175514,
+    "geoApprox": false
   },
   {
     "id": 604,
@@ -10007,9 +10007,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.epurun.org/xe/",
-    "lat": 37.57188,
-    "lng": 127.04742,
-    "geoApprox": true
+    "lat": 37.5934101343369,
+    "lng": 127.057975538074,
+    "geoApprox": false
   },
   {
     "id": 605,
@@ -10023,8 +10023,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4918444,
-    "lng": 126.8545728,
+    "lat": 37.4917176446806,
+    "lng": 126.854823249622,
     "geoApprox": false
   },
   {
@@ -10039,8 +10039,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.ezenac.co.kr/",
-    "lat": 37.5012347,
-    "lng": 127.0249422,
+    "lat": 37.5012446735418,
+    "lng": 127.025011541805,
     "geoApprox": false
   },
   {
@@ -10059,9 +10059,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.dongjakedu.or.kr",
-    "lat": 37.51296,
-    "lng": 126.94134,
-    "geoApprox": true
+    "lat": 37.4836744046029,
+    "lng": 126.975870683329,
+    "geoApprox": false
   },
   {
     "id": 608,
@@ -10075,8 +10075,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.oflec.co.kr",
-    "lat": 37.5984231,
-    "lng": 127.0917744,
+    "lat": 37.5983328190955,
+    "lng": 127.091624142481,
     "geoApprox": false
   },
   {
@@ -10092,8 +10092,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://culture.lottemart.com/cu/branch/main.do?search_str_cd=103",
-    "lat": 37.5278168,
-    "lng": 126.904734,
+    "lat": 37.5278167645388,
+    "lng": 126.904683469106,
     "geoApprox": false
   },
   {
@@ -10109,9 +10109,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.tomatopass.com",
-    "lat": 37.56378,
-    "lng": 126.90972,
-    "geoApprox": true
+    "lat": 37.5476517073622,
+    "lng": 126.910633373874,
+    "geoApprox": false
   },
   {
     "id": 611,
@@ -10125,9 +10125,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.58414,
-    "lng": 126.98376,
-    "geoApprox": true
+    "lat": 37.5685772978957,
+    "lng": 126.970068090336,
+    "geoApprox": false
   },
   {
     "id": 612,
@@ -10141,9 +10141,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.beveragemaster.kr",
-    "lat": 37.52108,
-    "lng": 126.95392,
-    "geoApprox": true
+    "lat": 37.4788250050337,
+    "lng": 126.980849947143,
+    "geoApprox": false
   },
   {
     "id": 613,
@@ -10157,9 +10157,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://cafe.daum.net/Yulbang",
-    "lat": 37.4828526,
-    "lng": 126.98155,
-    "geoApprox": false
+    "lat": 37.5124,
+    "lng": 126.9393,
+    "geoApprox": true
   },
   {
     "id": 614,
@@ -10174,8 +10174,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://nowon.seoulwomanup.or.kr/nowon/main/main.do",
-    "lat": 37.626405,
-    "lng": 127.0790931,
+    "lat": 37.6264729309465,
+    "lng": 127.078659800067,
     "geoApprox": false
   },
   {
@@ -10190,9 +10190,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.postacademy.co.kr/",
-    "lat": 37.50876,
-    "lng": 126.94304,
-    "geoApprox": true
+    "lat": 37.508948938711,
+    "lng": 126.940744146813,
+    "geoApprox": false
   },
   {
     "id": 616,
@@ -10206,8 +10206,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://weepcc.com/main.do",
-    "lat": 37.4827695,
-    "lng": 126.9971207,
+    "lat": 37.4827665443634,
+    "lng": 126.997121512739,
     "geoApprox": false
   },
   {
@@ -10222,9 +10222,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://seohaegeunart.qshop.ai",
-    "lat": 37.6494,
-    "lng": 127.0104,
-    "geoApprox": true
+    "lat": 37.6238839778191,
+    "lng": 127.025934549499,
+    "geoApprox": false
   },
   {
     "id": 618,
@@ -10238,9 +10238,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kmdplus.net",
-    "lat": 37.5564,
-    "lng": 127.0284,
-    "geoApprox": true
+    "lat": 37.5622145125933,
+    "lng": 127.032473504678,
+    "geoApprox": false
   },
   {
     "id": 619,
@@ -10254,9 +10254,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hackers.com/voucher.html",
-    "lat": 37.47362,
-    "lng": 127.02968,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 620,
@@ -10271,9 +10271,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.58744,
-    "lng": 127.02656,
-    "geoApprox": true
+    "lat": 37.5858207643032,
+    "lng": 127.021375582392,
+    "geoApprox": false
   },
   {
     "id": 621,
@@ -10287,8 +10287,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.654217,
-    "lng": 127.059212,
+    "lat": 37.6542594101858,
+    "lng": 127.058998300206,
     "geoApprox": false
   },
   {
@@ -10303,9 +10303,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.lumiepiano.com",
-    "lat": 37.50946,
-    "lng": 127.12154,
-    "geoApprox": true
+    "lat": 37.5152124851212,
+    "lng": 127.110875301006,
+    "geoApprox": false
   },
   {
     "id": 623,
@@ -10319,9 +10319,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://아람컴퓨터학원.kr",
-    "lat": 37.5054,
-    "lng": 126.9308,
-    "geoApprox": true
+    "lat": 37.4880289275169,
+    "lng": 126.97651661753,
+    "geoApprox": false
   },
   {
     "id": 624,
@@ -10336,9 +10336,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://vylzstudio.com/",
-    "lat": 37.5894,
-    "lng": 127.0167,
-    "geoApprox": true
+    "lat": 37.5884338916422,
+    "lng": 127.017698158075,
+    "geoApprox": false
   },
   {
     "id": 625,
@@ -10352,9 +10352,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hiroto.imweb.me",
-    "lat": 37.52108,
-    "lng": 126.89382,
-    "geoApprox": true
+    "lat": 37.5154611152724,
+    "lng": 126.917717577016,
+    "geoApprox": false
   },
   {
     "id": 626,
@@ -10368,8 +10368,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.f4school.com",
-    "lat": 37.4889887,
-    "lng": 126.8924294,
+    "lat": 37.488977254588,
+    "lng": 126.892409245918,
     "geoApprox": false
   },
   {
@@ -10384,8 +10384,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://artafterwork.modoo.at/",
-    "lat": 37.5963217,
-    "lng": 127.0844825,
+    "lat": 37.5963249063927,
+    "lng": 127.084449475696,
     "geoApprox": false
   },
   {
@@ -10400,9 +10400,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.57238,
-    "lng": 126.94632,
-    "geoApprox": true
+    "lat": 37.5565766684541,
+    "lng": 126.935430006304,
+    "geoApprox": false
   },
   {
     "id": 629,
@@ -10416,9 +10416,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "job.hackers.com",
-    "lat": 37.4893,
-    "lng": 127.0188,
-    "geoApprox": true
+    "lat": 37.4984422182507,
+    "lng": 127.023977667952,
+    "geoApprox": false
   },
   {
     "id": 630,
@@ -10436,9 +10436,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://ydpedu.or.kr/",
-    "lat": 37.525,
-    "lng": 126.9081,
-    "geoApprox": true
+    "lat": 37.5201212421417,
+    "lng": 126.897195669575,
+    "geoApprox": false
   },
   {
     "id": 631,
@@ -10458,9 +10458,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.50468,
-    "lng": 126.85552,
-    "geoApprox": true
+    "lat": 37.5264477006035,
+    "lng": 126.860468217608,
+    "geoApprox": false
   },
   {
     "id": 632,
@@ -10476,9 +10476,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.kapca.co.kr",
-    "lat": 37.47446,
-    "lng": 127.01574,
-    "geoApprox": true
+    "lat": 37.4879397236045,
+    "lng": 127.013802630429,
+    "geoApprox": false
   },
   {
     "id": 633,
@@ -10492,8 +10492,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.sjau.co.kr/",
-    "lat": 37.4669097,
-    "lng": 126.8884175,
+    "lat": 37.466834192886,
+    "lng": 126.887999661463,
     "geoApprox": false
   },
   {
@@ -10508,8 +10508,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/eve_pilates",
-    "lat": 37.4791709,
-    "lng": 126.9520792,
+    "lat": 37.4791673332663,
+    "lng": 126.952082762624,
     "geoApprox": false
   },
   {
@@ -10524,8 +10524,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gangnam.greenart.co.kr/?cam_idx=1",
-    "lat": 37.5001716,
-    "lng": 127.0290709,
+    "lat": 37.5001716373021,
+    "lng": 127.029070884291,
     "geoApprox": false
   },
   {
@@ -10540,9 +10540,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.champstudy.com",
-    "lat": 37.49462,
-    "lng": 127.02118,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 637,
@@ -10556,9 +10556,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.phonetimes.co.kr",
-    "lat": 37.48874,
-    "lng": 127.01676,
-    "geoApprox": true
+    "lat": 37.4814601101238,
+    "lng": 127.041289669963,
+    "geoApprox": false
   },
   {
     "id": 638,
@@ -10572,8 +10572,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.pagoda21.com/",
-    "lat": 37.499765,
-    "lng": 127.0261518,
+    "lat": 37.4998007315864,
+    "lng": 127.026210824749,
     "geoApprox": false
   },
   {
@@ -10588,9 +10588,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.ddazua.com",
-    "lat": 37.50824,
-    "lng": 127.04866,
-    "geoApprox": true
+    "lat": 37.4890038669589,
+    "lng": 127.032417023084,
+    "geoApprox": false
   },
   {
     "id": 640,
@@ -10604,8 +10604,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.epasskorea.com",
-    "lat": 37.5144234,
-    "lng": 126.8993143,
+    "lat": 37.5147464245043,
+    "lng": 126.897536835727,
     "geoApprox": false
   },
   {
@@ -10620,8 +10620,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/pilates_thelab",
-    "lat": 37.5328892,
-    "lng": 126.8641735,
+    "lat": 37.5328851583631,
+    "lng": 126.864166285292,
     "geoApprox": false
   },
   {
@@ -10636,9 +10636,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5427,
-    "lng": 127.1186,
-    "geoApprox": true
+    "lat": 37.5476397743305,
+    "lng": 127.125463320342,
+    "geoApprox": false
   },
   {
     "id": 643,
@@ -10652,9 +10652,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://delightyogapilates.modoo.at/",
-    "lat": 37.51632,
-    "lng": 126.95358,
-    "geoApprox": true
+    "lat": 37.4999054539561,
+    "lng": 126.929876950722,
+    "geoApprox": false
   },
   {
     "id": 644,
@@ -10669,9 +10669,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.iedunet.com",
-    "lat": 37.50638,
-    "lng": 127.09332,
-    "geoApprox": true
+    "lat": 37.4925121515113,
+    "lng": 127.122858564015,
+    "geoApprox": false
   },
   {
     "id": 645,
@@ -10685,9 +10685,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.53486,
-    "lng": 127.12404,
-    "geoApprox": true
+    "lat": 37.5353823022529,
+    "lng": 127.135107906125,
+    "geoApprox": false
   },
   {
     "id": 646,
@@ -10701,8 +10701,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.re-onpilates.com/",
-    "lat": 37.5682664,
-    "lng": 126.8403632,
+    "lat": 37.5682660192783,
+    "lng": 126.840359563104,
     "geoApprox": false
   },
   {
@@ -10718,9 +10718,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.ktaia.or.kr",
-    "lat": 37.57042,
-    "lng": 126.98478,
-    "geoApprox": true
+    "lat": 37.5735402753764,
+    "lng": 126.988861161086,
+    "geoApprox": false
   },
   {
     "id": 648,
@@ -10735,9 +10735,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://edu.scu.ac.kr/index.html",
-    "lat": 37.6027,
-    "lng": 126.9291,
-    "geoApprox": true
+    "lat": 37.6007568622066,
+    "lng": 126.91219242164,
+    "geoApprox": false
   },
   {
     "id": 649,
@@ -10753,9 +10753,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.senior21.or.kr/",
-    "lat": 37.57078,
-    "lng": 126.91822,
-    "geoApprox": true
+    "lat": 37.5489410696863,
+    "lng": 126.932211433726,
+    "geoApprox": false
   },
   {
     "id": 650,
@@ -10769,9 +10769,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://labstandard.kr/",
-    "lat": 37.46692,
-    "lng": 126.96078,
-    "geoApprox": true
+    "lat": 37.470586937177,
+    "lng": 126.935116639368,
+    "geoApprox": false
   },
   {
     "id": 651,
@@ -10785,8 +10785,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5288187,
-    "lng": 127.1247769,
+    "lat": 37.5288187075913,
+    "lng": 127.124776862823,
     "geoApprox": false
   },
   {
@@ -10801,8 +10801,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5065133,
-    "lng": 127.1085171,
+    "lat": 37.5065099874616,
+    "lng": 127.10851448578,
     "geoApprox": false
   },
   {
@@ -10817,8 +10817,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5082948,
-    "lng": 127.1069803,
+    "lat": 37.5082953730182,
+    "lng": 127.106983519056,
     "geoApprox": false
   },
   {
@@ -10833,9 +10833,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.japansisa.com/",
-    "lat": 37.50572,
-    "lng": 127.05648,
-    "geoApprox": true
+    "lat": 37.4965236567567,
+    "lng": 127.030094580007,
+    "geoApprox": false
   },
   {
     "id": 655,
@@ -10849,9 +10849,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.49736,
-    "lng": 126.87754,
-    "geoApprox": true
+    "lat": 37.4959404465654,
+    "lng": 126.872266560677,
+    "geoApprox": false
   },
   {
     "id": 656,
@@ -10865,8 +10865,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5584946,
-    "lng": 126.8443127,
+    "lat": 37.5584901906998,
+    "lng": 126.844251896463,
     "geoApprox": false
   },
   {
@@ -10881,9 +10881,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.57348,
-    "lng": 127.03962,
-    "geoApprox": true
+    "lat": 37.5407866916563,
+    "lng": 127.062858427901,
+    "geoApprox": false
   },
   {
     "id": 658,
@@ -10900,9 +10900,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "",
-    "lat": 37.50848,
-    "lng": 126.92502,
-    "geoApprox": true
+    "lat": 37.4779750061319,
+    "lng": 126.97881673126,
+    "geoApprox": false
   },
   {
     "id": 659,
@@ -10916,8 +10916,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6386648,
-    "lng": 126.9191072,
+    "lat": 37.6386515578411,
+    "lng": 126.919081540985,
     "geoApprox": false
   },
   {
@@ -10932,8 +10932,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://miraesoledu.com/web/html/00_main/",
-    "lat": 37.5144234,
-    "lng": 126.8993143,
+    "lat": 37.5147464245043,
+    "lng": 126.897536835727,
     "geoApprox": false
   },
   {
@@ -10949,8 +10949,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://culture.lottemart.com/cu/common/main.do",
-    "lat": 37.6371777,
-    "lng": 126.9179672,
+    "lat": 37.6375366740938,
+    "lng": 126.917900261732,
     "geoApprox": false
   },
   {
@@ -10965,9 +10965,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.hakjum.com/",
-    "lat": 37.5646,
-    "lng": 127.0549,
-    "geoApprox": true
+    "lat": 37.575967817641,
+    "lng": 127.025227715258,
+    "geoApprox": false
   },
   {
     "id": 663,
@@ -10981,9 +10981,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://career.baeoom.com/",
-    "lat": 37.52,
-    "lng": 127.0575,
-    "geoApprox": true
+    "lat": 37.5196000023598,
+    "lng": 127.034111771548,
+    "geoApprox": false
   },
   {
     "id": 664,
@@ -10997,9 +10997,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kyungrok.com",
-    "lat": 37.52532,
-    "lng": 127.05988,
-    "geoApprox": true
+    "lat": 37.5153728667229,
+    "lng": 127.060600074415,
+    "geoApprox": false
   },
   {
     "id": 665,
@@ -11014,9 +11014,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://ddm2016.or.kr/",
-    "lat": 37.56488,
-    "lng": 127.03892,
-    "geoApprox": true
+    "lat": 37.5718134590301,
+    "lng": 127.034047390232,
+    "geoApprox": false
   },
   {
     "id": 666,
@@ -11031,9 +11031,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.dreammoa.co.kr",
-    "lat": 37.52794,
-    "lng": 127.12086,
-    "geoApprox": true
+    "lat": 37.4992046382804,
+    "lng": 127.115635718074,
+    "geoApprox": false
   },
   {
     "id": 667,
@@ -11048,8 +11048,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.jongnoedu.or.kr/",
-    "lat": 37.5707276,
-    "lng": 126.9889123,
+    "lat": 37.5707116115999,
+    "lng": 126.988970930135,
     "geoApprox": false
   },
   {
@@ -11065,8 +11065,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5447128,
-    "lng": 126.8644593,
+    "lat": 37.5447411807229,
+    "lng": 126.864436156194,
     "geoApprox": false
   },
   {
@@ -11081,9 +11081,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com",
-    "lat": 37.57322,
-    "lng": 126.99498,
-    "geoApprox": true
+    "lat": 37.5847278129416,
+    "lng": 126.999995358075,
+    "geoApprox": false
   },
   {
     "id": 670,
@@ -11097,8 +11097,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.unisense.co.kr",
-    "lat": 37.559507,
-    "lng": 127.080497,
+    "lat": 37.5593914636655,
+    "lng": 127.080432577572,
     "geoApprox": false
   },
   {
@@ -11113,9 +11113,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.carnegie.co.kr",
-    "lat": 37.51104,
-    "lng": 127.05886,
-    "geoApprox": true
+    "lat": 37.4977567310464,
+    "lng": 127.036336982577,
+    "geoApprox": false
   },
   {
     "id": 672,
@@ -11129,8 +11129,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://edueroom.co.kr",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -11145,9 +11145,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.64608,
-    "lng": 127.04422,
-    "geoApprox": true
+    "lat": 37.6614070590072,
+    "lng": 127.071421623267,
+    "geoApprox": false
   },
   {
     "id": 674,
@@ -11162,9 +11162,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.3pbinder.com",
-    "lat": 37.50526,
-    "lng": 127.08924,
-    "geoApprox": true
+    "lat": 37.4822372129744,
+    "lng": 127.127311561889,
+    "geoApprox": false
   },
   {
     "id": 675,
@@ -11178,8 +11178,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.ssamplus.com/",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -11194,9 +11194,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.58926,
-    "lng": 126.91414,
-    "geoApprox": true
+    "lat": 37.6105156536156,
+    "lng": 126.917939827365,
+    "geoApprox": false
   },
   {
     "id": 677,
@@ -11210,9 +11210,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://gaonacademy.co.kr",
-    "lat": 37.5259,
-    "lng": 127.1254,
-    "geoApprox": true
+    "lat": 37.5506748942132,
+    "lng": 127.129371052817,
+    "geoApprox": false
   },
   {
     "id": 678,
@@ -11226,9 +11226,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.barunlawhr.com/",
-    "lat": 37.53064,
-    "lng": 127.06226,
-    "geoApprox": true
+    "lat": 37.506819370974,
+    "lng": 127.061108555711,
+    "geoApprox": false
   },
   {
     "id": 679,
@@ -11242,8 +11242,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/deerbloom21",
-    "lat": 37.5025979,
-    "lng": 126.9210344,
+    "lat": 37.5025999167749,
+    "lng": 126.921032666538,
     "geoApprox": false
   },
   {
@@ -11258,8 +11258,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.542226,
-    "lng": 126.839469,
+    "lat": 37.542166182348,
+    "lng": 126.83947141915,
     "geoApprox": false
   },
   {
@@ -11276,9 +11276,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.jgwoman.or.kr",
-    "lat": 37.55318,
-    "lng": 127.00912,
-    "geoApprox": true
+    "lat": 37.5612850641807,
+    "lng": 127.01483671351,
+    "geoApprox": false
   },
   {
     "id": 682,
@@ -11292,9 +11292,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5074,
-    "lng": 127.0626,
-    "geoApprox": true
+    "lat": 37.5244927825397,
+    "lng": 127.026481801436,
+    "geoApprox": false
   },
   {
     "id": 683,
@@ -11308,8 +11308,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5213989,
-    "lng": 126.9302334,
+    "lat": 37.521398852831,
+    "lng": 126.930233423328,
     "geoApprox": false
   },
   {
@@ -11324,9 +11324,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "http://rapha-rehab.co.kr",
-    "lat": 37.5422,
-    "lng": 126.9747,
-    "geoApprox": true
+    "lat": 37.5451767878566,
+    "lng": 126.986201647307,
+    "geoApprox": false
   },
   {
     "id": 685,
@@ -11344,9 +11344,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "",
-    "lat": 37.47138,
-    "lng": 127.02152,
-    "geoApprox": true
+    "lat": 37.4773561951498,
+    "lng": 126.98466210082,
+    "geoApprox": false
   },
   {
     "id": 686,
@@ -11360,8 +11360,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.sihf.or.kr",
-    "lat": 37.4995563,
-    "lng": 126.9081492,
+    "lat": 37.4995976462214,
+    "lng": 126.908271474907,
     "geoApprox": false
   },
   {
@@ -11376,9 +11376,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "newpass.co.kr",
-    "lat": 37.49008,
-    "lng": 126.88502,
-    "geoApprox": true
+    "lat": 37.4833068478418,
+    "lng": 126.89359867439,
+    "geoApprox": false
   },
   {
     "id": 688,
@@ -11392,9 +11392,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.gd-hscook.com/main/index.do",
-    "lat": 37.54214,
-    "lng": 127.11656,
-    "geoApprox": true
+    "lat": 37.5392864881483,
+    "lng": 127.123013114626,
+    "geoApprox": false
   },
   {
     "id": 689,
@@ -11408,9 +11408,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gangnam.sbsgameacademy.com",
-    "lat": 37.47474,
-    "lng": 127.03376,
-    "geoApprox": true
+    "lat": 37.5018444583427,
+    "lng": 127.024653352058,
+    "geoApprox": false
   },
   {
     "id": 690,
@@ -11426,8 +11426,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.gosipoco.co.kr",
-    "lat": 37.5365475,
-    "lng": 127.0847528,
+    "lat": 37.5365395861807,
+    "lng": 127.084729138015,
     "geoApprox": false
   },
   {
@@ -11446,8 +11446,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.longlearn.go.kr",
-    "lat": 37.4911461,
-    "lng": 127.073598,
+    "lat": 37.4910941147932,
+    "lng": 127.074163955752,
     "geoApprox": false
   },
   {
@@ -11462,8 +11462,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.ringleplus.kr",
-    "lat": 37.5057026,
-    "lng": 127.0517173,
+    "lat": 37.5057885877997,
+    "lng": 127.051541631852,
     "geoApprox": false
   },
   {
@@ -11479,9 +11479,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.ccpe.co.kr",
-    "lat": 37.50824,
-    "lng": 127.04866,
-    "geoApprox": true
+    "lat": 37.5112262568557,
+    "lng": 127.04511786501,
+    "geoApprox": false
   },
   {
     "id": 694,
@@ -11495,9 +11495,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://blog.naver.com/zioverbodycare",
-    "lat": 37.53648,
-    "lng": 126.89892,
-    "geoApprox": true
+    "lat": 37.5271727488824,
+    "lng": 126.895647530576,
+    "geoApprox": false
   },
   {
     "id": 695,
@@ -11511,9 +11511,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://cafe.naver.com/gbedu",
-    "lat": 37.5819,
-    "lng": 126.947,
-    "geoApprox": true
+    "lat": 37.5680144886538,
+    "lng": 126.964082929657,
+    "geoApprox": false
   },
   {
     "id": 696,
@@ -11533,9 +11533,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.gurovision.org/",
-    "lat": 37.48644,
-    "lng": 126.88876,
-    "geoApprox": true
+    "lat": 37.4976097274163,
+    "lng": 126.883589275318,
+    "geoApprox": false
   },
   {
     "id": 697,
@@ -11549,8 +11549,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.kec.sc.kr",
-    "lat": 37.5600351,
-    "lng": 126.9907291,
+    "lat": 37.56002261222,
+    "lng": 126.990693298859,
     "geoApprox": false
   },
   {
@@ -11568,8 +11568,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://scec.sogang.ac.kr/",
-    "lat": 37.5520909,
-    "lng": 126.9409875,
+    "lat": 37.5514649610226,
+    "lng": 126.942979960696,
     "geoApprox": false
   },
   {
@@ -11584,8 +11584,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.unisense.co.kr",
-    "lat": 37.5569749,
-    "lng": 126.9223959,
+    "lat": 37.5569749004745,
+    "lng": 126.922395902532,
     "geoApprox": false
   },
   {
@@ -11600,8 +11600,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5125024,
-    "lng": 127.0211574,
+    "lat": 37.5125492510261,
+    "lng": 127.021184666372,
     "geoApprox": false
   },
   {
@@ -11616,8 +11616,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.musicstory1.co.kr/",
-    "lat": 37.5053589,
-    "lng": 126.8893713,
+    "lat": 37.5053620384094,
+    "lng": 126.889371344865,
     "geoApprox": false
   },
   {
@@ -11632,8 +11632,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.urichina.com",
-    "lat": 37.5462664,
-    "lng": 126.9521231,
+    "lat": 37.5461944939177,
+    "lng": 126.95214128315,
     "geoApprox": false
   },
   {
@@ -11652,8 +11652,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.4729259,
-    "lng": 126.9338743,
+    "lat": 37.4729297769699,
+    "lng": 126.933875599327,
     "geoApprox": false
   },
   {
@@ -11671,8 +11671,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.job2060.or.kr/",
-    "lat": 37.5772585,
-    "lng": 127.0301327,
+    "lat": 37.5772849087226,
+    "lng": 127.030147090815,
     "geoApprox": false
   },
   {
@@ -11687,9 +11687,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52248,
-    "lng": 126.94202,
-    "geoApprox": true
+    "lat": 37.5031672249601,
+    "lng": 126.947283423114,
+    "geoApprox": false
   },
   {
     "id": 706,
@@ -11703,9 +11703,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://intotheharmonica.creatorlink.net",
-    "lat": 37.47196,
-    "lng": 126.94514,
-    "geoApprox": true
+    "lat": 37.4748763530926,
+    "lng": 126.980439446302,
+    "geoApprox": false
   },
   {
     "id": 707,
@@ -11719,8 +11719,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://map.naver.com/p/entry/place/1548637451?placePath=%252Fhome%253Fentry%253Dplt&searchType=plac",
-    "lat": 37.6215391,
-    "lng": 127.0824278,
+    "lat": 37.6215233100388,
+    "lng": 127.082427835651,
     "geoApprox": false
   },
   {
@@ -11735,8 +11735,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5010741,
-    "lng": 126.8438229,
+    "lat": 37.5010740751998,
+    "lng": 126.843822855794,
     "geoApprox": false
   },
   {
@@ -11751,9 +11751,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.languagesharp.net",
-    "lat": 37.48818,
-    "lng": 127.04872,
-    "geoApprox": true
+    "lat": 37.4870648484546,
+    "lng": 127.013771375182,
+    "geoApprox": false
   },
   {
     "id": 710,
@@ -11767,9 +11767,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5257,
-    "lng": 127.1127,
-    "geoApprox": true
+    "lat": 37.5124891997364,
+    "lng": 127.109525508529,
+    "geoApprox": false
   },
   {
     "id": 711,
@@ -11783,8 +11783,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hscook.com/",
-    "lat": 37.6547731,
-    "lng": 127.0600443,
+    "lat": 37.6547688511508,
+    "lng": 127.060019298479,
     "geoApprox": false
   },
   {
@@ -11799,9 +11799,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.50806,
-    "lng": 127.09944,
-    "geoApprox": true
+    "lat": 37.5370754138073,
+    "lng": 127.122252425751,
+    "geoApprox": false
   },
   {
     "id": 713,
@@ -11820,8 +11820,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.fgedu.co.kr",
-    "lat": 37.667449,
-    "lng": 127.041097,
+    "lat": 37.6674486336944,
+    "lng": 127.041097340025,
     "geoApprox": false
   },
   {
@@ -11836,9 +11836,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/nemohome",
-    "lat": 37.65984,
-    "lng": 127.04846,
-    "geoApprox": true
+    "lat": 37.6422155656339,
+    "lng": 127.035167562136,
+    "geoApprox": false
   },
   {
     "id": 715,
@@ -11852,9 +11852,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.hanbit.co.kr",
-    "lat": 37.56986,
-    "lng": 126.92014,
-    "geoApprox": true
+    "lat": 37.5591768867049,
+    "lng": 126.927857333826,
+    "geoApprox": false
   },
   {
     "id": 716,
@@ -11868,8 +11868,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/myfineart/223792135258",
-    "lat": 37.6269257,
-    "lng": 127.0795755,
+    "lat": 37.6269210605317,
+    "lng": 127.07963154886,
     "geoApprox": false
   },
   {
@@ -11885,8 +11885,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.jungnang.go.kr/study/main.do",
-    "lat": 37.6005659,
-    "lng": 127.1015047,
+    "lat": 37.6005605598925,
+    "lng": 127.101485349948,
     "geoApprox": false
   },
   {
@@ -11901,8 +11901,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/newbornpilates",
-    "lat": 37.5165123,
-    "lng": 126.9060848,
+    "lat": 37.5165301858178,
+    "lng": 126.90604309721,
     "geoApprox": false
   },
   {
@@ -11933,8 +11933,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.jrit.or.kr/",
-    "lat": 37.5983945,
-    "lng": 127.0918305,
+    "lat": 37.5983328190955,
+    "lng": 127.091624142481,
     "geoApprox": false
   },
   {
@@ -11949,8 +11949,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.644019,
-    "lng": 127.0226811,
+    "lat": 37.6440189735156,
+    "lng": 127.022681122062,
     "geoApprox": false
   },
   {
@@ -11965,8 +11965,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://newificampus.com",
-    "lat": 37.4857086,
-    "lng": 127.1204659,
+    "lat": 37.4860552797801,
+    "lng": 127.12100938212,
     "geoApprox": false
   },
   {
@@ -11981,8 +11981,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.496471,
-    "lng": 126.908618,
+    "lat": 37.4964707028524,
+    "lng": 126.908618171148,
     "geoApprox": false
   },
   {
@@ -11998,8 +11998,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://mirae.hanyang.ac.kr/front/ko",
-    "lat": 37.5569876,
-    "lng": 127.0470893,
+    "lat": 37.5545036393023,
+    "lng": 127.046611216845,
     "geoApprox": false
   },
   {
@@ -12014,9 +12014,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/clpilates_7",
-    "lat": 37.63372,
-    "lng": 127.02128,
-    "geoApprox": true
+    "lat": 37.6371279409738,
+    "lng": 127.024202760308,
+    "geoApprox": false
   },
   {
     "id": 726,
@@ -12030,8 +12030,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://edu.sdulife.com/index_edu.asp",
-    "lat": 37.5430664,
-    "lng": 126.9476356,
+    "lat": 37.5429651275759,
+    "lng": 126.947873237042,
     "geoApprox": false
   },
   {
@@ -12046,8 +12046,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.pmg.co.kr/user/pno/main.asp",
-    "lat": 37.5132656,
-    "lng": 126.9421684,
+    "lat": 37.5132655453299,
+    "lng": 126.942168403859,
     "geoApprox": false
   },
   {
@@ -12064,8 +12064,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.instagram.com/kkotdanji5293/",
-    "lat": 37.5941485,
-    "lng": 127.0865334,
+    "lat": 37.5941122164047,
+    "lng": 127.086489338153,
     "geoApprox": false
   },
   {
@@ -12080,8 +12080,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.477709,
-    "lng": 126.8898286,
+    "lat": 37.4777408798821,
+    "lng": 126.889876396125,
     "geoApprox": false
   },
   {
@@ -12099,8 +12099,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/nsedu35",
-    "lat": 37.5750861,
-    "lng": 127.0247257,
+    "lat": 37.5751158380876,
+    "lng": 127.024798274831,
     "geoApprox": false
   },
   {
@@ -12115,8 +12115,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.igsc.kr",
-    "lat": 37.4772556,
-    "lng": 126.883671,
+    "lat": 37.4772365189989,
+    "lng": 126.883695161966,
     "geoApprox": false
   },
   {
@@ -12131,9 +12131,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hidi.co.kr/",
-    "lat": 37.68224,
-    "lng": 127.06206,
-    "geoApprox": true
+    "lat": 37.659733568826,
+    "lng": 127.044714707229,
+    "geoApprox": false
   },
   {
     "id": 733,
@@ -12147,9 +12147,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.55818,
-    "lng": 126.84202,
-    "geoApprox": true
+    "lat": 37.532916814787,
+    "lng": 126.846329265564,
+    "geoApprox": false
   },
   {
     "id": 734,
@@ -12163,9 +12163,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hrd-inup.co.kr/",
-    "lat": 37.48426,
-    "lng": 127.03444,
-    "geoApprox": true
+    "lat": 37.4766148844181,
+    "lng": 127.043922527512,
+    "geoApprox": false
   },
   {
     "id": 735,
@@ -12179,9 +12179,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.63652,
-    "lng": 127.03148,
-    "geoApprox": true
+    "lat": 37.6172067278767,
+    "lng": 127.03022719758,
+    "geoApprox": false
   },
   {
     "id": 736,
@@ -12197,9 +12197,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.instagram.com/maumsmile",
-    "lat": 37.50572,
-    "lng": 127.05648,
-    "geoApprox": true
+    "lat": 37.4940357694986,
+    "lng": 127.031240784642,
+    "geoApprox": false
   },
   {
     "id": 737,
@@ -12213,8 +12213,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.podopilates.co.kr/",
-    "lat": 37.5203639,
-    "lng": 126.9303637,
+    "lat": 37.5203638577335,
+    "lng": 126.930363683538,
     "geoApprox": false
   },
   {
@@ -12229,9 +12229,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.bnplab.org",
-    "lat": 37.47222,
-    "lng": 127.04158,
-    "geoApprox": true
+    "lat": 37.4878312746356,
+    "lng": 127.01352253293,
+    "geoApprox": false
   },
   {
     "id": 739,
@@ -12247,9 +12247,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.nowonvision.org",
-    "lat": 37.65336,
-    "lng": 127.07074,
-    "geoApprox": true
+    "lat": 37.6627370651448,
+    "lng": 127.069497998505,
+    "geoApprox": false
   },
   {
     "id": 740,
@@ -12263,9 +12263,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/clpilates6",
-    "lat": 37.50862,
-    "lng": 127.10148,
-    "geoApprox": true
+    "lat": 37.5109062736982,
+    "lng": 127.085200874582,
+    "geoApprox": false
   },
   {
     "id": 741,
@@ -12279,8 +12279,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com",
-    "lat": 37.5586708,
-    "lng": 126.8321705,
+    "lat": 37.55880945711834,
+    "lng": 126.83205796490329,
     "geoApprox": false
   },
   {
@@ -12295,8 +12295,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://edu.hyundai-ngv.com/",
-    "lat": 37.458115,
-    "lng": 126.9521607,
+    "lat": 37.4662872666604,
+    "lng": 126.94815644252,
     "geoApprox": false
   },
   {
@@ -12311,8 +12311,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sidaegosi.com",
-    "lat": 37.5412012,
-    "lng": 126.9462893,
+    "lat": 37.54126161750884,
+    "lng": 126.94628678871561,
     "geoApprox": false
   },
   {
@@ -12327,8 +12327,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5117931,
-    "lng": 127.1092468,
+    "lat": 37.5117930719582,
+    "lng": 127.109246812748,
     "geoApprox": false
   },
   {
@@ -12343,9 +12343,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.50358,
-    "lng": 127.11712,
-    "geoApprox": true
+    "lat": 37.4953081365846,
+    "lng": 127.124168794375,
+    "geoApprox": false
   },
   {
     "id": 746,
@@ -12359,8 +12359,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://realmovement.imweb.me/",
-    "lat": 37.545742,
-    "lng": 127.0546166,
+    "lat": 37.5457826923407,
+    "lng": 127.054802213031,
     "geoApprox": false
   },
   {
@@ -12375,8 +12375,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.678445,
-    "lng": 127.053122,
+    "lat": 37.6784448819691,
+    "lng": 127.053121257595,
     "geoApprox": false
   },
   {
@@ -12391,9 +12391,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hopenuri2024.mycafe24.com/",
-    "lat": 37.52288,
-    "lng": 126.87082,
-    "geoApprox": true
+    "lat": 37.5318644265071,
+    "lng": 126.875455878741,
+    "geoApprox": false
   },
   {
     "id": 749,
@@ -12407,8 +12407,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.nhhanc.com",
-    "lat": 37.5080209,
-    "lng": 127.0223226,
+    "lat": 37.5080214926296,
+    "lng": 127.022328089275,
     "geoApprox": false
   },
   {
@@ -12423,8 +12423,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://luxbitart.co.kr/",
-    "lat": 37.5592309,
-    "lng": 126.9568111,
+    "lat": 37.5592308520712,
+    "lng": 126.956811090013,
     "geoApprox": false
   },
   {
@@ -12439,9 +12439,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.collars.co.kr",
-    "lat": 37.5704,
-    "lng": 127.0454,
-    "geoApprox": true
+    "lat": 37.5621814522914,
+    "lng": 127.055253261477,
+    "geoApprox": false
   },
   {
     "id": 752,
@@ -12455,9 +12455,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "www.tmsarang.net",
-    "lat": 37.57412,
-    "lng": 127.05558,
-    "geoApprox": true
+    "lat": 37.5869651564751,
+    "lng": 127.043515494505,
+    "geoApprox": false
   },
   {
     "id": 753,
@@ -12471,9 +12471,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.mapovision.org",
-    "lat": 37.56966,
-    "lng": 126.91414,
-    "geoApprox": true
+    "lat": 37.555858987325,
+    "lng": 126.942320769699,
+    "geoApprox": false
   },
   {
     "id": 754,
@@ -12487,9 +12487,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.44598,
-    "lng": 126.90672,
-    "geoApprox": true
+    "lat": 37.4472872548825,
+    "lng": 126.902627462586,
+    "geoApprox": false
   },
   {
     "id": 755,
@@ -12506,8 +12506,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://edu.dobong.go.kr/",
-    "lat": 37.662079,
-    "lng": 127.027718,
+    "lat": 37.6621597877574,
+    "lng": 127.027831490119,
     "geoApprox": false
   },
   {
@@ -12522,9 +12522,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://naver.me/F6lRCmSJ",
-    "lat": 37.59752,
-    "lng": 127.02928,
-    "geoApprox": true
+    "lat": 37.5865633993336,
+    "lng": 127.031977531127,
+    "geoApprox": false
   },
   {
     "id": 757,
@@ -12538,8 +12538,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://booking.naver.com/booking/13/bizes/1423445?theme=place&entry=pll&lang=ko&area=pll",
-    "lat": 37.5589529,
-    "lng": 126.8392541,
+    "lat": 37.5589757596656,
+    "lng": 126.839293211101,
     "geoApprox": false
   },
   {
@@ -12555,8 +12555,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.5125024,
-    "lng": 127.0211574,
+    "lat": 37.5125492510261,
+    "lng": 127.021184666372,
     "geoApprox": false
   },
   {
@@ -12571,9 +12571,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://cafeone.co.kr/",
-    "lat": 37.60578,
-    "lng": 126.92332,
-    "geoApprox": true
+    "lat": 37.5913535051422,
+    "lng": 126.915298549033,
+    "geoApprox": false
   },
   {
     "id": 760,
@@ -12587,8 +12587,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "mg.theartacademy.co.kr",
-    "lat": 37.5584937,
-    "lng": 126.8252126,
+    "lat": 37.5567168124967,
+    "lng": 126.931346748386,
     "geoApprox": false
   },
   {
@@ -12608,8 +12608,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.yahak.org",
-    "lat": 37.5614229,
-    "lng": 127.0224603,
+    "lat": 37.5642432022124,
+    "lng": 127.021878529222,
     "geoApprox": false
   },
   {
@@ -12624,8 +12624,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://art-ate.com",
-    "lat": 37.5100554,
-    "lng": 127.083969,
+    "lat": 37.5100553464,
+    "lng": 127.083968988297,
     "geoApprox": false
   },
   {
@@ -12640,8 +12640,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.yeinedu.com",
-    "lat": 37.541254,
-    "lng": 126.83989,
+    "lat": 37.5412463805051,
+    "lng": 126.839890129201,
     "geoApprox": false
   },
   {
@@ -12656,9 +12656,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.gdcedu.com/home/main/main.jsp",
-    "lat": 37.53942,
-    "lng": 126.85868,
-    "geoApprox": true
+    "lat": 37.5619336790814,
+    "lng": 126.840185418045,
+    "geoApprox": false
   },
   {
     "id": 765,
@@ -12673,9 +12673,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.songpa1.co.kr",
-    "lat": 37.50862,
-    "lng": 127.10148,
-    "geoApprox": true
+    "lat": 37.5001489959029,
+    "lng": 127.11244838162,
+    "geoApprox": false
   },
   {
     "id": 766,
@@ -12689,9 +12689,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.ucp.or.kr/",
-    "lat": 37.56314,
-    "lng": 126.99226,
-    "geoApprox": true
+    "lat": 37.5851782770352,
+    "lng": 126.997231245152,
+    "geoApprox": false
   },
   {
     "id": 767,
@@ -12705,8 +12705,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://sabok.edu2080.co.kr/",
-    "lat": 37.4985696,
-    "lng": 127.0257413,
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
     "geoApprox": false
   },
   {
@@ -12721,8 +12721,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5291766,
-    "lng": 127.1357576,
+    "lat": 37.5291766367702,
+    "lng": 127.135757638609,
     "geoApprox": false
   },
   {
@@ -12737,8 +12737,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/1gspilates",
-    "lat": 37.556477,
-    "lng": 126.9553226,
+    "lat": 37.5564770309498,
+    "lng": 126.95532261857,
     "geoApprox": false
   },
   {
@@ -12753,8 +12753,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.shuvpilates.com",
-    "lat": 37.5664338,
-    "lng": 127.0247848,
+    "lat": 37.5666029325047,
+    "lng": 127.024082467223,
     "geoApprox": false
   },
   {
@@ -12769,8 +12769,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5670627,
-    "lng": 126.8186193,
+    "lat": 37.5671170824829,
+    "lng": 126.818597219555,
     "geoApprox": false
   },
   {
@@ -12785,9 +12785,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/sadang",
-    "lat": 37.52248,
-    "lng": 126.94202,
-    "geoApprox": true
+    "lat": 37.4769621757707,
+    "lng": 126.979293882692,
+    "geoApprox": false
   },
   {
     "id": 773,
@@ -12801,9 +12801,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "hanseonmo.com",
-    "lat": 37.55986,
-    "lng": 126.84814,
-    "geoApprox": true
+    "lat": 37.5534315567653,
+    "lng": 126.826919545523,
+    "geoApprox": false
   },
   {
     "id": 774,
@@ -12818,9 +12818,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://seocho.seoulwomanup.or.kr/",
-    "lat": 37.49462,
-    "lng": 127.02118,
-    "geoApprox": true
+    "lat": 37.483475138145,
+    "lng": 127.035723472832,
+    "geoApprox": false
   },
   {
     "id": 775,
@@ -12834,9 +12834,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hanilcom.com",
-    "lat": 37.54326,
-    "lng": 127.08264,
-    "geoApprox": true
+    "lat": 37.5619172385564,
+    "lng": 127.087023568668,
+    "geoApprox": false
   },
   {
     "id": 776,
@@ -12854,8 +12854,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://blog.naver.com/hanstyle2026",
-    "lat": 37.5222772,
-    "lng": 127.0547746,
+    "lat": 37.522277215703,
+    "lng": 127.05477460863,
     "geoApprox": false
   },
   {
@@ -12870,9 +12870,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.101phone.co.kr",
-    "lat": 37.50358,
-    "lng": 127.11712,
-    "geoApprox": true
+    "lat": 37.4870926084589,
+    "lng": 127.142501946776,
+    "geoApprox": false
   },
   {
     "id": 778,
@@ -12886,9 +12886,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://winspec.co.kr/",
-    "lat": 37.50824,
-    "lng": 127.04866,
-    "geoApprox": true
+    "lat": 37.4941425266307,
+    "lng": 127.030944783617,
+    "geoApprox": false
   },
   {
     "id": 779,
@@ -12902,9 +12902,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://onecookacademy.creatorlink.net/",
-    "lat": 37.5425,
-    "lng": 126.8529,
-    "geoApprox": true
+    "lat": 37.5457041780089,
+    "lng": 126.84517290629,
+    "geoApprox": false
   },
   {
     "id": 780,
@@ -12918,8 +12918,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "huspeech.com",
-    "lat": 37.4966894,
-    "lng": 127.0304206,
+    "lat": 37.4966922412669,
+    "lng": 127.030422253828,
     "geoApprox": false
   },
   {
@@ -12934,8 +12934,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://kfp.re.kr",
-    "lat": 37.5267977,
-    "lng": 127.0407234,
+    "lat": 37.5267977288219,
+    "lng": 127.0407234279,
     "geoApprox": false
   },
   {
@@ -12950,9 +12950,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hackers.com/voucher.html",
-    "lat": 37.4879,
-    "lng": 127.0307,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 783,
@@ -12966,9 +12966,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://e4u.ybmedu.com/hakwon/center/center_main.asp",
-    "lat": 37.56678,
-    "lng": 126.98852,
-    "geoApprox": true
+    "lat": 37.5695289878587,
+    "lng": 126.988272806652,
+    "geoApprox": false
   },
   {
     "id": 784,
@@ -12982,9 +12982,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.sisacook.com/",
-    "lat": 37.50712,
-    "lng": 127.04458,
-    "geoApprox": true
+    "lat": 37.4965236567567,
+    "lng": 127.030094580007,
+    "geoApprox": false
   },
   {
     "id": 785,
@@ -12998,9 +12998,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5114,
-    "lng": 126.88,
-    "geoApprox": true
+    "lat": 37.5446035667267,
+    "lng": 126.873417780689,
+    "geoApprox": false
   },
   {
     "id": 786,
@@ -13014,9 +13014,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "gangnam.sbsart.com",
-    "lat": 37.4809,
-    "lng": 127.0222,
-    "geoApprox": true
+    "lat": 37.4980609129976,
+    "lng": 127.026504807476,
+    "geoApprox": false
   },
   {
     "id": 787,
@@ -13030,9 +13030,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.48202,
-    "lng": 127.02628,
-    "geoApprox": true
+    "lat": 37.4838342212021,
+    "lng": 126.996444097861,
+    "geoApprox": false
   },
   {
     "id": 788,
@@ -13048,9 +13048,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://adult.duksung.ac.kr/",
-    "lat": 37.5595,
-    "lng": 126.962,
-    "geoApprox": true
+    "lat": 37.5766672930696,
+    "lng": 126.988198556535,
+    "geoApprox": false
   },
   {
     "id": 789,
@@ -13064,9 +13064,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "운전면허학원.kr",
-    "lat": 37.48728,
-    "lng": 126.87482,
-    "geoApprox": true
+    "lat": 37.4929469531816,
+    "lng": 126.817978758296,
+    "geoApprox": false
   },
   {
     "id": 790,
@@ -13081,8 +13081,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.edukmc.com/",
-    "lat": 37.5605552,
-    "lng": 127.0665542,
+    "lat": 37.5605649065932,
+    "lng": 127.066562253269,
     "geoApprox": false
   },
   {
@@ -13097,9 +13097,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://cafe.naver.com/newaeon",
-    "lat": 37.47222,
-    "lng": 127.04158,
-    "geoApprox": true
+    "lat": 37.484332024403,
+    "lng": 126.996312691575,
+    "geoApprox": false
   },
   {
     "id": 792,
@@ -13113,9 +13113,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://gangseo.atelierkorea.com/",
-    "lat": 37.51028,
-    "lng": 126.87592,
-    "geoApprox": true
+    "lat": 37.5255837202815,
+    "lng": 126.858867366666,
+    "geoApprox": false
   },
   {
     "id": 793,
@@ -13132,8 +13132,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "yerihan.com",
-    "lat": 37.563429,
-    "lng": 126.9934452,
+    "lat": 37.5633508019593,
+    "lng": 126.993327725765,
     "geoApprox": false
   },
   {
@@ -13148,8 +13148,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5027268,
-    "lng": 127.0983432,
+    "lat": 37.5027808998554,
+    "lng": 127.098335625581,
     "geoApprox": false
   },
   {
@@ -13164,9 +13164,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "carewith.co.kr",
-    "lat": 37.6472,
-    "lng": 127.0483,
-    "geoApprox": true
+    "lat": 37.6620264368073,
+    "lng": 127.070299634066,
+    "geoApprox": false
   },
   {
     "id": 796,
@@ -13180,9 +13180,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "lab.siwonschool.com",
-    "lat": 37.5229322,
-    "lng": 126.9022224,
-    "geoApprox": false
+    "lat": 37.5152,
+    "lng": 126.8894,
+    "geoApprox": true
   },
   {
     "id": 797,
@@ -13196,8 +13196,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "globalinnoedu.com",
-    "lat": 37.5144234,
-    "lng": 126.8993143,
+    "lat": 37.5147464245043,
+    "lng": 126.897536835727,
     "geoApprox": false
   },
   {
@@ -13212,8 +13212,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.542443,
-    "lng": 127.124509,
+    "lat": 37.5424422933213,
+    "lng": 127.124508080133,
     "geoApprox": false
   },
   {
@@ -13228,9 +13228,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.51748,
-    "lng": 127.03132,
-    "geoApprox": true
+    "lat": 37.4886594787069,
+    "lng": 127.067752825553,
+    "geoApprox": false
   },
   {
     "id": 800,
@@ -13244,9 +13244,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://seabc.co.kr/",
-    "lat": 37.5088,
-    "lng": 127.0507,
-    "geoApprox": true
+    "lat": 37.5009671907207,
+    "lng": 127.032977584661,
+    "geoApprox": false
   },
   {
     "id": 801,
@@ -13260,8 +13260,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6567466,
-    "lng": 127.0399775,
+    "lat": 37.6567470841077,
+    "lng": 127.039944685519,
     "geoApprox": false
   },
   {
@@ -13276,8 +13276,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.lcampus.co.kr/",
-    "lat": 37.4808373,
-    "lng": 126.8821596,
+    "lat": 37.479966429878,
+    "lng": 126.88263620024,
     "geoApprox": false
   },
   {
@@ -13292,8 +13292,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://mg.theartpet.co.kr/",
-    "lat": 37.5584937,
-    "lng": 126.8252126,
+    "lat": 37.5584947155389,
+    "lng": 126.825213109876,
     "geoApprox": false
   },
   {
@@ -13308,8 +13308,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://art-ate.com",
-    "lat": 37.5541728,
-    "lng": 126.9256397,
+    "lat": 37.5541559935849,
+    "lng": 126.925685096225,
     "geoApprox": false
   },
   {
@@ -13325,8 +13325,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "mylight.co.kr",
-    "lat": 37.503382,
-    "lng": 127.0415998,
+    "lat": 37.5028813541774,
+    "lng": 127.041356540268,
     "geoApprox": false
   },
   {
@@ -13341,8 +13341,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/hhszoro",
-    "lat": 37.5567956,
-    "lng": 126.9348107,
+    "lat": 37.5568187720377,
+    "lng": 126.934784471189,
     "geoApprox": false
   },
   {
@@ -13358,8 +13358,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.st.ac.kr",
-    "lat": 37.558209,
-    "lng": 127.0791727,
+    "lat": 37.5582734558042,
+    "lng": 127.07917487804,
     "geoApprox": false
   },
   {
@@ -13374,9 +13374,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.55062,
-    "lng": 126.86548,
-    "geoApprox": true
+    "lat": 37.5591868085176,
+    "lng": 126.840049245584,
+    "geoApprox": false
   },
   {
     "id": 809,
@@ -13390,8 +13390,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://quat.life/",
-    "lat": 37.4992903,
-    "lng": 127.0359666,
+    "lat": 37.4992740577327,
+    "lng": 127.035937610629,
     "geoApprox": false
   },
   {
@@ -13406,8 +13406,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.bompilates.com",
-    "lat": 37.486136,
-    "lng": 126.9472851,
+    "lat": 37.4861580878937,
+    "lng": 126.947238616678,
     "geoApprox": false
   },
   {
@@ -13422,8 +13422,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.5071945,
-    "lng": 127.1095026,
+    "lat": 37.507126590881,
+    "lng": 127.109441330611,
     "geoApprox": false
   },
   {
@@ -13438,9 +13438,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.koreahrd.org/",
-    "lat": 37.5229,
-    "lng": 127.1025,
-    "geoApprox": true
+    "lat": 37.5039851947111,
+    "lng": 127.127204624325,
+    "geoApprox": false
   },
   {
     "id": 813,
@@ -13455,8 +13455,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "",
-    "lat": 37.6552152,
-    "lng": 127.063518,
+    "lat": 37.6552190449765,
+    "lng": 127.063512438351,
     "geoApprox": false
   },
   {
@@ -13471,8 +13471,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.edu2080.co.kr",
-    "lat": 37.4985696,
-    "lng": 127.0257413,
+    "lat": 37.4985502394657,
+    "lng": 127.025735420451,
     "geoApprox": false
   },
   {
@@ -13487,9 +13487,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://with-piano.com",
-    "lat": 37.52868,
-    "lng": 127.03812,
-    "geoApprox": true
+    "lat": 37.5065769707411,
+    "lng": 127.053360022611,
+    "geoApprox": false
   },
   {
     "id": 816,
@@ -13503,9 +13503,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "edu.dizzo.com",
-    "lat": 37.56298,
-    "lng": 126.99382,
-    "geoApprox": true
+    "lat": 37.5687255404927,
+    "lng": 126.976125238528,
+    "geoApprox": false
   },
   {
     "id": 817,
@@ -13519,9 +13519,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.seocho-edu.or.kr",
-    "lat": 37.47978,
-    "lng": 127.01812,
-    "geoApprox": true
+    "lat": 37.4887819247512,
+    "lng": 126.996349560707,
+    "geoApprox": false
   },
   {
     "id": 818,
@@ -13535,8 +13535,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "kses.kr",
-    "lat": 37.5310819,
-    "lng": 126.9700577,
+    "lat": 37.531084680318,
+    "lng": 126.970072670867,
     "geoApprox": false
   },
   {
@@ -13551,8 +13551,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://datarian.io/",
-    "lat": 37.5487442,
-    "lng": 127.0438843,
+    "lat": 37.5488383035453,
+    "lng": 127.043893352541,
     "geoApprox": false
   },
   {
@@ -13569,8 +13569,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://taiwha.or.kr/",
-    "lat": 37.4847225,
-    "lng": 127.0935055,
+    "lat": 37.4848291050641,
+    "lng": 127.093396177577,
     "geoApprox": false
   },
   {
@@ -13585,9 +13585,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.theshowproject.com",
-    "lat": 37.57124,
-    "lng": 127.03146,
-    "geoApprox": true
+    "lat": 37.5487656330633,
+    "lng": 127.057447550681,
+    "geoApprox": false
   },
   {
     "id": 822,
@@ -13601,8 +13601,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.579816,
-    "lng": 127.083686,
+    "lat": 37.5798156655875,
+    "lng": 127.083685676016,
     "geoApprox": false
   },
   {
@@ -13620,9 +13620,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://open.sookmyung.ac.kr/fro_end/html/main/#none",
-    "lat": 37.53212,
-    "lng": 127.00598,
-    "geoApprox": true
+    "lat": 37.5452862346703,
+    "lng": 126.965412466897,
+    "geoApprox": false
   },
   {
     "id": 824,
@@ -13636,8 +13636,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/jjzzang72",
-    "lat": 37.5559671,
-    "lng": 127.0110311,
+    "lat": 37.5559573451784,
+    "lng": 127.011021689002,
     "geoApprox": false
   },
   {
@@ -13652,9 +13652,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.현대중장비학원.com",
-    "lat": 37.54782,
-    "lng": 126.85528,
-    "geoApprox": true
+    "lat": 37.546599084634,
+    "lng": 126.824944296488,
+    "geoApprox": false
   },
   {
     "id": 826,
@@ -13672,9 +13672,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.egreen.or.kr/",
-    "lat": 37.54866,
-    "lng": 126.84134,
-    "geoApprox": true
+    "lat": 37.5685363187372,
+    "lng": 126.851117193596,
+    "geoApprox": false
   },
   {
     "id": 827,
@@ -13688,9 +13688,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.caedu.co.kr/",
-    "lat": 37.49512,
-    "lng": 126.90338,
-    "geoApprox": true
+    "lat": 37.4810070418126,
+    "lng": 126.89442230572,
+    "geoApprox": false
   },
   {
     "id": 828,
@@ -13704,8 +13704,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "sdc.or.kr",
-    "lat": 37.5410151,
-    "lng": 126.9734275,
+    "lat": 37.5410837940246,
+    "lng": 126.973417963256,
     "geoApprox": false
   },
   {
@@ -13724,8 +13724,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://blog.naver.com/dcm1002",
-    "lat": 37.5582067,
-    "lng": 126.8280692,
+    "lat": 37.5582091506095,
+    "lng": 126.828070487707,
     "geoApprox": false
   },
   {
@@ -13742,9 +13742,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://event.eduwill.net/Event/2023/0/Education_Voucher",
-    "lat": 37.50464,
-    "lng": 126.90406,
-    "geoApprox": true
+    "lat": 37.4842856391064,
+    "lng": 126.899282125859,
+    "geoApprox": false
   },
   {
     "id": 831,
@@ -13758,8 +13758,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5147762,
-    "lng": 127.0427368,
+    "lat": 37.5147677971431,
+    "lng": 127.042794529547,
     "geoApprox": false
   },
   {
@@ -13774,8 +13774,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5508885,
-    "lng": 126.8365256,
+    "lat": 37.550911399825,
+    "lng": 126.836610264789,
     "geoApprox": false
   },
   {
@@ -13790,8 +13790,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.kotga.or.kr/",
-    "lat": 37.565276,
-    "lng": 127.027669,
+    "lat": 37.5650919943033,
+    "lng": 127.027637780108,
     "geoApprox": false
   },
   {
@@ -13809,8 +13809,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.silwel.or.kr/v2/index.php",
-    "lat": 37.4831739,
-    "lng": 126.9410966,
+    "lat": 37.4829413812848,
+    "lng": 126.941101848579,
     "geoApprox": false
   },
   {
@@ -13825,9 +13825,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.daehan1.com/",
-    "lat": 37.50834,
-    "lng": 127.11746,
-    "geoApprox": true
+    "lat": 37.513491391018,
+    "lng": 127.108347915218,
+    "geoApprox": false
   },
   {
     "id": 836,
@@ -13841,8 +13841,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://rebornpilates.com/",
-    "lat": 37.5419034,
-    "lng": 126.9498186,
+    "lat": 37.5418967410602,
+    "lng": 126.949787848373,
     "geoApprox": false
   },
   {
@@ -13857,9 +13857,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.baeulhak.com/",
-    "lat": 37.56964,
-    "lng": 127.03926,
-    "geoApprox": true
+    "lat": 37.5764919088721,
+    "lng": 127.036640107958,
+    "geoApprox": false
   },
   {
     "id": 838,
@@ -13873,8 +13873,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5721914,
-    "lng": 127.0483418,
+    "lat": 37.5721799594209,
+    "lng": 127.048322022112,
     "geoApprox": false
   },
   {
@@ -13889,8 +13889,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6034703,
-    "lng": 127.0371152,
+    "lat": 37.6034702633832,
+    "lng": 127.037115153165,
     "geoApprox": false
   },
   {
@@ -13906,9 +13906,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/amuryum/224153238035",
-    "lat": 37.51352,
-    "lng": 126.88328,
-    "geoApprox": true
+    "lat": 37.5209495894134,
+    "lng": 126.903013939466,
+    "geoApprox": false
   },
   {
     "id": 841,
@@ -13938,9 +13938,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.gibbun.or.kr",
-    "lat": 37.56126,
-    "lng": 126.83624,
-    "geoApprox": true
+    "lat": 37.5692782185277,
+    "lng": 126.848864397796,
+    "geoApprox": false
   },
   {
     "id": 843,
@@ -13954,8 +13954,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.miraelicense.com/",
-    "lat": 37.513017,
-    "lng": 126.939945,
+    "lat": 37.5130172002473,
+    "lng": 126.939944867747,
     "geoApprox": false
   },
   {
@@ -13972,8 +13972,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://daily.siwonschool.com/",
-    "lat": 37.5229322,
-    "lng": 126.9022224,
+    "lat": 37.5226784655386,
+    "lng": 126.901962138943,
     "geoApprox": false
   },
   {
@@ -13989,8 +13989,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5075709,
-    "lng": 127.0923868,
+    "lat": 37.5075719318771,
+    "lng": 127.09238555868,
     "geoApprox": false
   },
   {
@@ -14005,9 +14005,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.cmimusic.kr",
-    "lat": 37.65196,
-    "lng": 127.04864,
-    "geoApprox": true
+    "lat": 37.6557642665279,
+    "lng": 127.065908262314,
+    "geoApprox": false
   },
   {
     "id": 847,
@@ -14021,8 +14021,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://hongdai.kcookart.com/",
-    "lat": 37.5571273,
-    "lng": 126.9236034,
+    "lat": 37.5571306677663,
+    "lng": 126.923616229663,
     "geoApprox": false
   },
   {
@@ -14037,8 +14037,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5508119,
-    "lng": 127.0907165,
+    "lat": 37.5508119206633,
+    "lng": 127.0907165125,
     "geoApprox": false
   },
   {
@@ -14055,9 +14055,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "http://ma.pulip.kr/",
-    "lat": 37.62672,
-    "lng": 127.01278,
-    "geoApprox": true
+    "lat": 37.6138335845815,
+    "lng": 127.029606516765,
+    "geoApprox": false
   },
   {
     "id": 850,
@@ -14071,9 +14071,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.kjcc.or.kr/",
-    "lat": 37.54942,
-    "lng": 127.07108,
-    "geoApprox": true
+    "lat": 37.5365126420556,
+    "lng": 127.096478279536,
+    "geoApprox": false
   },
   {
     "id": 851,
@@ -14087,8 +14087,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6518065,
-    "lng": 127.0608976,
+    "lat": 37.6518043505091,
+    "lng": 127.060894004756,
     "geoApprox": false
   },
   {
@@ -14103,9 +14103,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://homkeullin.co.kr/",
-    "lat": 37.65052,
-    "lng": 127.01448,
-    "geoApprox": true
+    "lat": 37.6290177279809,
+    "lng": 127.016902661845,
+    "geoApprox": false
   },
   {
     "id": 853,
@@ -14119,8 +14119,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.rebornpilates.com",
-    "lat": 37.5033063,
-    "lng": 126.8810839,
+    "lat": 37.5033062723055,
+    "lng": 126.881083869229,
     "geoApprox": false
   },
   {
@@ -14135,8 +14135,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5024662,
-    "lng": 127.0236375,
+    "lat": 37.5024402189894,
+    "lng": 127.023696439353,
     "geoApprox": false
   },
   {
@@ -14151,9 +14151,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.sjsrea.co.kr",
-    "lat": 37.65676,
-    "lng": 127.05424,
-    "geoApprox": true
+    "lat": 37.6523442471361,
+    "lng": 127.049684921314,
+    "geoApprox": false
   },
   {
     "id": 856,
@@ -14173,9 +14173,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://life.gangnam.go.kr/fmcs/1",
-    "lat": 37.53092,
-    "lng": 127.04628,
-    "geoApprox": true
+    "lat": 37.4999549428543,
+    "lng": 127.06697683168,
+    "geoApprox": false
   },
   {
     "id": 857,
@@ -14189,9 +14189,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://newave.modoo.at/",
-    "lat": 37.54074,
-    "lng": 127.12846,
-    "geoApprox": true
+    "lat": 37.5424731087197,
+    "lng": 127.125103659167,
+    "geoApprox": false
   },
   {
     "id": 858,
@@ -14205,9 +14205,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.ybmclass.com",
-    "lat": 37.58358,
-    "lng": 126.98172,
-    "geoApprox": true
+    "lat": 37.5698794886241,
+    "lng": 126.988409831075,
+    "geoApprox": false
   },
   {
     "id": 859,
@@ -14223,9 +14223,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.gctogether.org",
-    "lat": 37.4555,
-    "lng": 126.9074,
-    "geoApprox": true
+    "lat": 37.4570125280505,
+    "lng": 126.897626052706,
+    "geoApprox": false
   },
   {
     "id": 860,
@@ -14243,9 +14243,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "",
-    "lat": 37.49876,
-    "lng": 126.89964,
-    "geoApprox": true
+    "lat": 37.49670875982009,
+    "lng": 126.86818855288399,
+    "geoApprox": false
   },
   {
     "id": 861,
@@ -14259,9 +14259,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "dcyc.pulip.kr",
-    "lat": 37.55258,
-    "lng": 126.85562,
-    "geoApprox": true
+    "lat": 37.5517696060508,
+    "lng": 126.864130888419,
+    "geoApprox": false
   },
   {
     "id": 862,
@@ -14291,8 +14291,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://yeoksam.greenart.co.kr/?cam_idx=34",
-    "lat": 37.5009437,
-    "lng": 127.026675,
+    "lat": 37.5008659330556,
+    "lng": 127.026869951723,
     "geoApprox": false
   },
   {
@@ -14312,9 +14312,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "www.lingoo.co.kr",
-    "lat": 37.56676,
-    "lng": 127.04914,
-    "geoApprox": true
+    "lat": 37.5464486005001,
+    "lng": 127.054456318551,
+    "geoApprox": false
   },
   {
     "id": 865,
@@ -14328,8 +14328,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5054443,
-    "lng": 127.0470687,
+    "lat": 37.5054431039209,
+    "lng": 127.047102191783,
     "geoApprox": false
   },
   {
@@ -14344,8 +14344,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.yadoc.co.kr",
-    "lat": 37.4813997,
-    "lng": 126.8839016,
+    "lat": 37.4814401689835,
+    "lng": 126.883871693415,
     "geoApprox": false
   },
   {
@@ -14360,9 +14360,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://culturecomplex.co.kr/?gad_source=1&gad_campaignid=21958844355&gbraid=0AAAAApwiuHj9TyUxSO3kfC",
-    "lat": 37.52868,
-    "lng": 127.03812,
-    "geoApprox": true
+    "lat": 37.5021681398693,
+    "lng": 127.035769697653,
+    "geoApprox": false
   },
   {
     "id": 868,
@@ -14376,9 +14376,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.55062,
-    "lng": 126.86548,
-    "geoApprox": true
+    "lat": 37.5529191268581,
+    "lng": 126.850936978921,
+    "geoApprox": false
   },
   {
     "id": 869,
@@ -14392,8 +14392,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "solviolin.com",
-    "lat": 37.4808373,
-    "lng": 126.8821596,
+    "lat": 37.479966429878,
+    "lng": 126.88263620024,
     "geoApprox": false
   },
   {
@@ -14408,9 +14408,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://edubank.hunet.co.kr/",
-    "lat": 37.49568,
-    "lng": 126.87142,
-    "geoApprox": true
+    "lat": 37.4816105919768,
+    "lng": 126.893479312123,
+    "geoApprox": false
   },
   {
     "id": 871,
@@ -14426,9 +14426,9 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "shantiaromayoga.com",
-    "lat": 37.47252,
-    "lng": 126.94718,
-    "geoApprox": true
+    "lat": 37.4805688757335,
+    "lng": 126.90000889161,
+    "geoApprox": false
   },
   {
     "id": 872,
@@ -14442,9 +14442,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.mediact.org",
-    "lat": 37.5733,
-    "lng": 126.9104,
-    "geoApprox": true
+    "lat": 37.5544694465803,
+    "lng": 126.931023893668,
+    "geoApprox": false
   },
   {
     "id": 873,
@@ -14460,9 +14460,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://www.bbcenter.or.kr",
-    "lat": 37.4767,
-    "lng": 127.0239,
-    "geoApprox": true
+    "lat": 37.4802969099717,
+    "lng": 126.999036955594,
+    "geoApprox": false
   },
   {
     "id": 874,
@@ -14476,8 +14476,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://art-ate.com",
-    "lat": 37.5520269,
-    "lng": 127.1436853,
+    "lat": 37.5520268683843,
+    "lng": 127.14368530703,
     "geoApprox": false
   },
   {
@@ -14492,9 +14492,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "edu.icrpw.com",
-    "lat": 37.4597,
-    "lng": 126.9057,
-    "geoApprox": true
+    "lat": 37.4787416385486,
+    "lng": 126.881862654269,
+    "geoApprox": false
   },
   {
     "id": 876,
@@ -14509,9 +14509,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.sbwomen.or.kr",
-    "lat": 37.56426,
-    "lng": 126.96234,
-    "geoApprox": true
+    "lat": 37.5820587995429,
+    "lng": 127.000418097935,
+    "geoApprox": false
   },
   {
     "id": 877,
@@ -14525,8 +14525,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/nightspp",
-    "lat": 37.5571304,
-    "lng": 127.0806988,
+    "lat": 37.5571138531893,
+    "lng": 127.080667685512,
     "geoApprox": false
   },
   {
@@ -14541,9 +14541,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.koreaedu.tv",
-    "lat": 37.58106,
-    "lng": 126.98954,
-    "geoApprox": true
+    "lat": 37.5861178624501,
+    "lng": 126.999219123197,
+    "geoApprox": false
   },
   {
     "id": 879,
@@ -14557,8 +14557,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://vlabpilates.com/",
-    "lat": 37.5675555,
-    "lng": 127.0271278,
+    "lat": 37.5691641596929,
+    "lng": 127.02634785313,
     "geoApprox": false
   },
   {
@@ -14574,9 +14574,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://nowon.sbsart.com",
-    "lat": 37.6542,
-    "lng": 127.0568,
-    "geoApprox": true
+    "lat": 37.656182369710024,
+    "lng": 127.06402243290019,
+    "geoApprox": false
   },
   {
     "id": 881,
@@ -14590,9 +14590,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/daehan1777",
-    "lat": 37.6007,
-    "lng": 127.1063,
-    "geoApprox": true
+    "lat": 37.5944611092316,
+    "lng": 127.093766960555,
+    "geoApprox": false
   },
   {
     "id": 882,
@@ -14606,8 +14606,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.4669097,
-    "lng": 126.8884175,
+    "lat": 37.466834192886,
+    "lng": 126.887999661463,
     "geoApprox": false
   },
   {
@@ -14623,9 +14623,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://blog.naver.com/roooopi",
-    "lat": 37.51856,
-    "lng": 126.90164,
-    "geoApprox": true
+    "lat": 37.5196287135985,
+    "lng": 126.930031909349,
+    "geoApprox": false
   },
   {
     "id": 884,
@@ -14642,8 +14642,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://culture.cbs.co.kr/",
-    "lat": 37.5282353,
-    "lng": 126.874992,
+    "lat": 37.5282318199269,
+    "lng": 126.874990723123,
     "geoApprox": false
   },
   {
@@ -14658,9 +14658,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.kspia.kr/",
-    "lat": 37.58106,
-    "lng": 126.98954,
-    "geoApprox": true
+    "lat": 37.5726284422187,
+    "lng": 126.982666122758,
+    "geoApprox": false
   },
   {
     "id": 886,
@@ -14674,8 +14674,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://www.rebornpilates.com/deungchon_studio",
-    "lat": 37.551493,
-    "lng": 126.8649313,
+    "lat": 37.5515396464121,
+    "lng": 126.865288555375,
     "geoApprox": false
   },
   {
@@ -14690,8 +14690,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://sdc.or.kr/",
-    "lat": 37.5410151,
-    "lng": 126.9734275,
+    "lat": 37.5410837940246,
+    "lng": 126.973417963256,
     "geoApprox": false
   },
   {
@@ -14707,9 +14707,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://edu.gangseo.ac.kr/fro_end/html/main/#",
-    "lat": 37.55622,
-    "lng": 126.85188,
-    "geoApprox": true
+    "lat": 37.5486692406973,
+    "lng": 126.854134828868,
+    "geoApprox": false
   },
   {
     "id": 889,
@@ -14723,9 +14723,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://with-piano.com/",
-    "lat": 37.48846,
-    "lng": 127.03274,
-    "geoApprox": true
+    "lat": 37.4910060488883,
+    "lng": 127.010080956911,
+    "geoApprox": false
   },
   {
     "id": 890,
@@ -14739,8 +14739,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5781386,
-    "lng": 126.9095566,
+    "lat": 37.5780938093173,
+    "lng": 126.909637003132,
     "geoApprox": false
   },
   {
@@ -14756,8 +14756,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/withinlonglife",
-    "lat": 37.617446,
-    "lng": 127.0114953,
+    "lat": 37.6176383628418,
+    "lng": 127.010599691076,
     "geoApprox": false
   },
   {
@@ -14772,9 +14772,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.studywill.net",
-    "lat": 37.48728,
-    "lng": 126.87482,
-    "geoApprox": true
+    "lat": 37.4842856391064,
+    "lng": 126.899282125859,
+    "geoApprox": false
   },
   {
     "id": 893,
@@ -14788,9 +14788,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://blog.naver.com/beverit_official",
-    "lat": 37.51954,
-    "lng": 127.09026,
-    "geoApprox": true
+    "lat": 37.5071530898782,
+    "lng": 127.108748177204,
+    "geoApprox": false
   },
   {
     "id": 894,
@@ -14804,8 +14804,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6349324,
-    "lng": 127.06571,
+    "lat": 37.634930666229,
+    "lng": 127.065698730107,
     "geoApprox": false
   },
   {
@@ -14820,9 +14820,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://m.blog.naver.com/100musicacademy/223258172152",
-    "lat": 37.58834,
-    "lng": 126.95346,
-    "geoApprox": true
+    "lat": 37.5776258988275,
+    "lng": 126.922806020039,
+    "geoApprox": false
   },
   {
     "id": 896,
@@ -14836,9 +14836,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://www.nilenglish.com/",
-    "lat": 37.494,
-    "lng": 126.8993,
-    "geoApprox": true
+    "lat": 37.4825827883002,
+    "lng": 126.897045984079,
+    "geoApprox": false
   },
   {
     "id": 897,
@@ -14852,9 +14852,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://chungkang1.com/",
-    "lat": 37.5707,
-    "lng": 126.9688,
-    "geoApprox": true
+    "lat": 37.5690737703072,
+    "lng": 126.984123300195,
+    "geoApprox": false
   },
   {
     "id": 898,
@@ -14868,9 +14868,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.55286,
-    "lng": 126.83964,
-    "geoApprox": true
+    "lat": 37.5517696060508,
+    "lng": 126.864130888419,
+    "geoApprox": false
   },
   {
     "id": 899,
@@ -14884,9 +14884,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://nw.mbccomputer.co.kr",
-    "lat": 37.65252,
-    "lng": 127.05068,
-    "geoApprox": true
+    "lat": 37.6567452176387,
+    "lng": 127.06351419165,
+    "geoApprox": false
   },
   {
     "id": 900,
@@ -14900,9 +14900,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "blog.naver.com/bornagain_pilayoga",
-    "lat": 37.60032,
-    "lng": 127.00548,
-    "geoApprox": true
+    "lat": 37.5870992240896,
+    "lng": 127.029898451923,
+    "geoApprox": false
   },
   {
     "id": 901,
@@ -14916,8 +14916,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "m.pagoda21.com",
-    "lat": 37.5561551,
-    "lng": 126.9393113,
+    "lat": 37.5562057965146,
+    "lng": 126.939295914138,
     "geoApprox": false
   },
   {
@@ -14932,8 +14932,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.changeus.kr",
-    "lat": 37.4764639,
-    "lng": 126.8873368,
+    "lat": 37.4764394057239,
+    "lng": 126.887331650246,
     "geoApprox": false
   },
   {
@@ -14948,9 +14948,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://fn.hackers.com/",
-    "lat": 37.48594,
-    "lng": 127.04056,
-    "geoApprox": true
+    "lat": 37.4982153593758,
+    "lng": 127.024347163495,
+    "geoApprox": false
   },
   {
     "id": 904,
@@ -14964,8 +14964,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6184198,
-    "lng": 127.0216393,
+    "lat": 37.6183872008438,
+    "lng": 127.021622086882,
     "geoApprox": false
   },
   {
@@ -14980,9 +14980,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://lllcard.alpaedu.co.kr",
-    "lat": 37.55724,
-    "lng": 127.04846,
-    "geoApprox": true
+    "lat": 37.5451797442107,
+    "lng": 127.056896775555,
+    "geoApprox": false
   },
   {
     "id": 906,
@@ -14996,8 +14996,8 @@ window.VOUCHERS = [
       "시민참여교육"
     ],
     "homepage": "https://www.ket.or.kr/",
-    "lat": 37.500254,
-    "lng": 126.922654,
+    "lat": 37.4996876886461,
+    "lng": 126.921171440403,
     "geoApprox": false
   },
   {
@@ -15012,9 +15012,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.hanuricampus.com/main/index.jsp",
-    "lat": 37.52976,
-    "lng": 126.90844,
-    "geoApprox": true
+    "lat": 37.5252722919246,
+    "lng": 126.894762917152,
+    "geoApprox": false
   },
   {
     "id": 908,
@@ -15028,8 +15028,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5027268,
-    "lng": 127.0983432,
+    "lat": 37.5027808998554,
+    "lng": 127.098335625581,
     "geoApprox": false
   },
   {
@@ -15044,8 +15044,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5097542,
-    "lng": 127.1272828,
+    "lat": 37.5096893209385,
+    "lng": 127.127328312456,
     "geoApprox": false
   },
   {
@@ -15060,8 +15060,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5708778,
-    "lng": 127.0214175,
+    "lat": 37.5708105464699,
+    "lng": 127.021463886656,
     "geoApprox": false
   },
   {
@@ -15076,8 +15076,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6031004,
-    "lng": 127.0653037,
+    "lat": 37.603158367782,
+    "lng": 127.065295029716,
     "geoApprox": false
   },
   {
@@ -15094,9 +15094,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://womanedu.nowon.kr/",
-    "lat": 37.6416,
-    "lng": 127.0619,
-    "geoApprox": true
+    "lat": 37.6576111195257,
+    "lng": 127.066992179476,
+    "geoApprox": false
   },
   {
     "id": 913,
@@ -15110,9 +15110,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "http://im1004.net",
-    "lat": 37.5194,
-    "lng": 126.8877,
-    "geoApprox": true
+    "lat": 37.5191186936296,
+    "lng": 126.903824201023,
+    "geoApprox": false
   },
   {
     "id": 914,
@@ -15126,9 +15126,9 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "https://naver.me/5GyKBj4z",
-    "lat": 37.46832,
-    "lng": 126.94888,
-    "geoApprox": true
+    "lat": 37.4872197363608,
+    "lng": 126.91406597477,
+    "geoApprox": false
   },
   {
     "id": 915,
@@ -15142,8 +15142,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.re-onpilates.com",
-    "lat": 37.526783,
-    "lng": 127.135574,
+    "lat": 37.5273952498819,
+    "lng": 127.135616051172,
     "geoApprox": false
   },
   {
@@ -15158,8 +15158,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://cafe.naver.com/bg2011",
-    "lat": 37.5254705,
-    "lng": 126.8972112,
+    "lat": 37.5254705060708,
+    "lng": 126.897211181371,
     "geoApprox": false
   },
   {
@@ -15175,8 +15175,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://gd.seoulwomanup.or.kr",
-    "lat": 37.535896,
-    "lng": 127.1396012,
+    "lat": 37.5358959620107,
+    "lng": 127.139601204274,
     "geoApprox": false
   },
   {
@@ -15191,9 +15191,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.onnuri21.co.kr",
-    "lat": 37.59178,
-    "lng": 126.94032,
-    "geoApprox": true
+    "lat": 37.6195878442183,
+    "lng": 126.920379331437,
+    "geoApprox": false
   },
   {
     "id": 919,
@@ -15207,9 +15207,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.48846,
-    "lng": 127.03274,
-    "geoApprox": true
+    "lat": 37.4869493367117,
+    "lng": 127.007905737513,
+    "geoApprox": false
   },
   {
     "id": 920,
@@ -15223,9 +15223,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://yuhadayo.com",
-    "lat": 37.50638,
-    "lng": 127.09332,
-    "geoApprox": true
+    "lat": 37.5333299845547,
+    "lng": 127.120999849922,
+    "geoApprox": false
   },
   {
     "id": 921,
@@ -15240,8 +15240,8 @@ window.VOUCHERS = [
       "성인 진로개발역량 향상교육"
     ],
     "homepage": "www.laze.co.kr",
-    "lat": 37.5528457,
-    "lng": 126.937547,
+    "lat": 37.552856414762,
+    "lng": 126.93754325996,
     "geoApprox": false
   },
   {
@@ -15256,9 +15256,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "www.kbselife.com",
-    "lat": 37.580299,
-    "lng": 126.8888929,
-    "geoApprox": false
+    "lat": 37.5775,
+    "lng": 126.9087,
+    "geoApprox": true
   },
   {
     "id": 923,
@@ -15272,9 +15272,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.general.coffee",
-    "lat": 37.6312,
-    "lng": 127.0291,
-    "geoApprox": true
+    "lat": 37.6374953797475,
+    "lng": 127.024119492396,
+    "geoApprox": false
   },
   {
     "id": 924,
@@ -15290,8 +15290,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "www.workers.or.kr",
-    "lat": 37.5575552,
-    "lng": 126.9432128,
+    "lat": 37.5575632795384,
+    "lng": 126.9431790319,
     "geoApprox": false
   },
   {
@@ -15306,9 +15306,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.edudsok.co.kr",
-    "lat": 37.4854,
-    "lng": 126.9601,
-    "geoApprox": true
+    "lat": 37.486324949422,
+    "lng": 126.922816729217,
+    "geoApprox": false
   },
   {
     "id": 926,
@@ -15323,8 +15323,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://ksmile.kumon.co.kr/",
-    "lat": 37.566493,
-    "lng": 126.983682,
+    "lat": 37.5664928978912,
+    "lng": 126.983681840765,
     "geoApprox": false
   },
   {
@@ -15339,8 +15339,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.edumbc.net",
-    "lat": 37.58894,
-    "lng": 127.0046543,
+    "lat": 37.5889423855531,
+    "lng": 127.004652942556,
     "geoApprox": false
   },
   {
@@ -15355,9 +15355,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.53458,
-    "lng": 127.14002,
-    "geoApprox": true
+    "lat": 37.5375066349127,
+    "lng": 127.140171182253,
+    "geoApprox": false
   },
   {
     "id": 929,
@@ -15371,8 +15371,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "",
-    "lat": 37.5587122,
-    "lng": 126.8445084,
+    "lat": 37.5587223631369,
+    "lng": 126.844582912166,
     "geoApprox": false
   },
   {
@@ -15387,9 +15387,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.leespresso.com",
-    "lat": 37.51674,
-    "lng": 127.11406,
-    "geoApprox": true
+    "lat": 37.5083129619723,
+    "lng": 127.110582453229,
+    "geoApprox": false
   },
   {
     "id": 931,
@@ -15403,9 +15403,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.50016,
-    "lng": 126.88774,
-    "geoApprox": true
+    "lat": 37.4949369591311,
+    "lng": 126.893496574048,
+    "geoApprox": false
   },
   {
     "id": 932,
@@ -15419,8 +15419,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.zenoschool.co.kr/",
-    "lat": 37.482971,
-    "lng": 126.8787536,
+    "lat": 37.482895189256,
+    "lng": 126.878829171601,
     "geoApprox": false
   },
   {
@@ -15435,8 +15435,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.pmg.co.kr",
-    "lat": 37.5132656,
-    "lng": 126.9421684,
+    "lat": 37.5132655453299,
+    "lng": 126.942168403859,
     "geoApprox": false
   },
   {
@@ -15454,8 +15454,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://sce.ewha.ac.kr/",
-    "lat": 37.5643371,
-    "lng": 126.9468925,
+    "lat": 37.5644645178259,
+    "lng": 126.950288837762,
     "geoApprox": false
   },
   {
@@ -15473,9 +15473,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://loverock.net",
-    "lat": 37.5194,
-    "lng": 126.9478,
-    "geoApprox": true
+    "lat": 37.490957111073,
+    "lng": 126.971587397179,
+    "geoApprox": false
   },
   {
     "id": 936,
@@ -15489,8 +15489,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://lookspilates.com/",
-    "lat": 37.531107,
-    "lng": 126.8466977,
+    "lat": 37.5315215185769,
+    "lng": 126.846531702129,
     "geoApprox": false
   },
   {
@@ -15505,9 +15505,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.46916,
-    "lng": 126.93494,
-    "geoApprox": true
+    "lat": 37.4819000975612,
+    "lng": 126.943337342715,
+    "geoApprox": false
   },
   {
     "id": 938,
@@ -15521,9 +15521,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.narest.com/",
-    "lat": 37.57328,
-    "lng": 127.03552,
-    "geoApprox": true
+    "lat": 37.5828224947419,
+    "lng": 127.044683044631,
+    "geoApprox": false
   },
   {
     "id": 939,
@@ -15537,9 +15537,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://rebornpilates.com/",
-    "lat": 37.5593,
-    "lng": 126.8934,
-    "geoApprox": true
+    "lat": 37.5511814626333,
+    "lng": 126.917963504748,
+    "geoApprox": false
   },
   {
     "id": 940,
@@ -15553,8 +15553,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://fastcampus.co.kr/category_online_voucher",
-    "lat": 37.4988877,
-    "lng": 127.0292951,
+    "lat": 37.5028813541774,
+    "lng": 127.041356540268,
     "geoApprox": false
   },
   {
@@ -15601,8 +15601,8 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.cyedu.ac.kr/",
-    "lat": 37.4785081,
-    "lng": 126.8834936,
+    "lat": 37.4784047058322,
+    "lng": 126.883358589722,
     "geoApprox": false
   },
   {
@@ -15617,8 +15617,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5085472,
-    "lng": 126.8954958,
+    "lat": 37.508520252922,
+    "lng": 126.895520926279,
     "geoApprox": false
   },
   {
@@ -15634,9 +15634,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://www.bbedu.co.kr/",
-    "lat": 37.50016,
-    "lng": 126.88774,
-    "geoApprox": true
+    "lat": 37.4810070418126,
+    "lng": 126.89442230572,
+    "geoApprox": false
   },
   {
     "id": 946,
@@ -15650,9 +15650,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/hyewony715",
-    "lat": 37.6033572,
-    "lng": 126.9353843,
-    "geoApprox": false
+    "lat": 37.59654,
+    "lng": 126.94066,
+    "geoApprox": true
   },
   {
     "id": 947,
@@ -15668,9 +15668,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://edu.cyber.co.kr",
-    "lat": 37.5565,
-    "lng": 126.9172,
-    "geoApprox": true
+    "lat": 37.5518259119576,
+    "lng": 126.915865684922,
+    "geoApprox": false
   },
   {
     "id": 948,
@@ -15685,9 +15685,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "http://seoulidd.or.kr",
-    "lat": 37.52612,
-    "lng": 126.93828,
-    "geoApprox": true
+    "lat": 37.4904908107395,
+    "lng": 126.918337602822,
+    "geoApprox": false
   },
   {
     "id": 949,
@@ -15703,9 +15703,9 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "http://www.shinjung.or.kr",
-    "lat": 37.52372,
-    "lng": 126.85688,
-    "geoApprox": true
+    "lat": 37.5273028511322,
+    "lng": 126.855530843956,
+    "geoApprox": false
   },
   {
     "id": 950,
@@ -15719,9 +15719,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.oncampus.or.kr",
-    "lat": 37.47754,
-    "lng": 127.04396,
-    "geoApprox": true
+    "lat": 37.4744479390316,
+    "lng": 127.033207632464,
+    "geoApprox": false
   },
   {
     "id": 951,
@@ -15736,8 +15736,8 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "https://www.ubob.com/",
-    "lat": 37.5223683,
-    "lng": 126.9262529,
+    "lat": 37.5223003029771,
+    "lng": 126.926225192863,
     "geoApprox": false
   },
   {
@@ -15752,8 +15752,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.6199065,
-    "lng": 127.0166786,
+    "lat": 37.6198929274703,
+    "lng": 127.016648114846,
     "geoApprox": false
   },
   {
@@ -15769,9 +15769,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.52736,
-    "lng": 127.00564,
-    "geoApprox": true
+    "lat": 37.5400614550685,
+    "lng": 126.961982359239,
+    "geoApprox": false
   },
   {
     "id": 954,
@@ -15785,8 +15785,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://anibugs.ac/",
-    "lat": 37.5019054,
-    "lng": 127.0270054,
+    "lat": 37.5019039513215,
+    "lng": 127.027004225208,
     "geoApprox": false
   },
   {
@@ -15801,8 +15801,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://art-ate.com/",
-    "lat": 37.525004,
-    "lng": 126.864234,
+    "lat": 37.5250035491352,
+    "lng": 126.864233746536,
     "geoApprox": false
   },
   {
@@ -15817,9 +15817,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.66544,
-    "lng": 127.03486,
-    "geoApprox": true
+    "lat": 37.6524755488884,
+    "lng": 127.050255577194,
+    "geoApprox": false
   },
   {
     "id": 957,
@@ -15835,8 +15835,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://go.yonsei.ac.kr/",
-    "lat": 37.567836,
-    "lng": 126.9393747,
+    "lat": 37.5660508394158,
+    "lng": 126.943916239886,
     "geoApprox": false
   },
   {
@@ -15852,8 +15852,8 @@ window.VOUCHERS = [
       "성인 문해교육"
     ],
     "homepage": "https://www.ableacademy.co.kr",
-    "lat": 37.5213552,
-    "lng": 126.8976569,
+    "lat": 37.5213552053058,
+    "lng": 126.897656870946,
     "geoApprox": false
   },
   {
@@ -15868,8 +15868,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://comento.kr/edu",
-    "lat": 37.559251,
-    "lng": 126.972116,
+    "lat": 37.5592510458885,
+    "lng": 126.97211628887,
     "geoApprox": false
   },
   {
@@ -15885,8 +15885,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.4917455,
-    "lng": 127.1177801,
+    "lat": 37.4917620371568,
+    "lng": 127.117842816756,
     "geoApprox": false
   },
   {
@@ -15901,8 +15901,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/bodymulti",
-    "lat": 37.666271,
-    "lng": 127.04599,
+    "lat": 37.6662934478885,
+    "lng": 127.045847069683,
     "geoApprox": false
   },
   {
@@ -15917,9 +15917,9 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.56714,
-    "lng": 126.88796,
-    "geoApprox": true
+    "lat": 37.547616910374,
+    "lng": 126.941372151118,
+    "geoApprox": false
   },
   {
     "id": 963,
@@ -15934,9 +15934,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "www.q-edu.co.kr",
-    "lat": 37.5245,
-    "lng": 127.1373,
-    "geoApprox": true
+    "lat": 37.535692266714,
+    "lng": 127.131740412059,
+    "geoApprox": false
   },
   {
     "id": 964,
@@ -15950,9 +15950,9 @@ window.VOUCHERS = [
       "학력보완교육"
     ],
     "homepage": "https://skyabc.co.kr/",
-    "lat": 37.52224,
-    "lng": 127.03166,
-    "geoApprox": true
+    "lat": 37.5012004317543,
+    "lng": 127.032759420786,
+    "geoApprox": false
   },
   {
     "id": 965,
@@ -15966,9 +15966,9 @@ window.VOUCHERS = [
       "인문교양교육"
     ],
     "homepage": "culcom.co.kr",
-    "lat": 37.59486,
-    "lng": 126.93454,
-    "geoApprox": true
+    "lat": 37.6195812151442,
+    "lng": 126.918066015622,
+    "geoApprox": false
   },
   {
     "id": 966,
@@ -15983,8 +15983,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "",
-    "lat": 37.5165772,
-    "lng": 127.0383419,
+    "lat": 37.5165729561127,
+    "lng": 127.038340314865,
     "geoApprox": false
   },
   {
@@ -15999,9 +15999,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://www.pagodaone.com/main",
-    "lat": 37.56314,
-    "lng": 126.99226,
-    "geoApprox": true
+    "lat": 37.5684799445977,
+    "lng": 126.988131479781,
+    "geoApprox": false
   },
   {
     "id": 968,
@@ -16015,8 +16015,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "https://blog.naver.com/studiojfit5",
-    "lat": 37.5192676,
-    "lng": 126.8890181,
+    "lat": 37.5192811429829,
+    "lng": 126.88902705298,
     "geoApprox": false
   },
   {
@@ -16032,8 +16032,8 @@ window.VOUCHERS = [
       "문화예술교육"
     ],
     "homepage": "sd.seoulwomanup.or.kr",
-    "lat": 37.5438976,
-    "lng": 127.0613659,
+    "lat": 37.5439218096116,
+    "lng": 127.061316029179,
     "geoApprox": false
   },
   {
@@ -16048,8 +16048,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "",
-    "lat": 37.5399281,
-    "lng": 127.0695702,
+    "lat": 37.5399829261045,
+    "lng": 127.069577729358,
     "geoApprox": false
   },
   {
@@ -16064,8 +16064,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.iyulim.com",
-    "lat": 37.541118,
-    "lng": 127.047184,
+    "lat": 37.541233652097,
+    "lng": 127.047260706418,
     "geoApprox": false
   },
   {
@@ -16080,8 +16080,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "http://www.kbaristaschool.com",
-    "lat": 37.519474,
-    "lng": 126.9053777,
+    "lat": 37.5194739523818,
+    "lng": 126.905377660265,
     "geoApprox": false
   },
   {
@@ -16096,8 +16096,8 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "https://m.place.naver.com/place/866050595/home?entry=pll",
-    "lat": 37.6133648,
-    "lng": 127.0297725,
+    "lat": 37.6127184136305,
+    "lng": 127.029674823532,
     "geoApprox": false
   },
   {
@@ -16112,9 +16112,9 @@ window.VOUCHERS = [
       "직업능력 향상교육"
     ],
     "homepage": "www.cyberyori.com",
-    "lat": 37.64856,
-    "lng": 127.02434,
-    "geoApprox": true
+    "lat": 37.6238456044782,
+    "lng": 127.027488129808,
+    "geoApprox": false
   }
 ];
 window.DATA_META = {
