@@ -5,18 +5,8 @@
   var VOUCHERS = window.VOUCHERS || [];
   var DATA_META = window.DATA_META || {};
 
-  var KIND_EMOJI = { '오프라인': '🏫', '온라인': '💻', '온/오프라인': '🔀' };
   var KIND_ORDER = ['오프라인', '온라인', '온/오프라인'];
 
-  var CATEGORY_EMOJI = {
-    '학력보완교육': '📖',
-    '성인 문해교육': '✍️',
-    '직업능력 향상교육': '💼',
-    '성인 진로개발역량 향상교육': '🧭',
-    '인문교양교육': '🎓',
-    '문화예술교육': '🎨',
-    '시민참여교육': '🤝'
-  };
   var CATEGORY_ORDER = ['학력보완교육', '성인 문해교육', '직업능력 향상교육',
     '성인 진로개발역량 향상교육', '인문교양교육', '문화예술교육', '시민참여교육'];
 
@@ -51,7 +41,7 @@
     { num: offline, lbl: '오프라인' },
     { num: online, lbl: '온라인' },
     { num: ai, lbl: 'AI·디지털이용권' },
-    { num: approx, lbl: '📍 위치 확인 필요' }
+    { num: approx, lbl: '위치 확인 필요' }
   ];
   document.getElementById('statTiles').innerHTML = tiles.map(function (t) {
     return '<div class="stat-tile"><div class="num">' + t.num + '</div><div class="lbl">' + t.lbl + '</div></div>';
@@ -65,7 +55,7 @@
   document.getElementById('kindChips').innerHTML = KIND_ORDER
     .filter(function (k) { return kindCounts[k]; })
     .map(function (k) {
-      return '<span class="status-chip"><span class="tag">' + KIND_EMOJI[k] + ' ' + esc(k) + '</span>' +
+      return '<span class="status-chip"><span class="tag">' + esc(k) + '</span>' +
         '<span class="chip-num">' + kindCounts[k] + '곳</span></span>';
     }).join('');
 
@@ -77,7 +67,7 @@
   document.getElementById('categoryChips').innerHTML = CATEGORY_ORDER
     .filter(function (c) { return catCounts[c]; })
     .map(function (c) {
-      return '<span class="status-chip"><span class="tag">' + CATEGORY_EMOJI[c] + ' ' + esc(c) + '</span>' +
+      return '<span class="status-chip"><span class="tag">' + esc(c) + '</span>' +
         '<span class="chip-num">' + catCounts[c] + '곳</span></span>';
     }).join('');
 

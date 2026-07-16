@@ -5,20 +5,10 @@
   var VOUCHERS = window.VOUCHERS || [];
   var DATA_META = window.DATA_META || {};
 
-  var KIND_EMOJI = { '오프라인': '🏫', '온라인': '💻', '온/오프라인': '🔀' };
   var KIND_SLUG = { '오프라인': 'offline', '온라인': 'online', '온/오프라인': 'mixed' };
   var KIND_COLOR = { '오프라인': '#5B4FE0', '온라인': '#22B8CF', '온/오프라인': '#F5A623' };
   var KIND_ORDER = ['오프라인', '온라인', '온/오프라인'];
 
-  var CATEGORY_EMOJI = {
-    '학력보완교육': '📖',
-    '성인 문해교육': '✍️',
-    '직업능력 향상교육': '💼',
-    '성인 진로개발역량 향상교육': '🧭',
-    '인문교양교육': '🎓',
-    '문화예술교육': '🎨',
-    '시민참여교육': '🤝'
-  };
   var CATEGORY_ORDER = ['학력보완교육', '성인 문해교육', '직업능력 향상교육',
     '성인 진로개발역량 향상교육', '인문교양교육', '문화예술교육', '시민참여교육'];
 
@@ -106,10 +96,10 @@
       });
       if (f.geoApprox) marker.setStyle({ fillOpacity: 0.45, dashArray: '2,3' });
       var popupHtml =
-        '<div class="popup-name">' + KIND_EMOJI[f.kind] + ' ' + esc(f.name) + '</div>' +
+        '<div class="popup-name">' + esc(f.name) + '</div>' +
         '<div class="popup-meta">' + esc(f.district) + ' · ' + esc(f.kind) +
         (f.aiYn === true ? ' · AI·디지털' : '') +
-        (f.geoApprox ? ' · <span class="approx-note">📍 위치 확인 필요</span>' : '') + '</div>' +
+        (f.geoApprox ? ' · <span class="approx-note">위치 확인 필요</span>' : '') + '</div>' +
         '<button class="popup-btn" data-popup-detail="' + f.id + '">자세히 보기</button>';
       marker.bindPopup(popupHtml);
       marker.addTo(markerLayer);
@@ -137,12 +127,6 @@
   }
 
   /* ---------- 카드 ---------- */
-  function categoryText(f) {
-    if (!f.categories.length) return '';
-    return f.categories.map(function (c) { return CATEGORY_EMOJI[c] || '📚'; }).join(' ') +
-      ' ' + f.categories.join(', ');
-  }
-
   function cardHtml(f) {
     var dc = districtColor(f.district);
     var fav = favorites.has(f.id);
@@ -150,24 +134,24 @@
       '<span class="tag district" style="background:' + dc + '">' + esc(f.district) + '</span>',
       '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>'
     ];
-    if (f.aiYn === true) tags.push('<span class="tag ai">🤖 AI·디지털</span>');
-    if (f.geoApprox) tags.push('<span class="tag approx">📍 위치 확인 필요</span>');
+    if (f.aiYn === true) tags.push('<span class="tag ai">AI·디지털</span>');
+    if (f.geoApprox) tags.push('<span class="tag approx">위치 확인 필요</span>');
     var info = [];
-    info.push('<div class="card-info"><span class="ico">📍</span>' +
+    info.push('<div class="card-info">' +
       (f.address ? esc(f.address) : '온라인 서비스(별도 방문지 없음)') + '</div>');
     if (f.categories.length) {
-      info.push('<div class="card-info"><span class="ico">📚</span>' + esc(f.categories.join(', ')) + '</div>');
+      info.push('<div class="card-info">' + esc(f.categories.join(', ')) + '</div>');
     }
     return (
       '<article class="facility-card" data-id="' + f.id + '" style="--cc1:' + kindColor(f.kind) + '33; --cc2:#FFFFFF">' +
-        '<div class="card-emoji">' + KIND_EMOJI[f.kind] +
+        '<div class="card-emoji">' +
           '<button class="fav-btn" data-fav="' + f.id + '" aria-label="찜">' + (fav ? '❤️' : '🤍') + '</button>' +
         '</div>' +
         '<div class="card-body">' +
           '<h3 class="card-name">' + esc(f.name) + '</h3>' +
           '<div class="card-tags">' + tags.join('') + '</div>' +
           info.join('') +
-          (f.lat != null ? '<button class="card-locate" data-locate="' + f.id + '">📍 위치보기</button>' : '') +
+          (f.lat != null ? '<button class="card-locate" data-locate="' + f.id + '">위치보기</button>' : '') +
         '</div>' +
       '</article>'
     );
@@ -198,16 +182,15 @@
       : '';
     var body = document.getElementById('modalBody');
     body.innerHTML =
-      '<div class="modal-emoji">' + KIND_EMOJI[f.kind] + '</div>' +
       '<h2 class="modal-title">' + esc(f.name) + '</h2>' +
       '<div class="modal-tags">' +
         '<span class="tag district" style="background:' + dc + '">' + esc(f.district) + '</span>' +
         '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>' +
-        (f.aiYn === true ? '<span class="tag ai">🤖 AI·디지털이용권</span>' : '') +
-        (f.geoApprox ? '<span class="tag approx">📍 위치 확인 필요</span>' : '') +
+        (f.aiYn === true ? '<span class="tag ai">AI·디지털이용권</span>' : '') +
+        (f.geoApprox ? '<span class="tag approx">위치 확인 필요</span>' : '') +
       '</div>' +
       (f.geoApprox
-        ? '<p class="modal-intro">⚠️ 정확한 건물 위치를 찾지 못해 자치구 중심 부근에 표시했어요. 실제 위치는 주소를 참고해 주세요.</p>'
+        ? '<p class="modal-intro">정확한 건물 위치를 찾지 못해 자치구 중심 부근에 표시했어요. 실제 위치는 주소를 참고해 주세요.</p>'
         : '') +
       '<div class="detail-list">' +
         detailRow('주소', f.address || '온라인 서비스(별도 방문지 없음)') +
@@ -274,7 +257,7 @@
 
   function buildLegend() {
     document.getElementById('mapLegend').innerHTML = KIND_ORDER.map(function (k) {
-      return '<span><span class="legend-dot" style="background:' + KIND_COLOR[k] + '"></span>' + KIND_EMOJI[k] + ' ' + k + '</span>';
+      return '<span><span class="legend-dot" style="background:' + KIND_COLOR[k] + '"></span>' + k + '</span>';
     }).join('');
   }
 
