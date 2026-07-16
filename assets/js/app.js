@@ -40,6 +40,23 @@
     localStorage.setItem('vm_favorites', JSON.stringify(Array.from(favorites)));
   }
 
+  // 마지막으로 사용한 자치구 선택·빠른필터 버튼 상태를 이 기기에 기억한다
+  function loadLastFilters() {
+    try {
+      return JSON.parse(localStorage.getItem('vm_lastFilters')) || null;
+    } catch (e) { return null; }
+  }
+  function saveLastFilters() {
+    try {
+      var toggles = {};
+      document.querySelectorAll('[data-toggle]').forEach(function (btn) {
+        toggles[btn.getAttribute('data-toggle')] = !!state[btn.getAttribute('data-toggle')];
+      });
+      toggles.district = state.district;
+      localStorage.setItem('vm_lastFilters', JSON.stringify(toggles));
+    } catch (e) {}
+  }
+
   function esc(s) {
     return String(s == null ? '' : s)
       .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -275,6 +292,7 @@
     } else {
       map.flyTo(SEOUL_CENTER, SEOUL_ZOOM, { duration: 0.8 });
     }
+    saveLastFilters();
     render();
   }
 
@@ -355,6 +373,7 @@
       var key = togglePill.getAttribute('data-toggle');
       state[key] = !state[key];
       togglePill.classList.toggle('active', state[key]);
+      saveLastFilters();
       render();
       return;
     }
@@ -407,13 +426,30 @@
   if (window.innerWidth <= 900) {
     document.querySelector('.content-grid').classList.add('view-list');
   }
-  // 리포트 등에서 ?district=자치구 로 진입한 경우 필터 적용
+  // 리포트 등에서 ?district=자치구 로 진입한 경우 URL을 우선 적용,
+  // 그렇지 않으면 이 기기에 마지막으로 저장된 필터를 복원한다
   var params = new URLSearchParams(location.search);
   var paramDistrict = params.get('district');
   if (paramDistrict && DISTRICT_ORDER.indexOf(paramDistrict) !== -1) {
     setDistrict(paramDistrict);
   } else {
-    render();
+    var savedFilters = loadLastFilters();
+    if (savedFilters) {
+      document.querySelectorAll('[data-toggle]').forEach(function (btn) {
+        var key = btn.getAttribute('data-toggle');
+        if (savedFilters[key]) {
+          state[key] = true;
+          btn.classList.add('active');
+        }
+      });
+      if (savedFilters.district && DISTRICT_ORDER.indexOf(savedFilters.district) !== -1) {
+        setDistrict(savedFilters.district);
+      } else {
+        render();
+      }
+    } else {
+      render();
+    }
   }
 
   // PWA: 서비스 워커 등록 (홈 화면 설치 · 오프라인 지원)
