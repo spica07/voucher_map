@@ -155,6 +155,7 @@ def main():
             "homepage": it["homepage"],
             "lat": lat,
             "lng": lng,
+            "geoApprox": geo != "geocoded",
         })
         if i % 50 == 0:
             print(f"[{i}/{len(items)}] geocoded={geocoded} approx={approx}")

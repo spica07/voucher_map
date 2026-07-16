@@ -45,11 +45,13 @@
   var offline = count(VOUCHERS, function (f) { return f.kind === '오프라인'; });
   var online = count(VOUCHERS, function (f) { return f.kind === '온라인'; });
   var ai = count(VOUCHERS, function (f) { return f.aiYn; });
+  var approx = count(VOUCHERS, function (f) { return f.geoApprox; });
   var tiles = [
     { num: VOUCHERS.length, lbl: '전체 사용처' },
     { num: offline, lbl: '오프라인' },
     { num: online, lbl: '온라인' },
-    { num: ai, lbl: 'AI·디지털이용권' }
+    { num: ai, lbl: 'AI·디지털이용권' },
+    { num: approx, lbl: '📍 위치 확인 필요' }
   ];
   document.getElementById('statTiles').innerHTML = tiles.map(function (t) {
     return '<div class="stat-tile"><div class="num">' + t.num + '</div><div class="lbl">' + t.lbl + '</div></div>';

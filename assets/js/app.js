@@ -104,10 +104,12 @@
         weight: 2,
         fillOpacity: 0.9
       });
+      if (f.geoApprox) marker.setStyle({ fillOpacity: 0.45, dashArray: '2,3' });
       var popupHtml =
         '<div class="popup-name">' + KIND_EMOJI[f.kind] + ' ' + esc(f.name) + '</div>' +
         '<div class="popup-meta">' + esc(f.district) + ' · ' + esc(f.kind) +
-        (f.aiYn === true ? ' · AI·디지털' : '') + '</div>' +
+        (f.aiYn === true ? ' · AI·디지털' : '') +
+        (f.geoApprox ? ' · <span class="approx-note">📍 위치 확인 필요</span>' : '') + '</div>' +
         '<button class="popup-btn" data-popup-detail="' + f.id + '">자세히 보기</button>';
       marker.bindPopup(popupHtml);
       marker.addTo(markerLayer);
@@ -149,6 +151,7 @@
       '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>'
     ];
     if (f.aiYn === true) tags.push('<span class="tag ai">🤖 AI·디지털</span>');
+    if (f.geoApprox) tags.push('<span class="tag approx">📍 위치 확인 필요</span>');
     var info = [];
     info.push('<div class="card-info"><span class="ico">📍</span>' +
       (f.address ? esc(f.address) : '온라인 서비스(별도 방문지 없음)') + '</div>');
@@ -201,7 +204,11 @@
         '<span class="tag district" style="background:' + dc + '">' + esc(f.district) + '</span>' +
         '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>' +
         (f.aiYn === true ? '<span class="tag ai">🤖 AI·디지털이용권</span>' : '') +
+        (f.geoApprox ? '<span class="tag approx">📍 위치 확인 필요</span>' : '') +
       '</div>' +
+      (f.geoApprox
+        ? '<p class="modal-intro">⚠️ 정확한 건물 위치를 찾지 못해 자치구 중심 부근에 표시했어요. 실제 위치는 주소를 참고해 주세요.</p>'
+        : '') +
       '<div class="detail-list">' +
         detailRow('주소', f.address || '온라인 서비스(별도 방문지 없음)') +
         detailRow('분야', f.categories.join(', ')) +

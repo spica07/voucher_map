@@ -13,7 +13,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sbiznews.com",
     "lat": 37.4754586,
-    "lng": 126.8830974
+    "lng": 126.8830974,
+    "geoApprox": false
   },
   {
     "id": 2,
@@ -28,7 +29,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.paranhanul.net/",
     "lat": 37.47614,
-    "lng": 127.02186
+    "lng": 127.02186,
+    "geoApprox": true
   },
   {
     "id": 3,
@@ -46,7 +48,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://wingsdrone.wooripage.net/",
     "lat": 37.49092,
-    "lng": 126.9289145
+    "lng": 126.9289145,
+    "geoApprox": false
   },
   {
     "id": 4,
@@ -65,7 +68,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sb.go.kr/",
     "lat": 37.6050584,
-    "lng": 127.0309893
+    "lng": 127.0309893,
+    "geoApprox": false
   },
   {
     "id": 5,
@@ -80,7 +84,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sinchon.sbsgameacademy.com/",
     "lat": 37.5561551,
-    "lng": 126.9393113
+    "lng": 126.9393113,
+    "geoApprox": false
   },
   {
     "id": 6,
@@ -97,7 +102,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/nuri_vision",
     "lat": 37.65784,
-    "lng": 127.05306
+    "lng": 127.05306,
+    "geoApprox": true
   },
   {
     "id": 7,
@@ -114,7 +120,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangseo.seoulwomanup.or.kr",
     "lat": 37.53746,
-    "lng": 126.83454
+    "lng": 126.83454,
+    "geoApprox": true
   },
   {
     "id": 8,
@@ -129,7 +136,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/centerinpilatesyw",
     "lat": 37.60434,
-    "lng": 127.10256
+    "lng": 127.10256,
+    "geoApprox": true
   },
   {
     "id": 9,
@@ -144,7 +152,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.spicus.com",
     "lat": 37.5587734,
-    "lng": 126.9947209
+    "lng": 126.9947209,
+    "geoApprox": false
   },
   {
     "id": 10,
@@ -159,7 +168,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/clalarnt",
     "lat": 37.519375,
-    "lng": 127.0507702
+    "lng": 127.0507702,
+    "geoApprox": false
   },
   {
     "id": 11,
@@ -174,7 +184,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.bnplab.org/",
     "lat": 37.48706,
-    "lng": 127.04464
+    "lng": 127.04464,
+    "geoApprox": true
   },
   {
     "id": 12,
@@ -189,7 +200,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52008,
-    "lng": 126.86062
+    "lng": 126.86062,
+    "geoApprox": true
   },
   {
     "id": 13,
@@ -205,7 +217,8 @@ window.VOUCHERS = [
     ],
     "homepage": "dasdeutsch.com",
     "lat": 37.4764639,
-    "lng": 126.8873368
+    "lng": 126.8873368,
+    "geoApprox": false
   },
   {
     "id": 14,
@@ -220,7 +233,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.619612,
-    "lng": 126.9177484
+    "lng": 126.9177484,
+    "geoApprox": false
   },
   {
     "id": 15,
@@ -237,7 +251,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.ssdc.or.kr",
     "lat": 37.5592587,
-    "lng": 127.0360053
+    "lng": 127.0360053,
+    "geoApprox": false
   },
   {
     "id": 16,
@@ -254,7 +269,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://hncacademy.com/",
     "lat": 37.66036,
-    "lng": 127.04524
+    "lng": 127.04524,
+    "geoApprox": true
   },
   {
     "id": 17,
@@ -271,7 +287,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.dongsibok.or.kr/",
     "lat": 37.58728,
-    "lng": 127.05252
+    "lng": 127.05252,
+    "geoApprox": true
   },
   {
     "id": 18,
@@ -289,7 +306,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.korhrd.co.kr/",
     "lat": 37.68028,
-    "lng": 127.03792
+    "lng": 127.03792,
+    "geoApprox": true
   },
   {
     "id": 19,
@@ -304,7 +322,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55836,
-    "lng": 127.05254
+    "lng": 127.05254,
+    "geoApprox": true
   },
   {
     "id": 20,
@@ -321,7 +340,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lllcard.megahrd.co.kr/index.jsp",
     "lat": 37.53064,
-    "lng": 127.06226
+    "lng": 127.06226,
+    "geoApprox": true
   },
   {
     "id": 21,
@@ -336,7 +356,8 @@ window.VOUCHERS = [
     ],
     "homepage": "wacampus.kr",
     "lat": 37.526803,
-    "lng": 126.904262
+    "lng": 126.904262,
+    "geoApprox": false
   },
   {
     "id": 22,
@@ -352,7 +373,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lifelongstudy.snue.ac.kr/",
     "lat": 37.4899829,
-    "lng": 127.0165676
+    "lng": 127.0165676,
+    "geoApprox": false
   },
   {
     "id": 23,
@@ -367,7 +389,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5125024,
-    "lng": 127.0211574
+    "lng": 127.0211574,
+    "geoApprox": false
   },
   {
     "id": 24,
@@ -382,7 +405,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://map.naver.com/p/entry/place/1495989691",
     "lat": 37.50918,
-    "lng": 127.10352
+    "lng": 127.10352,
+    "geoApprox": true
   },
   {
     "id": 25,
@@ -397,7 +421,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.joongang-professional.com/",
     "lat": 37.60546,
-    "lng": 127.10664
+    "lng": 127.10664,
+    "geoApprox": true
   },
   {
     "id": 26,
@@ -412,7 +437,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.46502,
-    "lng": 126.90808
+    "lng": 126.90808,
+    "geoApprox": true
   },
   {
     "id": 27,
@@ -427,7 +453,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.itbankcyber.com/",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 28,
@@ -442,7 +469,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://map.naver.com/p/entry/place/1011471924",
     "lat": 37.59426,
-    "lng": 127.09984
+    "lng": 127.09984,
+    "geoApprox": true
   },
   {
     "id": 29,
@@ -457,7 +485,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.laingang.co.kr/mobile/index.jsp",
     "lat": 37.5528457,
-    "lng": 126.937547
+    "lng": 126.937547,
+    "geoApprox": false
   },
   {
     "id": 30,
@@ -472,7 +501,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.5757214,
-    "lng": 126.8955387
+    "lng": 126.8955387,
+    "geoApprox": false
   },
   {
     "id": 31,
@@ -487,7 +517,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cleaning-business.co.kr/",
     "lat": 37.5736169,
-    "lng": 127.0459784
+    "lng": 127.0459784,
+    "geoApprox": false
   },
   {
     "id": 32,
@@ -503,7 +534,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://sinmyung.ijesus.net",
     "lat": 37.51758,
-    "lng": 127.10012
+    "lng": 127.10012,
+    "geoApprox": true
   },
   {
     "id": 33,
@@ -523,7 +555,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://seongdongedu.or.kr",
     "lat": 37.56564,
-    "lng": 127.04506
+    "lng": 127.04506,
+    "geoApprox": true
   },
   {
     "id": 34,
@@ -538,7 +571,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yeshanc.com",
     "lat": 37.58358,
-    "lng": 126.98172
+    "lng": 126.98172,
+    "geoApprox": true
   },
   {
     "id": 35,
@@ -553,7 +587,8 @@ window.VOUCHERS = [
     ],
     "homepage": "baeoomup.co.kr",
     "lat": 37.4785081,
-    "lng": 126.8834936
+    "lng": 126.8834936,
+    "geoApprox": false
   },
   {
     "id": 36,
@@ -570,7 +605,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sedulife.kcu.ac/",
     "lat": 37.57574,
-    "lng": 126.98716
+    "lng": 126.98716,
+    "geoApprox": true
   },
   {
     "id": 37,
@@ -588,7 +624,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.openlife.or.kr",
     "lat": 37.59822,
-    "lng": 126.91278
+    "lng": 126.91278,
+    "geoApprox": true
   },
   {
     "id": 38,
@@ -604,7 +641,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ysrehab.or.kr/",
     "lat": 37.54248,
-    "lng": 126.99272
+    "lng": 126.99272,
+    "geoApprox": true
   },
   {
     "id": 39,
@@ -619,7 +657,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ecce.kr/",
     "lat": 37.4803447,
-    "lng": 126.8841738
+    "lng": 126.8841738,
+    "geoApprox": false
   },
   {
     "id": 40,
@@ -634,7 +673,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.baeron.com/",
     "lat": 37.5571085,
-    "lng": 126.8641934
+    "lng": 126.8641934,
+    "geoApprox": false
   },
   {
     "id": 41,
@@ -651,7 +691,8 @@ window.VOUCHERS = [
     ],
     "homepage": "creatoredu.net",
     "lat": 37.50432,
-    "lng": 127.03438
+    "lng": 127.03438,
+    "geoApprox": true
   },
   {
     "id": 42,
@@ -668,7 +709,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangbuk.seoulwomanup.or.kr/gangbuk/main/main.do",
     "lat": 37.6316893,
-    "lng": 127.0236006
+    "lng": 127.0236006,
+    "geoApprox": false
   },
   {
     "id": 43,
@@ -683,7 +725,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hackers.com/voucher.html",
     "lat": 37.48594,
-    "lng": 127.04056
+    "lng": 127.04056,
+    "geoApprox": true
   },
   {
     "id": 44,
@@ -702,7 +745,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52708,
-    "lng": 126.86912
+    "lng": 126.86912,
+    "geoApprox": true
   },
   {
     "id": 45,
@@ -717,7 +761,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52444,
-    "lng": 126.90606
+    "lng": 126.90606,
+    "geoApprox": true
   },
   {
     "id": 46,
@@ -732,7 +777,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4846935,
-    "lng": 126.9704327
+    "lng": 126.9704327,
+    "geoApprox": false
   },
   {
     "id": 47,
@@ -749,7 +795,8 @@ window.VOUCHERS = [
     ],
     "homepage": "lll.gangdong.go.kr",
     "lat": 37.53486,
-    "lng": 127.12404
+    "lng": 127.12404,
+    "geoApprox": true
   },
   {
     "id": 48,
@@ -764,7 +811,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.eckedu.com",
     "lat": 37.5607,
-    "lng": 126.9155
+    "lng": 126.9155,
+    "geoApprox": true
   },
   {
     "id": 49,
@@ -780,7 +828,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.caihong.co.kr/",
     "lat": 37.4826,
-    "lng": 126.9499
+    "lng": 126.9499,
+    "geoApprox": true
   },
   {
     "id": 50,
@@ -797,7 +846,8 @@ window.VOUCHERS = [
     ],
     "homepage": "dongdaemunedu.or.kr",
     "lat": 37.5632,
-    "lng": 127.0328
+    "lng": 127.0328,
+    "geoApprox": true
   },
   {
     "id": 51,
@@ -812,7 +862,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.instagram.com/jandapilates_anam/",
     "lat": 37.5866,
-    "lng": 127.0065
+    "lng": 127.0065,
+    "geoApprox": true
   },
   {
     "id": 52,
@@ -827,7 +878,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.aplus.ac",
     "lat": 37.5040883,
-    "lng": 127.1270315
+    "lng": 127.1270315,
+    "geoApprox": false
   },
   {
     "id": 53,
@@ -842,7 +894,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.bhhanc.com",
     "lat": 37.55001,
-    "lng": 126.8677882
+    "lng": 126.8677882,
+    "geoApprox": false
   },
   {
     "id": 54,
@@ -857,7 +910,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.willbeslife.net",
     "lat": 37.54382,
-    "lng": 127.12268
+    "lng": 127.12268,
+    "geoApprox": true
   },
   {
     "id": 55,
@@ -872,7 +926,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.22s.kr",
     "lat": 37.4611,
-    "lng": 126.8938
+    "lng": 126.8938,
+    "geoApprox": true
   },
   {
     "id": 56,
@@ -887,7 +942,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.537418,
-    "lng": 127.0787587
+    "lng": 127.0787587,
+    "geoApprox": false
   },
   {
     "id": 57,
@@ -902,7 +958,8 @@ window.VOUCHERS = [
     ],
     "homepage": "emecca.cau.ac.kr",
     "lat": 37.5062859,
-    "lng": 126.957433
+    "lng": 126.957433,
+    "geoApprox": false
   },
   {
     "id": 58,
@@ -917,7 +974,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://voicecode.modoo.at/",
     "lat": 37.5562153,
-    "lng": 127.0759494
+    "lng": 127.0759494,
+    "geoApprox": false
   },
   {
     "id": 59,
@@ -932,7 +990,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sinchon.sbsart.com/",
     "lat": 37.5572221,
-    "lng": 126.9249712
+    "lng": 126.9249712,
+    "geoApprox": false
   },
   {
     "id": 60,
@@ -947,7 +1006,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hakjisaedu.com",
     "lat": 37.5579,
-    "lng": 126.9053
+    "lng": 126.9053,
+    "geoApprox": true
   },
   {
     "id": 61,
@@ -962,7 +1022,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5567956,
-    "lng": 126.9348107
+    "lng": 126.9348107,
+    "geoApprox": false
   },
   {
     "id": 62,
@@ -977,7 +1038,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://coffeemonthly.creatorlink.net/",
     "lat": 37.5477884,
-    "lng": 126.9715227
+    "lng": 126.9715227,
+    "geoApprox": false
   },
   {
     "id": 63,
@@ -992,7 +1054,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/pilates_bada",
     "lat": 37.4485018,
-    "lng": 126.9037066
+    "lng": 126.9037066,
+    "geoApprox": false
   },
   {
     "id": 64,
@@ -1008,7 +1071,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51002,
-    "lng": 127.08958
+    "lng": 127.08958,
+    "geoApprox": true
   },
   {
     "id": 65,
@@ -1023,7 +1087,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50414,
-    "lng": 127.11916
+    "lng": 127.11916,
+    "geoApprox": true
   },
   {
     "id": 66,
@@ -1038,7 +1103,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5617573,
-    "lng": 126.9854028
+    "lng": 126.9854028,
+    "geoApprox": false
   },
   {
     "id": 67,
@@ -1053,7 +1119,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dreampilates.modoo.at/",
     "lat": 37.5196466,
-    "lng": 126.8890691
+    "lng": 126.8890691,
+    "geoApprox": false
   },
   {
     "id": 68,
@@ -1068,7 +1135,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.unisense.co.kr",
     "lat": 37.51576,
-    "lng": 126.89144
+    "lng": 126.89144,
+    "geoApprox": true
   },
   {
     "id": 69,
@@ -1083,7 +1151,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.hmstudy.com",
     "lat": 37.4701806,
-    "lng": 126.9371918
+    "lng": 126.9371918,
+    "geoApprox": false
   },
   {
     "id": 70,
@@ -1098,7 +1167,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5578214,
-    "lng": 126.9433329
+    "lng": 126.9433329,
+    "geoApprox": false
   },
   {
     "id": 71,
@@ -1113,7 +1183,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5389966,
-    "lng": 127.0674893
+    "lng": 127.0674893,
+    "geoApprox": false
   },
   {
     "id": 72,
@@ -1128,7 +1199,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.scce.kr/",
     "lat": 37.4803447,
-    "lng": 126.8841738
+    "lng": 126.8841738,
+    "geoApprox": false
   },
   {
     "id": 73,
@@ -1143,7 +1215,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/lookspilates73",
     "lat": 37.49764,
-    "lng": 126.89556
+    "lng": 126.89556,
+    "geoApprox": true
   },
   {
     "id": 74,
@@ -1158,7 +1231,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ep.seoulwomanup.or.kr/",
     "lat": 37.60074,
-    "lng": 126.93896
+    "lng": 126.93896,
+    "geoApprox": true
   },
   {
     "id": 75,
@@ -1173,7 +1247,8 @@ window.VOUCHERS = [
     ],
     "homepage": "krartcom.co.kr",
     "lat": 37.4939668,
-    "lng": 127.1420721
+    "lng": 127.1420721,
+    "geoApprox": false
   },
   {
     "id": 76,
@@ -1188,7 +1263,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4854,
-    "lng": 126.9601
+    "lng": 126.9601,
+    "geoApprox": true
   },
   {
     "id": 77,
@@ -1203,7 +1279,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cheonho.wcomputerart.com/",
     "lat": 37.5407348,
-    "lng": 127.1247155
+    "lng": 127.1247155,
+    "geoApprox": false
   },
   {
     "id": 78,
@@ -1219,7 +1296,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5461269,
-    "lng": 126.8716982
+    "lng": 126.8716982,
+    "geoApprox": false
   },
   {
     "id": 79,
@@ -1234,7 +1312,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ybmedu.com/sinchon",
     "lat": 37.5559449,
-    "lng": 126.9385179
+    "lng": 126.9385179,
+    "geoApprox": false
   },
   {
     "id": 80,
@@ -1250,7 +1329,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://happy01.co.kr/",
     "lat": 37.511004,
-    "lng": 127.019236
+    "lng": 127.019236,
+    "geoApprox": false
   },
   {
     "id": 81,
@@ -1269,7 +1349,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jgewc.or.kr/",
     "lat": 37.55626,
-    "lng": 127.00334
+    "lng": 127.00334,
+    "geoApprox": true
   },
   {
     "id": 82,
@@ -1284,7 +1365,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/coffee_inbarista",
     "lat": 37.55986,
-    "lng": 126.84814
+    "lng": 126.84814,
+    "geoApprox": true
   },
   {
     "id": 83,
@@ -1299,7 +1381,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hackers.com/voucher.html",
     "lat": 37.49518,
-    "lng": 127.02322
+    "lng": 127.02322,
+    "geoApprox": true
   },
   {
     "id": 84,
@@ -1314,7 +1397,8 @@ window.VOUCHERS = [
     ],
     "homepage": "착한실용음악학원.kr",
     "lat": 37.59958,
-    "lng": 127.10222
+    "lng": 127.10222,
+    "geoApprox": true
   },
   {
     "id": 85,
@@ -1329,7 +1413,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5125024,
-    "lng": 127.0211574
+    "lng": 127.0211574,
+    "geoApprox": false
   },
   {
     "id": 86,
@@ -1344,7 +1429,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51408,
-    "lng": 126.94542
+    "lng": 126.94542,
+    "geoApprox": true
   },
   {
     "id": 87,
@@ -1359,7 +1445,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ibstudy.co.kr",
     "lat": 37.5557189,
-    "lng": 126.939907
+    "lng": 126.939907,
+    "geoApprox": false
   },
   {
     "id": 88,
@@ -1374,7 +1461,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.icrpw.com/main/index.jsp",
     "lat": 37.46754,
-    "lng": 126.90026
+    "lng": 126.90026,
+    "geoApprox": true
   },
   {
     "id": 89,
@@ -1389,7 +1477,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/majorpilates",
     "lat": 37.4801392,
-    "lng": 126.9029167
+    "lng": 126.9029167,
+    "geoApprox": false
   },
   {
     "id": 90,
@@ -1404,7 +1493,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.hanmicomputer.com",
     "lat": 37.5744747,
-    "lng": 127.0198039
+    "lng": 127.0198039,
+    "geoApprox": false
   },
   {
     "id": 91,
@@ -1421,7 +1511,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gwangjin.go.kr/edu/main/main.do",
     "lat": 37.52898,
-    "lng": 127.08162
+    "lng": 127.08162,
+    "geoApprox": true
   },
   {
     "id": 92,
@@ -1436,7 +1527,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5616833,
-    "lng": 126.9869747
+    "lng": 126.9869747,
+    "geoApprox": false
   },
   {
     "id": 93,
@@ -1451,7 +1543,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.uni-edu.co.kr/",
     "lat": 37.5195995,
-    "lng": 127.0190719
+    "lng": 127.0190719,
+    "geoApprox": false
   },
   {
     "id": 94,
@@ -1466,7 +1559,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gseekcampus.com/",
     "lat": 37.56994,
-    "lng": 126.89816
+    "lng": 126.89816,
+    "geoApprox": true
   },
   {
     "id": 95,
@@ -1481,7 +1575,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://pilateskeming.com/",
     "lat": 37.4693715,
-    "lng": 126.8970542
+    "lng": 126.8970542,
+    "geoApprox": false
   },
   {
     "id": 96,
@@ -1496,7 +1591,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gs-hscook.com/main/index.do",
     "lat": 37.54306,
-    "lng": 126.85494
+    "lng": 126.85494,
+    "geoApprox": true
   },
   {
     "id": 97,
@@ -1511,7 +1607,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://jaeedu.com/",
     "lat": 37.5744747,
-    "lng": 127.0198039
+    "lng": 127.0198039,
+    "geoApprox": false
   },
   {
     "id": 98,
@@ -1529,7 +1626,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.learningfactory.co.kr",
     "lat": 37.488607,
-    "lng": 127.017102
+    "lng": 127.017102,
+    "geoApprox": false
   },
   {
     "id": 99,
@@ -1544,7 +1642,8 @@ window.VOUCHERS = [
     ],
     "homepage": "learninvest.co.kr",
     "lat": 37.56662,
-    "lng": 126.99008
+    "lng": 126.99008,
+    "geoApprox": true
   },
   {
     "id": 100,
@@ -1563,7 +1662,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.yangcheonedu.or.kr/",
     "lat": 37.52204,
-    "lng": 126.85076
+    "lng": 126.85076,
+    "geoApprox": true
   },
   {
     "id": 101,
@@ -1578,7 +1678,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.sdfac.or.kr/www/index.do",
     "lat": 37.56844,
-    "lng": 127.02126
+    "lng": 127.02126,
+    "geoApprox": true
   },
   {
     "id": 102,
@@ -1594,7 +1695,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cnemabeauty-cheonho.webflow.io/",
     "lat": 37.535247,
-    "lng": 127.132662
+    "lng": 127.132662,
+    "geoApprox": false
   },
   {
     "id": 103,
@@ -1612,7 +1714,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ingang7.co.kr",
     "lat": 37.51688,
-    "lng": 126.95562
+    "lng": 126.95562,
+    "geoApprox": true
   },
   {
     "id": 104,
@@ -1627,7 +1730,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ybmcc.com/v2/index.asp",
     "lat": 37.58638,
-    "lng": 126.99192
+    "lng": 126.99192,
+    "geoApprox": true
   },
   {
     "id": 105,
@@ -1644,7 +1748,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.58274,
-    "lng": 126.93306
+    "lng": 126.93306,
+    "geoApprox": true
   },
   {
     "id": 106,
@@ -1660,7 +1765,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.goodwoori.or.kr/",
     "lat": 37.5887,
-    "lng": 126.9121
+    "lng": 126.9121,
+    "geoApprox": true
   },
   {
     "id": 107,
@@ -1676,7 +1782,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jagyuk.step.or.kr",
     "lat": 37.51576,
-    "lng": 126.95154
+    "lng": 126.95154,
+    "geoApprox": true
   },
   {
     "id": 108,
@@ -1691,7 +1798,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kdedu.co.kr/main/index.jsp",
     "lat": 37.5397,
-    "lng": 126.8427
+    "lng": 126.8427,
+    "geoApprox": true
   },
   {
     "id": 109,
@@ -1706,7 +1814,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.bompilates.com",
     "lat": 37.51772,
-    "lng": 126.94168
+    "lng": 126.94168,
+    "geoApprox": true
   },
   {
     "id": 110,
@@ -1721,7 +1830,8 @@ window.VOUCHERS = [
     ],
     "homepage": "slccampus.co.kr",
     "lat": 37.5599,
-    "lng": 126.9996
+    "lng": 126.9996,
+    "geoApprox": true
   },
   {
     "id": 111,
@@ -1737,7 +1847,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.global-care.co.kr",
     "lat": 37.49932,
-    "lng": 126.90168
+    "lng": 126.90168,
+    "geoApprox": true
   },
   {
     "id": 112,
@@ -1756,7 +1867,8 @@ window.VOUCHERS = [
     ],
     "homepage": "turningcampus.com",
     "lat": 37.4742435,
-    "lng": 126.8810955
+    "lng": 126.8810955,
+    "geoApprox": false
   },
   {
     "id": 113,
@@ -1771,7 +1883,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/secret2406",
     "lat": 37.5669,
-    "lng": 127.0081
+    "lng": 127.0081,
+    "geoApprox": true
   },
   {
     "id": 114,
@@ -1786,7 +1899,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://engall.net/",
     "lat": 37.5687923,
-    "lng": 126.9788197
+    "lng": 126.9788197,
+    "geoApprox": false
   },
   {
     "id": 115,
@@ -1801,7 +1915,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://philipenglish.co.kr",
     "lat": 37.56564,
-    "lng": 127.04506
+    "lng": 127.04506,
+    "geoApprox": true
   },
   {
     "id": 116,
@@ -1816,7 +1931,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://edu.hstudy.co.kr/",
     "lat": 37.526803,
-    "lng": 126.904262
+    "lng": 126.904262,
+    "geoApprox": false
   },
   {
     "id": 117,
@@ -1831,7 +1947,8 @@ window.VOUCHERS = [
     ],
     "homepage": "solviolin.com",
     "lat": 37.53704,
-    "lng": 126.90096
+    "lng": 126.90096,
+    "geoApprox": true
   },
   {
     "id": 118,
@@ -1848,7 +1965,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.489007,
-    "lng": 126.9923344
+    "lng": 126.9923344,
+    "geoApprox": false
   },
   {
     "id": 119,
@@ -1864,7 +1982,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sappa.co.kr",
     "lat": 37.49014,
-    "lng": 127.03886
+    "lng": 127.03886,
+    "geoApprox": true
   },
   {
     "id": 120,
@@ -1881,7 +2000,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://theartschool.co.kr/",
     "lat": 37.491876,
-    "lng": 127.00882
+    "lng": 127.00882,
+    "geoApprox": false
   },
   {
     "id": 121,
@@ -1900,7 +2020,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nowonedu.or.kr/",
     "lat": 37.65896,
-    "lng": 127.05714
+    "lng": 127.05714,
+    "geoApprox": true
   },
   {
     "id": 122,
@@ -1915,7 +2036,8 @@ window.VOUCHERS = [
     ],
     "homepage": "mbcpetacademy.com",
     "lat": 37.6363559,
-    "lng": 127.0206526
+    "lng": 127.0206526,
+    "geoApprox": false
   },
   {
     "id": 123,
@@ -1930,7 +2052,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/in_muu_sinchon",
     "lat": 37.5558782,
-    "lng": 126.9381488
+    "lng": 126.9381488,
+    "geoApprox": false
   },
   {
     "id": 124,
@@ -1945,7 +2068,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47306,
-    "lng": 127.02764
+    "lng": 127.02764,
+    "geoApprox": true
   },
   {
     "id": 125,
@@ -1960,7 +2084,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55538,
-    "lng": 126.91312
+    "lng": 126.91312,
+    "geoApprox": true
   },
   {
     "id": 126,
@@ -1975,7 +2100,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://yoursteven.com/",
     "lat": 37.60574,
-    "lng": 127.09066
+    "lng": 127.09066,
+    "geoApprox": true
   },
   {
     "id": 127,
@@ -1990,7 +2116,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/youngspilates1",
     "lat": 37.5587975,
-    "lng": 126.9676917
+    "lng": 126.9676917,
+    "geoApprox": false
   },
   {
     "id": 128,
@@ -2006,7 +2133,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/giogio_",
     "lat": 37.5553375,
-    "lng": 126.93298
+    "lng": 126.93298,
+    "geoApprox": false
   },
   {
     "id": 129,
@@ -2021,7 +2149,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hackers.ac/",
     "lat": 37.4982951,
-    "lng": 127.0243614
+    "lng": 127.0243614,
+    "geoApprox": false
   },
   {
     "id": 130,
@@ -2036,7 +2165,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5921665,
-    "lng": 127.0154942
+    "lng": 127.0154942,
+    "geoApprox": false
   },
   {
     "id": 131,
@@ -2055,7 +2185,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kosas.org",
     "lat": 37.5416468,
-    "lng": 127.0841547
+    "lng": 127.0841547,
+    "geoApprox": false
   },
   {
     "id": 132,
@@ -2072,7 +2203,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.ducsi.ac.kr/Ducsi/ducsi_new/index.jsp",
     "lat": 37.5711,
-    "lng": 127.0064
+    "lng": 127.0064,
+    "geoApprox": true
   },
   {
     "id": 133,
@@ -2088,7 +2220,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dunand-acdemy.my.canva.site/",
     "lat": 37.5614484,
-    "lng": 127.0054564
+    "lng": 127.0054564,
+    "geoApprox": false
   },
   {
     "id": 134,
@@ -2103,7 +2236,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.snjob.or.kr/default/",
     "lat": 37.4956308,
-    "lng": 126.8418379
+    "lng": 126.8418379,
+    "geoApprox": false
   },
   {
     "id": 135,
@@ -2118,7 +2252,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51632,
-    "lng": 126.89348
+    "lng": 126.89348,
+    "geoApprox": true
   },
   {
     "id": 136,
@@ -2133,7 +2268,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodyin8925",
     "lat": 37.56958,
-    "lng": 126.93612
+    "lng": 126.93612,
+    "geoApprox": true
   },
   {
     "id": 137,
@@ -2148,7 +2284,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.haksa2080.com/",
     "lat": 37.4985696,
-    "lng": 127.0257413
+    "lng": 127.0257413,
+    "geoApprox": false
   },
   {
     "id": 138,
@@ -2163,7 +2300,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://with-piano.com/",
     "lat": 37.49016,
-    "lng": 126.96044
+    "lng": 126.96044,
+    "geoApprox": true
   },
   {
     "id": 139,
@@ -2179,7 +2317,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ydp.atelierkorea.com/",
     "lat": 37.51436,
-    "lng": 126.90334
+    "lng": 126.90334,
+    "geoApprox": true
   },
   {
     "id": 140,
@@ -2194,7 +2333,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gmnurse.kr",
     "lat": 37.5952888,
-    "lng": 127.0824184
+    "lng": 127.0824184,
+    "geoApprox": false
   },
   {
     "id": 141,
@@ -2210,7 +2350,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://eonhwa.co.kr/",
     "lat": 37.5202218,
-    "lng": 127.0201815
+    "lng": 127.0201815,
+    "geoApprox": false
   },
   {
     "id": 142,
@@ -2225,7 +2366,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5584193,
-    "lng": 127.0754112
+    "lng": 127.0754112,
+    "geoApprox": false
   },
   {
     "id": 143,
@@ -2240,7 +2382,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5774285,
-    "lng": 126.813028
+    "lng": 126.813028,
+    "geoApprox": false
   },
   {
     "id": 144,
@@ -2256,7 +2399,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://mokdong.spworks.co.kr/SUA1/main.asp",
     "lat": 37.525211,
-    "lng": 126.875367
+    "lng": 126.875367,
+    "geoApprox": false
   },
   {
     "id": 145,
@@ -2271,7 +2415,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.64828,
-    "lng": 127.04032
+    "lng": 127.04032,
+    "geoApprox": true
   },
   {
     "id": 146,
@@ -2286,7 +2431,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5324073,
-    "lng": 126.8683621
+    "lng": 126.8683621,
+    "geoApprox": false
   },
   {
     "id": 147,
@@ -2303,7 +2449,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.omni.or.kr/",
     "lat": 37.56424,
-    "lng": 127.02296
+    "lng": 127.02296,
+    "geoApprox": true
   },
   {
     "id": 148,
@@ -2318,7 +2465,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://national.goodedu.net/",
     "lat": 37.50912,
-    "lng": 126.88638
+    "lng": 126.88638,
+    "geoApprox": true
   },
   {
     "id": 149,
@@ -2333,7 +2481,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.wowpass.com/",
     "lat": 37.485473,
-    "lng": 126.898223
+    "lng": 126.898223,
+    "geoApprox": false
   },
   {
     "id": 150,
@@ -2348,7 +2497,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.songpa.go.kr/learn/youth/program/lecture_list.do?searchKind4=9997",
     "lat": 37.50974,
-    "lng": 127.10556
+    "lng": 127.10556,
+    "geoApprox": true
   },
   {
     "id": 151,
@@ -2363,7 +2513,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.51364,
-    "lng": 126.85416
+    "lng": 126.85416,
+    "geoApprox": true
   },
   {
     "id": 152,
@@ -2378,7 +2529,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.daum.net/Yulbang",
     "lat": 37.5637,
-    "lng": 126.9943
+    "lng": 126.9943,
+    "geoApprox": true
   },
   {
     "id": 153,
@@ -2393,7 +2545,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://db.eduwill.net/sites/home",
     "lat": 37.512953,
-    "lng": 126.9289275
+    "lng": 126.9289275,
+    "geoApprox": false
   },
   {
     "id": 154,
@@ -2408,7 +2561,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hrdit.greenart.co.kr/",
     "lat": 37.5001716,
-    "lng": 127.0290709
+    "lng": 127.0290709,
+    "geoApprox": false
   },
   {
     "id": 155,
@@ -2423,7 +2577,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.epilates.co.kr",
     "lat": 37.52262,
-    "lng": 127.11848
+    "lng": 127.11848,
+    "geoApprox": true
   },
   {
     "id": 156,
@@ -2438,7 +2593,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dbad.co.kr",
     "lat": 37.52136,
-    "lng": 126.91184
+    "lng": 126.91184,
+    "geoApprox": true
   },
   {
     "id": 157,
@@ -2455,7 +2611,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ra-edu.net/main/login.jsp",
     "lat": 37.478169,
-    "lng": 126.8816
+    "lng": 126.8816,
+    "geoApprox": false
   },
   {
     "id": 158,
@@ -2470,7 +2627,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52528,
-    "lng": 126.89212
+    "lng": 126.89212,
+    "geoApprox": true
   },
   {
     "id": 159,
@@ -2486,7 +2644,8 @@ window.VOUCHERS = [
     ],
     "homepage": "ylabac.kr",
     "lat": 37.57078,
-    "lng": 126.91822
+    "lng": 126.91822,
+    "geoApprox": true
   },
   {
     "id": 160,
@@ -2501,7 +2660,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.pqi.kr",
     "lat": 37.55164,
-    "lng": 127.02806
+    "lng": 127.02806,
+    "geoApprox": true
   },
   {
     "id": 161,
@@ -2516,7 +2676,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://pass.sdulife.com/",
     "lat": 37.5430664,
-    "lng": 126.9476356
+    "lng": 126.9476356,
+    "geoApprox": false
   },
   {
     "id": 162,
@@ -2531,7 +2692,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://naver.me/GNWkA78p",
     "lat": 37.5085058,
-    "lng": 127.022124
+    "lng": 127.022124,
+    "geoApprox": false
   },
   {
     "id": 163,
@@ -2546,7 +2708,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.45522,
-    "lng": 126.88938
+    "lng": 126.88938,
+    "geoApprox": true
   },
   {
     "id": 164,
@@ -2561,7 +2724,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangbuk.allthat-beauty.com/",
     "lat": 37.5589867,
-    "lng": 126.9451787
+    "lng": 126.9451787,
+    "geoApprox": false
   },
   {
     "id": 165,
@@ -2579,7 +2743,8 @@ window.VOUCHERS = [
     ],
     "homepage": "gnsedu.kr",
     "lat": 37.5172,
-    "lng": 127.0473
+    "lng": 127.0473,
+    "geoApprox": true
   },
   {
     "id": 166,
@@ -2594,7 +2759,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://artafterwork.kr/",
     "lat": 37.4760943,
-    "lng": 126.9646188
+    "lng": 126.9646188,
+    "geoApprox": false
   },
   {
     "id": 167,
@@ -2609,7 +2775,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4863758,
-    "lng": 127.1238237
+    "lng": 127.1238237,
+    "geoApprox": false
   },
   {
     "id": 168,
@@ -2624,7 +2791,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.531107,
-    "lng": 126.8466977
+    "lng": 126.8466977,
+    "geoApprox": false
   },
   {
     "id": 169,
@@ -2639,7 +2807,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/pilatesfindme",
     "lat": 37.5075,
-    "lng": 127.0974
+    "lng": 127.0974,
+    "geoApprox": true
   },
   {
     "id": 170,
@@ -2655,7 +2824,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gasong.kr",
     "lat": 37.66652,
-    "lng": 127.06768
+    "lng": 127.06768,
+    "geoApprox": true
   },
   {
     "id": 171,
@@ -2674,7 +2844,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kwoman.or.kr/",
     "lat": 37.4796647,
-    "lng": 126.944935
+    "lng": 126.944935,
+    "geoApprox": false
   },
   {
     "id": 172,
@@ -2689,7 +2860,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kvd.co.kr",
     "lat": 37.5509016,
-    "lng": 126.9718472
+    "lng": 126.9718472,
+    "geoApprox": false
   },
   {
     "id": 173,
@@ -2704,7 +2876,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kn.pulip.kr",
     "lat": 37.5057809,
-    "lng": 127.0281405
+    "lng": 127.0281405,
+    "geoApprox": false
   },
   {
     "id": 174,
@@ -2719,7 +2892,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5207616,
-    "lng": 126.9291366
+    "lng": 126.9291366,
+    "geoApprox": false
   },
   {
     "id": 175,
@@ -2734,7 +2908,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.jr-hscook.com/main/index.do",
     "lat": 37.58694,
-    "lng": 126.99396
+    "lng": 126.99396,
+    "geoApprox": true
   },
   {
     "id": 176,
@@ -2749,7 +2924,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.aedu.kr",
     "lat": 37.4860257,
-    "lng": 127.0210543
+    "lng": 127.0210543,
+    "geoApprox": false
   },
   {
     "id": 177,
@@ -2765,7 +2941,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://m.www.kpee.kr/",
     "lat": 37.59892,
-    "lng": 127.01738
+    "lng": 127.01738,
+    "geoApprox": true
   },
   {
     "id": 178,
@@ -2781,7 +2958,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.eduinto.com",
     "lat": 37.51756,
-    "lng": 126.86844
+    "lng": 126.86844,
+    "geoApprox": true
   },
   {
     "id": 179,
@@ -2796,7 +2974,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6386648,
-    "lng": 126.9191072
+    "lng": 126.9191072,
+    "geoApprox": false
   },
   {
     "id": 180,
@@ -2812,7 +2991,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/johnsonher",
     "lat": 37.59066,
-    "lng": 126.93624
+    "lng": 126.93624,
+    "geoApprox": true
   },
   {
     "id": 181,
@@ -2827,7 +3007,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://onyxcoffeeacademy.com/",
     "lat": 37.5628795,
-    "lng": 126.8237679
+    "lng": 126.8237679,
+    "geoApprox": false
   },
   {
     "id": 182,
@@ -2842,7 +3023,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.meforyoupilates.kr/",
     "lat": 37.5554128,
-    "lng": 126.854619
+    "lng": 126.854619,
+    "geoApprox": false
   },
   {
     "id": 183,
@@ -2857,7 +3039,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://planbacademy.co.kr",
     "lat": 37.50498,
-    "lng": 127.10522
+    "lng": 127.10522,
+    "geoApprox": true
   },
   {
     "id": 184,
@@ -2872,7 +3055,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gu-hscook.com/main/index.do",
     "lat": 37.4838866,
-    "lng": 126.9028166
+    "lng": 126.9028166,
+    "geoApprox": false
   },
   {
     "id": 185,
@@ -2887,7 +3071,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://realclass.co.kr/",
     "lat": 37.52308,
-    "lng": 127.05172
+    "lng": 127.05172,
+    "geoApprox": true
   },
   {
     "id": 186,
@@ -2902,7 +3087,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.snwc.or.kr/",
     "lat": 37.6050242,
-    "lng": 127.0911473
+    "lng": 127.0911473,
+    "geoApprox": false
   },
   {
     "id": 187,
@@ -2917,7 +3103,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kooj.or.kr",
     "lat": 37.48006,
-    "lng": 127.03614
+    "lng": 127.03614,
+    "geoApprox": true
   },
   {
     "id": 188,
@@ -2932,7 +3119,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://irumplus.com",
     "lat": 37.65616,
-    "lng": 127.061515
+    "lng": 127.061515,
+    "geoApprox": false
   },
   {
     "id": 189,
@@ -2947,7 +3135,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.5835956,
-    "lng": 127.0491439
+    "lng": 127.0491439,
+    "geoApprox": false
   },
   {
     "id": 190,
@@ -2963,7 +3152,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sinjiwonedu.co.kr",
     "lat": 37.5591468,
-    "lng": 126.8609582
+    "lng": 126.8609582,
+    "geoApprox": false
   },
   {
     "id": 191,
@@ -2979,7 +3169,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52458,
-    "lng": 127.10862
+    "lng": 127.10862,
+    "geoApprox": true
   },
   {
     "id": 192,
@@ -2995,7 +3186,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.heorum.com",
     "lat": 37.52444,
-    "lng": 126.90606
+    "lng": 126.90606,
+    "geoApprox": true
   },
   {
     "id": 193,
@@ -3014,7 +3206,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.passdong.com",
     "lat": 37.56994,
-    "lng": 126.89816
+    "lng": 126.89816,
+    "geoApprox": true
   },
   {
     "id": 194,
@@ -3029,7 +3222,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.codeit.kr",
     "lat": 37.5687923,
-    "lng": 126.9788197
+    "lng": 126.9788197,
+    "geoApprox": false
   },
   {
     "id": 195,
@@ -3044,7 +3238,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/wipisuyu01",
     "lat": 37.6349999,
-    "lng": 127.0250094
+    "lng": 127.0250094,
+    "geoApprox": false
   },
   {
     "id": 196,
@@ -3062,7 +3257,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gbeducenter.or.kr",
     "lat": 37.6413564,
-    "lng": 127.0296291
+    "lng": 127.0296291,
+    "geoApprox": false
   },
   {
     "id": 197,
@@ -3077,7 +3273,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ydp.seoulwomanup.or.kr/ydp/main/main.do",
     "lat": 37.53032,
-    "lng": 126.91048
+    "lng": 126.91048,
+    "geoApprox": true
   },
   {
     "id": 198,
@@ -3093,7 +3290,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kofdesign.co.kr",
     "lat": 37.47446,
-    "lng": 127.01574
+    "lng": 127.01574,
+    "geoApprox": true
   },
   {
     "id": 199,
@@ -3110,7 +3308,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.zoominedu.com",
     "lat": 37.6055477,
-    "lng": 126.9129237
+    "lng": 126.9129237,
+    "geoApprox": false
   },
   {
     "id": 200,
@@ -3125,7 +3324,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5418176,
-    "lng": 126.8689667
+    "lng": 126.8689667,
+    "geoApprox": false
   },
   {
     "id": 201,
@@ -3140,7 +3340,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5955577,
-    "lng": 127.062643
+    "lng": 127.062643,
+    "geoApprox": false
   },
   {
     "id": 202,
@@ -3156,7 +3357,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4898654,
-    "lng": 127.0411444
+    "lng": 127.0411444,
+    "geoApprox": false
   },
   {
     "id": 203,
@@ -3173,7 +3375,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.cosmoedu.kr/",
     "lat": 37.56426,
-    "lng": 126.96234
+    "lng": 126.96234,
+    "geoApprox": true
   },
   {
     "id": 204,
@@ -3188,7 +3391,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4827691,
-    "lng": 127.127565
+    "lng": 127.127565,
+    "geoApprox": false
   },
   {
     "id": 205,
@@ -3203,7 +3407,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://future.cuk.edu",
     "lat": 37.5858546,
-    "lng": 126.9863015
+    "lng": 126.9863015,
+    "geoApprox": false
   },
   {
     "id": 206,
@@ -3218,7 +3423,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/musicstory_gd",
     "lat": 37.5407348,
-    "lng": 127.1247155
+    "lng": 127.1247155,
+    "geoApprox": false
   },
   {
     "id": 207,
@@ -3234,7 +3440,8 @@ window.VOUCHERS = [
     ],
     "homepage": "sca3280@naver.com",
     "lat": 37.47812,
-    "lng": 126.96758
+    "lng": 126.96758,
+    "geoApprox": true
   },
   {
     "id": 208,
@@ -3249,7 +3456,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.edupsy.me/",
     "lat": 37.65868,
-    "lng": 127.07312
+    "lng": 127.07312,
+    "geoApprox": true
   },
   {
     "id": 209,
@@ -3264,7 +3472,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.saemteo.co.kr",
     "lat": 37.5889578,
-    "lng": 127.0768644
+    "lng": 127.0768644,
+    "geoApprox": false
   },
   {
     "id": 210,
@@ -3279,7 +3488,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6034703,
-    "lng": 127.0371152
+    "lng": 127.0371152,
+    "geoApprox": false
   },
   {
     "id": 211,
@@ -3294,7 +3504,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50834,
-    "lng": 127.11746
+    "lng": 127.11746,
+    "geoApprox": true
   },
   {
     "id": 212,
@@ -3309,7 +3520,8 @@ window.VOUCHERS = [
     ],
     "homepage": "WWW.PILATESEDEN.CO.KR",
     "lat": 37.6576,
-    "lng": 127.0403
+    "lng": 127.0403,
+    "geoApprox": true
   },
   {
     "id": 213,
@@ -3325,7 +3537,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ohmyschool.org/",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 214,
@@ -3340,7 +3553,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://medicalpilatesmama.com/",
     "lat": 37.5490308,
-    "lng": 126.939782
+    "lng": 126.939782,
+    "geoApprox": false
   },
   {
     "id": 215,
@@ -3356,7 +3570,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.56566,
-    "lng": 126.98444
+    "lng": 126.98444,
+    "geoApprox": true
   },
   {
     "id": 216,
@@ -3371,7 +3586,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.49686,
-    "lng": 127.02934
+    "lng": 127.02934,
+    "geoApprox": true
   },
   {
     "id": 217,
@@ -3386,7 +3602,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5908,
-    "lng": 127.0048
+    "lng": 127.0048,
+    "geoApprox": true
   },
   {
     "id": 218,
@@ -3401,7 +3618,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.530373,
-    "lng": 126.8471955
+    "lng": 126.8471955,
+    "geoApprox": false
   },
   {
     "id": 219,
@@ -3416,7 +3634,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5041694,
-    "lng": 127.0539168
+    "lng": 127.0539168,
+    "geoApprox": false
   },
   {
     "id": 220,
@@ -3431,7 +3650,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gosischool.or.kr",
     "lat": 37.5144234,
-    "lng": 126.8993143
+    "lng": 126.8993143,
+    "geoApprox": false
   },
   {
     "id": 221,
@@ -3446,7 +3666,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.koredutech.com",
     "lat": 37.52512,
-    "lng": 126.87898
+    "lng": 126.87898,
+    "geoApprox": true
   },
   {
     "id": 222,
@@ -3461,7 +3682,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.masocampus.com",
     "lat": 37.48818,
-    "lng": 127.04872
+    "lng": 127.04872,
+    "geoApprox": true
   },
   {
     "id": 223,
@@ -3476,7 +3698,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/gammidang",
     "lat": 37.60634,
-    "lng": 126.92536
+    "lng": 126.92536,
+    "geoApprox": true
   },
   {
     "id": 224,
@@ -3491,7 +3714,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.starcookcoffee.com/",
     "lat": 37.5546938,
-    "lng": 126.9184753
+    "lng": 126.9184753,
+    "geoApprox": false
   },
   {
     "id": 225,
@@ -3506,7 +3730,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.asea.or.kr/",
     "lat": 37.53996,
-    "lng": 127.00054
+    "lng": 127.00054,
+    "geoApprox": true
   },
   {
     "id": 226,
@@ -3521,7 +3746,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.61026,
-    "lng": 126.93964
+    "lng": 126.93964,
+    "geoApprox": true
   },
   {
     "id": 227,
@@ -3536,7 +3762,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sadangac.com",
     "lat": 37.4806157,
-    "lng": 126.9828845
+    "lng": 126.9828845,
+    "geoApprox": false
   },
   {
     "id": 228,
@@ -3553,7 +3780,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.65448,
-    "lng": 127.04082
+    "lng": 127.04082,
+    "geoApprox": true
   },
   {
     "id": 229,
@@ -3568,7 +3796,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://art-ate.com",
     "lat": 37.5025076,
-    "lng": 127.0268166
+    "lng": 127.0268166,
+    "geoApprox": false
   },
   {
     "id": 230,
@@ -3583,7 +3812,8 @@ window.VOUCHERS = [
     ],
     "homepage": "visionedu.step.or.kr",
     "lat": 37.59066,
-    "lng": 126.93624
+    "lng": 126.93624,
+    "geoApprox": true
   },
   {
     "id": 231,
@@ -3599,7 +3829,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.eduwillit.net/",
     "lat": 37.4834146,
-    "lng": 126.8997463
+    "lng": 126.8997463,
+    "geoApprox": false
   },
   {
     "id": 232,
@@ -3616,7 +3847,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cec.swu.ac.kr/fro_end/html/main/#none",
     "lat": 37.625317,
-    "lng": 127.088135
+    "lng": 127.088135,
+    "geoApprox": false
   },
   {
     "id": 233,
@@ -3631,7 +3863,8 @@ window.VOUCHERS = [
     ],
     "homepage": "jeiledu.kr/admin",
     "lat": 37.4933488,
-    "lng": 126.8981096
+    "lng": 126.8981096,
+    "geoApprox": false
   },
   {
     "id": 234,
@@ -3646,7 +3879,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53088,
-    "lng": 126.91252
+    "lng": 126.91252,
+    "geoApprox": true
   },
   {
     "id": 235,
@@ -3661,7 +3895,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cyber.shu.ac.kr/",
     "lat": 37.5874891,
-    "lng": 127.0644952
+    "lng": 127.0644952,
+    "geoApprox": false
   },
   {
     "id": 236,
@@ -3676,7 +3911,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5027268,
-    "lng": 127.0983432
+    "lng": 127.0983432,
+    "geoApprox": false
   },
   {
     "id": 237,
@@ -3691,7 +3927,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5041694,
-    "lng": 127.0539168
+    "lng": 127.0539168,
+    "geoApprox": false
   },
   {
     "id": 238,
@@ -3707,7 +3944,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://life.gangnam.go.kr/fmcs/52?center=GNCC25&event=&class=&subject=",
     "lat": 37.5190819,
-    "lng": 127.0464402
+    "lng": 127.0464402,
+    "geoApprox": false
   },
   {
     "id": 239,
@@ -3722,7 +3960,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hubedu.net",
     "lat": 37.5571085,
-    "lng": 126.8641934
+    "lng": 126.8641934,
+    "geoApprox": false
   },
   {
     "id": 240,
@@ -3739,7 +3978,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dongbang.ac.kr",
     "lat": 37.58464,
-    "lng": 127.01636
+    "lng": 127.01636,
+    "geoApprox": true
   },
   {
     "id": 241,
@@ -3754,7 +3994,8 @@ window.VOUCHERS = [
     ],
     "homepage": "musiclifebalance.com",
     "lat": 37.4995164,
-    "lng": 127.0281416
+    "lng": 127.0281416,
+    "geoApprox": false
   },
   {
     "id": 242,
@@ -3769,7 +4010,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dongjaktv.net",
     "lat": 37.50988,
-    "lng": 126.94712
+    "lng": 126.94712,
+    "geoApprox": true
   },
   {
     "id": 243,
@@ -3785,7 +4027,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.happytime.or.kr",
     "lat": 37.5054,
-    "lng": 126.9308
+    "lng": 126.9308,
+    "geoApprox": true
   },
   {
     "id": 244,
@@ -3800,7 +4043,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.60938,
-    "lng": 127.08692
+    "lng": 127.08692,
+    "geoApprox": true
   },
   {
     "id": 245,
@@ -3815,7 +4059,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.yudsenior.or.kr",
     "lat": 37.5181341,
-    "lng": 126.9307294
+    "lng": 126.9307294,
+    "geoApprox": false
   },
   {
     "id": 246,
@@ -3830,7 +4075,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.49294,
-    "lng": 127.04906
+    "lng": 127.04906,
+    "geoApprox": true
   },
   {
     "id": 247,
@@ -3845,7 +4091,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4831156,
-    "lng": 127.0603577
+    "lng": 127.0603577,
+    "geoApprox": false
   },
   {
     "id": 248,
@@ -3860,7 +4107,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51694,
-    "lng": 127.12676
+    "lng": 127.12676,
+    "geoApprox": true
   },
   {
     "id": 249,
@@ -3876,7 +4124,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5130312,
-    "lng": 126.9369921
+    "lng": 126.9369921,
+    "geoApprox": false
   },
   {
     "id": 250,
@@ -3891,7 +4140,8 @@ window.VOUCHERS = [
     ],
     "homepage": "gbbaking.kr",
     "lat": 37.6452,
-    "lng": 127.0121
+    "lng": 127.0121,
+    "geoApprox": true
   },
   {
     "id": 251,
@@ -3909,7 +4159,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.withcem.com",
     "lat": 37.51464,
-    "lng": 126.88736
+    "lng": 126.88736,
+    "geoApprox": true
   },
   {
     "id": 252,
@@ -3925,7 +4176,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5622067,
-    "lng": 127.0345097
+    "lng": 127.0345097,
+    "geoApprox": false
   },
   {
     "id": 253,
@@ -3941,7 +4193,8 @@ window.VOUCHERS = [
     ],
     "homepage": "dangtalk.co.kr",
     "lat": 37.5156693,
-    "lng": 127.0177235
+    "lng": 127.0177235,
+    "geoApprox": false
   },
   {
     "id": 254,
@@ -3956,7 +4209,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.christianchauveaus.co.kr/",
     "lat": 37.64412,
-    "lng": 127.05408
+    "lng": 127.05408,
+    "geoApprox": true
   },
   {
     "id": 255,
@@ -3971,7 +4225,8 @@ window.VOUCHERS = [
     ],
     "homepage": "fisc.or.kr",
     "lat": 37.4583,
-    "lng": 126.8836
+    "lng": 126.8836,
+    "geoApprox": true
   },
   {
     "id": 256,
@@ -3986,7 +4241,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://blog.naver.com/ssyoga",
     "lat": 37.5076474,
-    "lng": 126.9647337
+    "lng": 126.9647337,
+    "geoApprox": false
   },
   {
     "id": 257,
@@ -4002,7 +4258,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://markazarabic.com/",
     "lat": 37.58666,
-    "lng": 126.97594
+    "lng": 126.97594,
+    "geoApprox": true
   },
   {
     "id": 258,
@@ -4023,7 +4280,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gncity.or.kr/",
     "lat": 37.50432,
-    "lng": 127.03438
+    "lng": 127.03438,
+    "geoApprox": true
   },
   {
     "id": 259,
@@ -4038,7 +4296,8 @@ window.VOUCHERS = [
     ],
     "homepage": "etesys.co.kr",
     "lat": 37.48874,
-    "lng": 127.01676
+    "lng": 127.01676,
+    "geoApprox": true
   },
   {
     "id": 260,
@@ -4054,7 +4313,8 @@ window.VOUCHERS = [
     ],
     "homepage": "sasada.ac.kr",
     "lat": 37.50544,
-    "lng": 127.03846
+    "lng": 127.03846,
+    "geoApprox": true
   },
   {
     "id": 261,
@@ -4069,7 +4329,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.hoonscoffee.com",
     "lat": 37.4669097,
-    "lng": 126.8884175
+    "lng": 126.8884175,
+    "geoApprox": false
   },
   {
     "id": 262,
@@ -4084,7 +4345,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/evepilates_sagajeong",
     "lat": 37.5808088,
-    "lng": 127.0892491
+    "lng": 127.0892491,
+    "geoApprox": false
   },
   {
     "id": 263,
@@ -4099,7 +4361,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5551,
-    "lng": 126.8951
+    "lng": 126.8951,
+    "geoApprox": true
   },
   {
     "id": 264,
@@ -4114,7 +4377,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ycsupport.or.kr/",
     "lat": 37.51028,
-    "lng": 126.87592
+    "lng": 126.87592,
+    "geoApprox": true
   },
   {
     "id": 265,
@@ -4129,7 +4393,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hrledu.com/",
     "lat": 37.4811281,
-    "lng": 127.1268879
+    "lng": 127.1268879,
+    "geoApprox": false
   },
   {
     "id": 266,
@@ -4144,7 +4409,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kstudy.co.kr",
     "lat": 37.5749,
-    "lng": 126.9671
+    "lng": 126.9671,
+    "geoApprox": true
   },
   {
     "id": 267,
@@ -4160,7 +4426,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://onedu.me.kr",
     "lat": 37.5275232,
-    "lng": 126.9195415
+    "lng": 126.9195415,
+    "geoApprox": false
   },
   {
     "id": 268,
@@ -4175,7 +4442,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5866,
-    "lng": 127.0065
+    "lng": 127.0065,
+    "geoApprox": true
   },
   {
     "id": 269,
@@ -4190,7 +4458,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.speech365.kr",
     "lat": 37.56902,
-    "lng": 126.96268
+    "lng": 126.96268,
+    "geoApprox": true
   },
   {
     "id": 270,
@@ -4205,7 +4474,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.gcacts.org/2016/",
     "lat": 37.44626,
-    "lng": 126.89074
+    "lng": 126.89074,
+    "geoApprox": true
   },
   {
     "id": 271,
@@ -4220,7 +4490,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.yanadoo.co.kr/mall/lllcard/list",
     "lat": 37.4914623,
-    "lng": 127.0291227
+    "lng": 127.0291227,
+    "geoApprox": false
   },
   {
     "id": 272,
@@ -4236,7 +4507,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://taeilwoodwork.page24.app/",
     "lat": 37.53038,
-    "lng": 127.06972
+    "lng": 127.06972,
+    "geoApprox": true
   },
   {
     "id": 273,
@@ -4253,7 +4525,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.56202,
-    "lng": 126.98818
+    "lng": 126.98818,
+    "geoApprox": true
   },
   {
     "id": 274,
@@ -4268,7 +4541,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.piareno.com",
     "lat": 37.54782,
-    "lng": 126.85528
+    "lng": 126.85528,
+    "geoApprox": true
   },
   {
     "id": 275,
@@ -4284,7 +4558,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gurowoman.com",
     "lat": 37.5019028,
-    "lng": 126.8888231
+    "lng": 126.8888231,
+    "geoApprox": false
   },
   {
     "id": 276,
@@ -4299,7 +4574,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/sugarrb",
     "lat": 37.562,
-    "lng": 127.0488
+    "lng": 127.0488,
+    "geoApprox": true
   },
   {
     "id": 277,
@@ -4314,7 +4590,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.kd-hanc.co.kr/",
     "lat": 37.53066,
-    "lng": 127.12574
+    "lng": 127.12574,
+    "geoApprox": true
   },
   {
     "id": 278,
@@ -4329,7 +4606,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dsvocal-mo.imweb.me/index",
     "lat": 37.49868,
-    "lng": 126.94032
+    "lng": 126.94032,
+    "geoApprox": true
   },
   {
     "id": 279,
@@ -4344,7 +4622,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://phone.ybmclass.com/",
     "lat": 37.57546,
-    "lng": 126.96914
+    "lng": 126.96914,
+    "geoApprox": true
   },
   {
     "id": 280,
@@ -4359,7 +4638,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.sgnc.or.kr",
     "lat": 37.51272,
-    "lng": 127.03098
+    "lng": 127.03098,
+    "geoApprox": true
   },
   {
     "id": 281,
@@ -4374,7 +4654,8 @@ window.VOUCHERS = [
     ],
     "homepage": "imdacademy.kr",
     "lat": 37.65728,
-    "lng": 127.05102
+    "lng": 127.05102,
+    "geoApprox": true
   },
   {
     "id": 282,
@@ -4389,7 +4670,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ayna.yoga",
     "lat": 37.5282967,
-    "lng": 126.8985486
+    "lng": 126.8985486,
+    "geoApprox": false
   },
   {
     "id": 283,
@@ -4407,7 +4689,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.smwelfare.or.kr",
     "lat": 37.52084,
-    "lng": 127.04356
+    "lng": 127.04356,
+    "geoApprox": true
   },
   {
     "id": 284,
@@ -4422,7 +4705,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.daesungcom.co.kr",
     "lat": 37.5820199,
-    "lng": 127.0471489
+    "lng": 127.0471489,
+    "geoApprox": false
   },
   {
     "id": 285,
@@ -4437,7 +4721,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5196804,
-    "lng": 126.9042942
+    "lng": 126.9042942,
+    "geoApprox": false
   },
   {
     "id": 286,
@@ -4452,7 +4737,8 @@ window.VOUCHERS = [
     ],
     "homepage": "lhttp://linea.modoo.at/",
     "lat": 37.57642,
-    "lng": 127.00878
+    "lng": 127.00878,
+    "geoApprox": true
   },
   {
     "id": 287,
@@ -4467,7 +4753,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodymulti",
     "lat": 37.61442,
-    "lng": 127.10528
+    "lng": 127.10528,
+    "geoApprox": true
   },
   {
     "id": 288,
@@ -4482,7 +4769,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/tastypiano_gpb",
     "lat": 37.6348796,
-    "lng": 126.9195408
+    "lng": 126.9195408,
+    "geoApprox": false
   },
   {
     "id": 289,
@@ -4498,7 +4786,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hyundai.ac.kr/html/index/index.php",
     "lat": 37.51688,
-    "lng": 126.89552
+    "lng": 126.89552,
+    "geoApprox": true
   },
   {
     "id": 290,
@@ -4513,7 +4802,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4999035,
-    "lng": 126.9289219
+    "lng": 126.9289219,
+    "geoApprox": false
   },
   {
     "id": 291,
@@ -4528,7 +4818,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.eduirbd.com",
     "lat": 37.55174,
-    "lng": 126.83556
+    "lng": 126.83556,
+    "geoApprox": true
   },
   {
     "id": 292,
@@ -4543,7 +4834,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://map.naver.com/p/entry/place/1311363280",
     "lat": 37.5416731,
-    "lng": 126.8394566
+    "lng": 126.8394566,
+    "geoApprox": false
   },
   {
     "id": 293,
@@ -4558,7 +4850,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/antacademy1",
     "lat": 37.55444,
-    "lng": 127.03826
+    "lng": 127.03826,
+    "geoApprox": true
   },
   {
     "id": 294,
@@ -4573,7 +4866,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.mster.co.kr/",
     "lat": 37.5008504,
-    "lng": 127.0356936
+    "lng": 127.0356936,
+    "geoApprox": false
   },
   {
     "id": 295,
@@ -4589,7 +4883,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5371972,
-    "lng": 126.8817297
+    "lng": 126.8817297,
+    "geoApprox": false
   },
   {
     "id": 296,
@@ -4604,7 +4899,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5054229,
-    "lng": 127.0864613
+    "lng": 127.0864613,
+    "geoApprox": false
   },
   {
     "id": 297,
@@ -4619,7 +4915,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dcgplatform.com/",
     "lat": 37.5812398,
-    "lng": 127.0040209
+    "lng": 127.0040209,
+    "geoApprox": false
   },
   {
     "id": 298,
@@ -4634,7 +4931,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53598,
-    "lng": 127.09012
+    "lng": 127.09012,
+    "geoApprox": true
   },
   {
     "id": 299,
@@ -4649,7 +4947,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kusssound.com",
     "lat": 37.55342,
-    "lng": 126.88898
+    "lng": 126.88898,
+    "geoApprox": true
   },
   {
     "id": 300,
@@ -4664,7 +4963,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.56572,
-    "lng": 127.02498
+    "lng": 127.02498,
+    "geoApprox": true
   },
   {
     "id": 301,
@@ -4680,7 +4980,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/ilove_cook",
     "lat": 37.5194,
-    "lng": 126.8877
+    "lng": 126.8877,
+    "geoApprox": true
   },
   {
     "id": 302,
@@ -4695,7 +4996,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hd.theartacademy.co.kr/",
     "lat": 37.57386,
-    "lng": 126.91244
+    "lng": 126.91244,
+    "geoApprox": true
   },
   {
     "id": 303,
@@ -4710,7 +5012,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5259,
-    "lng": 127.1254
+    "lng": 127.1254,
+    "geoApprox": true
   },
   {
     "id": 304,
@@ -4725,7 +5028,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://m.blog.naver.com/pilates8282?proxyReferer=https%3A%2F%2Fm.place.naver.com%2Fplace%2F10019005",
     "lat": 37.4846935,
-    "lng": 126.9704327
+    "lng": 126.9704327,
+    "geoApprox": false
   },
   {
     "id": 305,
@@ -4740,7 +5044,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.medicalpilatesmama.com/",
     "lat": 37.5427188,
-    "lng": 126.9467206
+    "lng": 126.9467206,
+    "geoApprox": false
   },
   {
     "id": 306,
@@ -4756,7 +5061,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.101moneylab.co.kr",
     "lat": 37.5676,
-    "lng": 127.0352
+    "lng": 127.0352,
+    "geoApprox": true
   },
   {
     "id": 307,
@@ -4771,7 +5077,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sorizavaacademy.com/",
     "lat": 37.5004566,
-    "lng": 127.0327129
+    "lng": 127.0327129,
+    "geoApprox": false
   },
   {
     "id": 308,
@@ -4787,7 +5094,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://songcamp99.com/",
     "lat": 37.5654904,
-    "lng": 127.0307567
+    "lng": 127.0307567,
+    "geoApprox": false
   },
   {
     "id": 309,
@@ -4802,7 +5110,8 @@ window.VOUCHERS = [
     ],
     "homepage": "solviolin.com",
     "lat": 37.5600919,
-    "lng": 126.8383055
+    "lng": 126.8383055,
+    "geoApprox": false
   },
   {
     "id": 310,
@@ -4822,7 +5131,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.seoultech.ac.kr/",
     "lat": 37.62994,
-    "lng": 127.076553
+    "lng": 127.076553,
+    "geoApprox": false
   },
   {
     "id": 311,
@@ -4837,7 +5147,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.everywill.net",
     "lat": 37.58414,
-    "lng": 126.98376
+    "lng": 126.98376,
+    "geoApprox": true
   },
   {
     "id": 312,
@@ -4852,7 +5163,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.jr.pulip.kr",
     "lat": 37.56874,
-    "lng": 126.97866
+    "lng": 126.97866,
+    "geoApprox": true
   },
   {
     "id": 313,
@@ -4867,7 +5179,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.aucsub.co.kr",
     "lat": 37.492893,
-    "lng": 127.013256
+    "lng": 127.013256,
+    "geoApprox": false
   },
   {
     "id": 314,
@@ -4886,7 +5199,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://itimesedu.com/lllcard",
     "lat": 37.48706,
-    "lng": 127.04464
+    "lng": 127.04464,
+    "geoApprox": true
   },
   {
     "id": 315,
@@ -4907,7 +5221,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
     "lat": 37.471989,
-    "lng": 126.958427
+    "lng": 126.958427,
+    "geoApprox": false
   },
   {
     "id": 316,
@@ -4922,7 +5237,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/qkrdpwls123",
     "lat": 37.52164,
-    "lng": 126.95596
+    "lng": 126.95596,
+    "geoApprox": true
   },
   {
     "id": 317,
@@ -4937,7 +5253,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53996,
-    "lng": 127.00054
+    "lng": 127.00054,
+    "geoApprox": true
   },
   {
     "id": 318,
@@ -4952,7 +5269,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/jwpila0101",
     "lat": 37.5670627,
-    "lng": 126.8186193
+    "lng": 126.8186193,
+    "geoApprox": false
   },
   {
     "id": 319,
@@ -4968,7 +5286,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.seanjoykorea.com",
     "lat": 37.5058,
-    "lng": 126.8596
+    "lng": 126.8596,
+    "geoApprox": true
   },
   {
     "id": 320,
@@ -4983,7 +5302,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nowon.koreaisacademy.com/",
     "lat": 37.658772,
-    "lng": 127.0620906
+    "lng": 127.0620906,
+    "geoApprox": false
   },
   {
     "id": 321,
@@ -4998,7 +5318,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53774,
-    "lng": 126.85256
+    "lng": 126.85256,
+    "geoApprox": true
   },
   {
     "id": 322,
@@ -5013,7 +5334,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52248,
-    "lng": 126.88192
+    "lng": 126.88192,
+    "geoApprox": true
   },
   {
     "id": 323,
@@ -5029,7 +5351,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://prime.knou.ac.kr/prime/index.do?epTicket=LOG",
     "lat": 37.5786076,
-    "lng": 127.0034506
+    "lng": 127.0034506,
+    "geoApprox": false
   },
   {
     "id": 324,
@@ -5044,7 +5367,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://culture.lottemart.com",
     "lat": 37.6467953,
-    "lng": 127.070944
+    "lng": 127.070944,
+    "geoApprox": false
   },
   {
     "id": 325,
@@ -5060,7 +5384,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5334,
-    "lng": 126.9047
+    "lng": 126.9047,
+    "geoApprox": true
   },
   {
     "id": 326,
@@ -5075,7 +5400,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50974,
-    "lng": 127.10556
+    "lng": 127.10556,
+    "geoApprox": true
   },
   {
     "id": 327,
@@ -5091,7 +5417,8 @@ window.VOUCHERS = [
     ],
     "homepage": "sts@sts.ac.kr",
     "lat": 37.491,
-    "lng": 126.9465
+    "lng": 126.9465,
+    "geoApprox": true
   },
   {
     "id": 328,
@@ -5106,7 +5433,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yeogicyber.co.kr",
     "lat": 37.5138124,
-    "lng": 126.9267409
+    "lng": 126.9267409,
+    "geoApprox": false
   },
   {
     "id": 329,
@@ -5121,7 +5449,8 @@ window.VOUCHERS = [
     ],
     "homepage": "talk.hackers.com",
     "lat": 37.4921,
-    "lng": 127.029
+    "lng": 127.029,
+    "geoApprox": true
   },
   {
     "id": 330,
@@ -5136,7 +5465,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/gsound_music_academy",
     "lat": 37.59808,
-    "lng": 127.03132
+    "lng": 127.03132,
+    "geoApprox": true
   },
   {
     "id": 331,
@@ -5151,7 +5481,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://m.place.naver.com/place/1105710146/home?entry=pll",
     "lat": 37.6560525,
-    "lng": 127.0611615
+    "lng": 127.0611615,
+    "geoApprox": false
   },
   {
     "id": 332,
@@ -5166,7 +5497,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5980185,
-    "lng": 127.0105689
+    "lng": 127.0105689,
+    "geoApprox": false
   },
   {
     "id": 333,
@@ -5181,7 +5513,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jyacademy.kr/",
     "lat": 37.56034,
-    "lng": 126.98206
+    "lng": 126.98206,
+    "geoApprox": true
   },
   {
     "id": 334,
@@ -5196,7 +5529,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sdulife.com/",
     "lat": 37.5430664,
-    "lng": 126.9476356
+    "lng": 126.9476356,
+    "geoApprox": false
   },
   {
     "id": 335,
@@ -5211,7 +5545,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodymulti",
     "lat": 37.60032,
-    "lng": 127.00548
+    "lng": 127.00548,
+    "geoApprox": true
   },
   {
     "id": 336,
@@ -5226,7 +5561,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yeolin.net",
     "lat": 37.5558259,
-    "lng": 127.083633
+    "lng": 127.083633,
+    "geoApprox": false
   },
   {
     "id": 337,
@@ -5241,7 +5577,8 @@ window.VOUCHERS = [
     ],
     "homepage": "iubion.com",
     "lat": 37.50772,
-    "lng": 126.89828
+    "lng": 126.89828,
+    "geoApprox": true
   },
   {
     "id": 338,
@@ -5256,7 +5593,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ikss.kr",
     "lat": 37.50596,
-    "lng": 126.93284
+    "lng": 126.93284,
+    "geoApprox": true
   },
   {
     "id": 339,
@@ -5271,7 +5609,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51604,
-    "lng": 126.93556
+    "lng": 126.93556,
+    "geoApprox": true
   },
   {
     "id": 340,
@@ -5286,7 +5625,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ekcls.kr",
     "lat": 37.4723409,
-    "lng": 126.8842248
+    "lng": 126.8842248,
+    "geoApprox": false
   },
   {
     "id": 341,
@@ -5302,7 +5642,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://realdealclass.com/",
     "lat": 37.5302466,
-    "lng": 126.9684193
+    "lng": 126.9684193,
+    "geoApprox": false
   },
   {
     "id": 342,
@@ -5317,7 +5658,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5719,
-    "lng": 126.8883
+    "lng": 126.8883,
+    "geoApprox": true
   },
   {
     "id": 343,
@@ -5332,7 +5674,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://academy.douzoneedu.co.kr/",
     "lat": 37.4947574,
-    "lng": 127.0300788
+    "lng": 127.0300788,
+    "geoApprox": false
   },
   {
     "id": 344,
@@ -5347,7 +5690,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5052352,
-    "lng": 127.022144
+    "lng": 127.022144,
+    "geoApprox": false
   },
   {
     "id": 345,
@@ -5363,7 +5707,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://dobongedu.or.kr/",
     "lat": 37.673,
-    "lng": 127.0454
+    "lng": 127.0454,
+    "geoApprox": true
   },
   {
     "id": 346,
@@ -5378,7 +5723,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://wf.hunet.co.kr",
     "lat": 37.50352,
-    "lng": 126.89998
+    "lng": 126.89998,
+    "geoApprox": true
   },
   {
     "id": 347,
@@ -5394,7 +5740,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kamsungedu.com",
     "lat": 37.5178577,
-    "lng": 127.0175976
+    "lng": 127.0175976,
+    "geoApprox": false
   },
   {
     "id": 348,
@@ -5415,7 +5762,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://songpa-edu.co.kr/",
     "lat": 37.50834,
-    "lng": 127.11746
+    "lng": 127.11746,
+    "geoApprox": true
   },
   {
     "id": 349,
@@ -5432,7 +5780,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://culture.lottemart.com",
     "lat": 37.5260675,
-    "lng": 126.8915759
+    "lng": 126.8915759,
+    "geoApprox": false
   },
   {
     "id": 350,
@@ -5448,7 +5797,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://mtmtong.com",
     "lat": 37.477221,
-    "lng": 126.8810631
+    "lng": 126.8810631,
+    "geoApprox": false
   },
   {
     "id": 351,
@@ -5464,7 +5814,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.pagodastar.com/",
     "lat": 37.499765,
-    "lng": 127.0261518
+    "lng": 127.0261518,
+    "geoApprox": false
   },
   {
     "id": 352,
@@ -5479,7 +5830,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hrdedu.edumong.com/",
     "lat": 37.4876138,
-    "lng": 127.0225207
+    "lng": 127.0225207,
+    "geoApprox": false
   },
   {
     "id": 353,
@@ -5494,7 +5846,8 @@ window.VOUCHERS = [
     ],
     "homepage": "easytop.kr",
     "lat": 37.6507425,
-    "lng": 127.0619309
+    "lng": 127.0619309,
+    "geoApprox": false
   },
   {
     "id": 354,
@@ -5511,7 +5864,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sub.ac.kr/",
     "lat": 37.4663903,
-    "lng": 126.9022871
+    "lng": 126.9022871,
+    "geoApprox": false
   },
   {
     "id": 355,
@@ -5526,7 +5880,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lms.darakwon.co.kr/lllcard/",
     "lat": 37.57778,
-    "lng": 126.89272
+    "lng": 126.89272,
+    "geoApprox": true
   },
   {
     "id": 356,
@@ -5541,7 +5896,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://macbroacademy.co.kr/",
     "lat": 37.5378368,
-    "lng": 126.8946492
+    "lng": 126.8946492,
+    "geoApprox": false
   },
   {
     "id": 357,
@@ -5557,7 +5913,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://wcomputerart.com/",
     "lat": 37.58554,
-    "lng": 126.97186
+    "lng": 126.97186,
+    "geoApprox": true
   },
   {
     "id": 358,
@@ -5573,7 +5930,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://seongbukedu.or.kr/main/index.php",
     "lat": 37.58436,
-    "lng": 127.03234
+    "lng": 127.03234,
+    "geoApprox": true
   },
   {
     "id": 359,
@@ -5588,7 +5946,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nowon.greenart.co.kr",
     "lat": 37.65336,
-    "lng": 127.07074
+    "lng": 127.07074,
+    "geoApprox": true
   },
   {
     "id": 360,
@@ -5603,7 +5962,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ucanspeak.co.kr",
     "lat": 37.50376,
-    "lng": 127.03234
+    "lng": 127.03234,
+    "geoApprox": true
   },
   {
     "id": 361,
@@ -5618,7 +5978,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.cyberjrc.com",
     "lat": 37.47614,
-    "lng": 127.02186
+    "lng": 127.02186,
+    "geoApprox": true
   },
   {
     "id": 362,
@@ -5633,7 +5994,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.midilearn.com",
     "lat": 37.57274,
-    "lng": 126.90836
+    "lng": 126.90836,
+    "geoApprox": true
   },
   {
     "id": 363,
@@ -5648,7 +6010,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://vlabpilates.com/",
     "lat": 37.553612,
-    "lng": 127.172035
+    "lng": 127.172035,
+    "geoApprox": false
   },
   {
     "id": 364,
@@ -5665,7 +6028,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.siwonschool.com/",
     "lat": 37.5229322,
-    "lng": 126.9022224
+    "lng": 126.9022224,
+    "geoApprox": false
   },
   {
     "id": 365,
@@ -5680,7 +6044,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.edgepilates.co.kr",
     "lat": 37.653053,
-    "lng": 127.046388
+    "lng": 127.046388,
+    "geoApprox": false
   },
   {
     "id": 366,
@@ -5695,7 +6060,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://passone.kr",
     "lat": 37.4764639,
-    "lng": 126.8873368
+    "lng": 126.8873368,
+    "geoApprox": false
   },
   {
     "id": 367,
@@ -5710,7 +6076,8 @@ window.VOUCHERS = [
     ],
     "homepage": "modulearning.kr",
     "lat": 37.4723409,
-    "lng": 126.8842248
+    "lng": 126.8842248,
+    "geoApprox": false
   },
   {
     "id": 368,
@@ -5725,7 +6092,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.fineok.co.kr",
     "lat": 37.52288,
-    "lng": 126.98932
+    "lng": 126.98932,
+    "geoApprox": true
   },
   {
     "id": 369,
@@ -5741,7 +6109,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.rebom.co.kr",
     "lat": 37.5623665,
-    "lng": 126.9959076
+    "lng": 126.9959076,
+    "geoApprox": false
   },
   {
     "id": 370,
@@ -5756,7 +6125,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/lifepilates7997",
     "lat": 37.5571085,
-    "lng": 126.8641934
+    "lng": 126.8641934,
+    "geoApprox": false
   },
   {
     "id": 371,
@@ -5771,7 +6141,8 @@ window.VOUCHERS = [
     ],
     "homepage": "jpgosi.com",
     "lat": 37.5697586,
-    "lng": 126.9896402
+    "lng": 126.9896402,
+    "geoApprox": false
   },
   {
     "id": 372,
@@ -5786,7 +6157,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.vanvo.co.kr/",
     "lat": 37.46944,
-    "lng": 126.95296
+    "lng": 126.95296,
+    "geoApprox": true
   },
   {
     "id": 373,
@@ -5801,7 +6173,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.550591,
-    "lng": 127.127991
+    "lng": 127.127991,
+    "geoApprox": false
   },
   {
     "id": 374,
@@ -5816,7 +6189,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://codingapple.com",
     "lat": 37.53374,
-    "lng": 127.11996
+    "lng": 127.11996,
+    "geoApprox": true
   },
   {
     "id": 375,
@@ -5834,7 +6208,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edulife.ocu.ac.kr/home/main/main.jsp",
     "lat": 37.5983945,
-    "lng": 127.0918305
+    "lng": 127.0918305,
+    "geoApprox": false
   },
   {
     "id": 376,
@@ -5852,7 +6227,8 @@ window.VOUCHERS = [
     ],
     "homepage": "chedu.itpage.kr",
     "lat": 37.52954,
-    "lng": 127.12166
+    "lng": 127.12166,
+    "geoApprox": true
   },
   {
     "id": 377,
@@ -5873,7 +6249,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
     "lat": 37.44598,
-    "lng": 126.90672
+    "lng": 126.90672,
+    "geoApprox": true
   },
   {
     "id": 378,
@@ -5889,7 +6266,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/dhrbarista",
     "lat": 37.5721,
-    "lng": 126.9909
+    "lng": 126.9909,
+    "geoApprox": true
   },
   {
     "id": 379,
@@ -5904,7 +6282,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ssmdacademy.com/",
     "lat": 37.5509886,
-    "lng": 126.9210678
+    "lng": 126.9210678,
+    "geoApprox": false
   },
   {
     "id": 380,
@@ -5924,7 +6303,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.epedu.or.kr/",
     "lat": 37.6406849,
-    "lng": 126.9376205
+    "lng": 126.9376205,
+    "geoApprox": false
   },
   {
     "id": 381,
@@ -5939,7 +6319,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.558876,
-    "lng": 126.8377781
+    "lng": 126.8377781,
+    "geoApprox": false
   },
   {
     "id": 382,
@@ -5954,7 +6335,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.pagoda21.com",
     "lat": 37.5679737,
-    "lng": 126.9830724
+    "lng": 126.9830724,
+    "geoApprox": false
   },
   {
     "id": 383,
@@ -5969,7 +6351,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.japansisa.com/?utm_source=naver&utm_medium=cpc&utm_campaign=1-1.%EC%8B%9C%EC%82%AC%EC%9D",
     "lat": 37.56566,
-    "lng": 126.98444
+    "lng": 126.98444,
+    "geoApprox": true
   },
   {
     "id": 384,
@@ -5984,7 +6367,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.codingvalley.com/",
     "lat": 37.4952945,
-    "lng": 127.0294347
+    "lng": 127.0294347,
+    "geoApprox": false
   },
   {
     "id": 385,
@@ -5999,7 +6383,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6366779,
-    "lng": 127.0246387
+    "lng": 127.0246387,
+    "geoApprox": false
   },
   {
     "id": 386,
@@ -6014,7 +6399,8 @@ window.VOUCHERS = [
     ],
     "homepage": "soulclass.kr",
     "lat": 37.5362,
-    "lng": 126.8809
+    "lng": 126.8809,
+    "geoApprox": true
   },
   {
     "id": 387,
@@ -6029,7 +6415,8 @@ window.VOUCHERS = [
     ],
     "homepage": "epca.itpage.kr",
     "lat": 37.6106297,
-    "lng": 126.9167458
+    "lng": 126.9167458,
+    "geoApprox": false
   },
   {
     "id": 388,
@@ -6046,7 +6433,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.airklass.com",
     "lat": 37.4753,
-    "lng": 127.0358
+    "lng": 127.0358,
+    "geoApprox": true
   },
   {
     "id": 389,
@@ -6061,7 +6449,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://land.hackers.com",
     "lat": 37.47222,
-    "lng": 127.04158
+    "lng": 127.04158,
+    "geoApprox": true
   },
   {
     "id": 390,
@@ -6079,7 +6468,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://kwonanaschool.com/",
     "lat": 37.48426,
-    "lng": 127.03444
+    "lng": 127.03444,
+    "geoApprox": true
   },
   {
     "id": 391,
@@ -6094,7 +6484,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5345626,
-    "lng": 126.9020067
+    "lng": 126.9020067,
+    "geoApprox": false
   },
   {
     "id": 392,
@@ -6109,7 +6500,8 @@ window.VOUCHERS = [
     ],
     "homepage": "myjob.re.kr",
     "lat": 37.606257,
-    "lng": 127.0271661
+    "lng": 127.0271661,
+    "geoApprox": false
   },
   {
     "id": 393,
@@ -6124,7 +6516,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gangnam.go.kr/office/activeart/main.do",
     "lat": 37.4919828,
-    "lng": 127.0735148
+    "lng": 127.0735148,
+    "geoApprox": false
   },
   {
     "id": 394,
@@ -6139,7 +6532,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.steaeng.com/main",
     "lat": 37.51394,
-    "lng": 127.10386
+    "lng": 127.10386,
+    "geoApprox": true
   },
   {
     "id": 395,
@@ -6154,7 +6548,8 @@ window.VOUCHERS = [
     ],
     "homepage": "m.pagoda21.com",
     "lat": 37.5561551,
-    "lng": 126.9393113
+    "lng": 126.9393113,
+    "geoApprox": false
   },
   {
     "id": 396,
@@ -6169,7 +6564,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6556,
-    "lng": 127.0449
+    "lng": 127.0449,
+    "geoApprox": true
   },
   {
     "id": 397,
@@ -6184,7 +6580,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.japansisa.com/",
     "lat": 37.5588417,
-    "lng": 126.940331
+    "lng": 126.940331,
+    "geoApprox": false
   },
   {
     "id": 398,
@@ -6199,7 +6596,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.48314,
-    "lng": 127.03036
+    "lng": 127.03036,
+    "geoApprox": true
   },
   {
     "id": 399,
@@ -6214,7 +6612,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kfo.ai",
     "lat": 37.55004,
-    "lng": 127.050663
+    "lng": 127.050663,
+    "geoApprox": false
   },
   {
     "id": 400,
@@ -6229,7 +6628,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.inmuunity.com/branch/jongno/",
     "lat": 37.5829517,
-    "lng": 127.0032289
+    "lng": 127.0032289,
+    "geoApprox": false
   },
   {
     "id": 401,
@@ -6244,7 +6644,8 @@ window.VOUCHERS = [
     ],
     "homepage": "newspresso.kr",
     "lat": 37.503382,
-    "lng": 127.0415998
+    "lng": 127.0415998,
+    "geoApprox": false
   },
   {
     "id": 402,
@@ -6259,7 +6660,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://reneepilates.modoo.at/",
     "lat": 37.51722,
-    "lng": 127.11078
+    "lng": 127.11078,
+    "geoApprox": true
   },
   {
     "id": 403,
@@ -6274,7 +6676,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4901047,
-    "lng": 127.1120481
+    "lng": 127.1120481,
+    "geoApprox": false
   },
   {
     "id": 404,
@@ -6290,7 +6693,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.linklaw.co.kr",
     "lat": 37.49154,
-    "lng": 127.02696
+    "lng": 127.02696,
+    "geoApprox": true
   },
   {
     "id": 405,
@@ -6305,7 +6709,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kmedia.site/",
     "lat": 37.482971,
-    "lng": 126.8787536
+    "lng": 126.8787536,
+    "geoApprox": false
   },
   {
     "id": 406,
@@ -6320,7 +6725,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/amusing_music",
     "lat": 37.50092,
-    "lng": 126.94848
+    "lng": 126.94848,
+    "geoApprox": true
   },
   {
     "id": 407,
@@ -6337,7 +6743,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.xn--939ajxn84botr.com/",
     "lat": 37.55062,
-    "lng": 126.86548
+    "lng": 126.86548,
+    "geoApprox": true
   },
   {
     "id": 408,
@@ -6354,7 +6761,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://berea.in/",
     "lat": 37.51856,
-    "lng": 126.90164
+    "lng": 126.90164,
+    "geoApprox": true
   },
   {
     "id": 409,
@@ -6372,7 +6780,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.women.co.kr",
     "lat": 37.49462,
-    "lng": 127.02118
+    "lng": 127.02118,
+    "geoApprox": true
   },
   {
     "id": 410,
@@ -6387,7 +6796,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.carrotenglish.kr",
     "lat": 37.4837,
-    "lng": 127.0324
+    "lng": 127.0324,
+    "geoApprox": true
   },
   {
     "id": 411,
@@ -6402,7 +6812,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4859441,
-    "lng": 126.8973364
+    "lng": 126.8973364,
+    "geoApprox": false
   },
   {
     "id": 412,
@@ -6417,7 +6828,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51694,
-    "lng": 127.12676
+    "lng": 127.12676,
+    "geoApprox": true
   },
   {
     "id": 413,
@@ -6432,7 +6844,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.m4study.com",
     "lat": 37.54268,
-    "lng": 127.01189
+    "lng": 127.01189,
+    "geoApprox": false
   },
   {
     "id": 414,
@@ -6447,7 +6860,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ydp.trenmi.co.kr/",
     "lat": 37.5194,
-    "lng": 126.8877
+    "lng": 126.8877,
+    "geoApprox": true
   },
   {
     "id": 415,
@@ -6462,7 +6876,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gnland.eduwill.net",
     "lat": 37.512614,
-    "lng": 126.940553
+    "lng": 126.940553,
+    "geoApprox": false
   },
   {
     "id": 416,
@@ -6477,7 +6892,8 @@ window.VOUCHERS = [
     ],
     "homepage": "evepilates_21@naver.com",
     "lat": 37.4791313,
-    "lng": 126.9527016
+    "lng": 126.9527016,
+    "geoApprox": false
   },
   {
     "id": 417,
@@ -6492,7 +6908,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hansung.ac.kr/edubank/index.do",
     "lat": 37.57568,
-    "lng": 127.01772
+    "lng": 127.01772,
+    "geoApprox": true
   },
   {
     "id": 418,
@@ -6507,7 +6924,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kcgt.or.kr",
     "lat": 37.4961697,
-    "lng": 126.8914299
+    "lng": 126.8914299,
+    "geoApprox": false
   },
   {
     "id": 419,
@@ -6522,7 +6940,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kystudy.co.kr",
     "lat": 37.49343,
-    "lng": 127.028514
+    "lng": 127.028514,
+    "geoApprox": false
   },
   {
     "id": 420,
@@ -6538,7 +6957,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dongbu.seoulwomanup.or.kr/dongbu/main/main.do",
     "lat": 37.53374,
-    "lng": 127.08196
+    "lng": 127.08196,
+    "geoApprox": true
   },
   {
     "id": 421,
@@ -6554,7 +6974,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kgitbank.co.kr",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 422,
@@ -6569,7 +6990,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51562,
-    "lng": 127.10998
+    "lng": 127.10998,
+    "geoApprox": true
   },
   {
     "id": 423,
@@ -6584,7 +7006,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.elinklaw.co.kr",
     "lat": 37.4837,
-    "lng": 127.0324
+    "lng": 127.0324,
+    "geoApprox": true
   },
   {
     "id": 424,
@@ -6602,7 +7025,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gangdongedu.or.kr/",
     "lat": 37.54186,
-    "lng": 127.13254
+    "lng": 127.13254,
+    "geoApprox": true
   },
   {
     "id": 425,
@@ -6619,7 +7043,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://sinchon.koreaisacademy.com/",
     "lat": 37.5541303,
-    "lng": 126.9358508
+    "lng": 126.9358508,
+    "geoApprox": false
   },
   {
     "id": 426,
@@ -6634,7 +7059,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://china.hackers.com",
     "lat": 37.49126,
-    "lng": 127.04294
+    "lng": 127.04294,
+    "geoApprox": true
   },
   {
     "id": 427,
@@ -6649,7 +7075,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.61638,
-    "lng": 127.09542
+    "lng": 127.09542,
+    "geoApprox": true
   },
   {
     "id": 428,
@@ -6667,7 +7094,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gangnam.go.kr/office/memewell/main.do",
     "lat": 37.5003274,
-    "lng": 127.0392017
+    "lng": 127.0392017,
+    "geoApprox": false
   },
   {
     "id": 429,
@@ -6682,7 +7110,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4810979,
-    "lng": 126.9509329
+    "lng": 126.9509329,
+    "geoApprox": false
   },
   {
     "id": 430,
@@ -6697,7 +7126,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52618,
-    "lng": 127.10942
+    "lng": 127.10942,
+    "geoApprox": true
   },
   {
     "id": 431,
@@ -6713,7 +7143,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://whitewave.kr/",
     "lat": 37.4933613,
-    "lng": 127.0072472
+    "lng": 127.0072472,
+    "geoApprox": false
   },
   {
     "id": 432,
@@ -6728,7 +7159,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6427322,
-    "lng": 127.0641733
+    "lng": 127.0641733,
+    "geoApprox": false
   },
   {
     "id": 433,
@@ -6746,7 +7178,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.jungnangedu.or.kr/",
     "lat": 37.59734,
-    "lng": 127.09406
+    "lng": 127.09406,
+    "geoApprox": true
   },
   {
     "id": 434,
@@ -6761,7 +7194,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://naver.me/xKEkHR6L",
     "lat": 37.476296,
-    "lng": 127.1431674
+    "lng": 127.1431674,
+    "geoApprox": false
   },
   {
     "id": 435,
@@ -6776,7 +7210,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kspoedu.com/",
     "lat": 37.5731325,
-    "lng": 126.9973699
+    "lng": 126.9973699,
+    "geoApprox": false
   },
   {
     "id": 436,
@@ -6791,7 +7226,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5087478,
-    "lng": 126.9245314
+    "lng": 126.9245314,
+    "geoApprox": false
   },
   {
     "id": 437,
@@ -6806,7 +7242,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.bler.co.kr",
     "lat": 37.4697,
-    "lng": 127.0154
+    "lng": 127.0154,
+    "geoApprox": true
   },
   {
     "id": 438,
@@ -6821,7 +7258,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nw.firstcoffee.co.kr/",
     "lat": 37.65868,
-    "lng": 127.07312
+    "lng": 127.07312,
+    "geoApprox": true
   },
   {
     "id": 439,
@@ -6836,7 +7274,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.famenurse.com/",
     "lat": 37.6022091,
-    "lng": 127.021999
+    "lng": 127.021999,
+    "geoApprox": false
   },
   {
     "id": 440,
@@ -6851,7 +7290,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.518569,
-    "lng": 126.854283
+    "lng": 126.854283,
+    "geoApprox": false
   },
   {
     "id": 441,
@@ -6866,7 +7306,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50666,
-    "lng": 127.11134
+    "lng": 127.11134,
+    "geoApprox": true
   },
   {
     "id": 442,
@@ -6881,7 +7322,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.3030english.com/",
     "lat": 37.5592289,
-    "lng": 126.8358877
+    "lng": 126.8358877,
+    "geoApprox": false
   },
   {
     "id": 443,
@@ -6896,7 +7338,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5285486,
-    "lng": 127.1168986
+    "lng": 127.1168986,
+    "geoApprox": false
   },
   {
     "id": 444,
@@ -6912,7 +7355,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/PostList.nhn?blogId=peteras814&from=postList&categoryNo=11&parentCategoryNo=1",
     "lat": 37.52416,
-    "lng": 126.94814
+    "lng": 126.94814,
+    "geoApprox": true
   },
   {
     "id": 445,
@@ -6927,7 +7371,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lifelong.miraedu.kr/",
     "lat": 37.49008,
-    "lng": 126.88502
+    "lng": 126.88502,
+    "geoApprox": true
   },
   {
     "id": 446,
@@ -6942,7 +7387,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://koreaaccleaning.qshop.ai/",
     "lat": 37.65,
-    "lng": 127.0585
+    "lng": 127.0585,
+    "geoApprox": true
   },
   {
     "id": 447,
@@ -6961,7 +7407,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gwangjinedu.or.kr/",
     "lat": 37.5369146,
-    "lng": 127.0861441
+    "lng": 127.0861441,
+    "geoApprox": false
   },
   {
     "id": 448,
@@ -6976,7 +7423,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/ambungee2",
     "lat": 37.50972,
-    "lng": 126.87388
+    "lng": 126.87388,
+    "geoApprox": true
   },
   {
     "id": 449,
@@ -6991,7 +7439,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://life.scau.ac.kr/",
     "lat": 37.5763,
-    "lng": 126.9266
+    "lng": 126.9266,
+    "geoApprox": true
   },
   {
     "id": 450,
@@ -7006,7 +7455,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5774285,
-    "lng": 126.813028
+    "lng": 126.813028,
+    "geoApprox": false
   },
   {
     "id": 451,
@@ -7024,7 +7474,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47644,
-    "lng": 126.96146
+    "lng": 126.96146,
+    "geoApprox": true
   },
   {
     "id": 452,
@@ -7039,7 +7490,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5583079,
-    "lng": 126.8564277
+    "lng": 126.8564277,
+    "geoApprox": false
   },
   {
     "id": 453,
@@ -7054,7 +7506,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.everydaytalk.co.kr",
     "lat": 37.5462664,
-    "lng": 126.9521231
+    "lng": 126.9521231,
+    "geoApprox": false
   },
   {
     "id": 454,
@@ -7069,7 +7522,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.57686,
-    "lng": 126.99124
+    "lng": 126.99124,
+    "geoApprox": true
   },
   {
     "id": 455,
@@ -7084,7 +7538,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jr.ezenac.co.kr/",
     "lat": 37.57042,
-    "lng": 126.98478
+    "lng": 126.98478,
+    "geoApprox": true
   },
   {
     "id": 456,
@@ -7099,7 +7554,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://e-yj.co.kr/",
     "lat": 37.5242,
-    "lng": 127.0558
+    "lng": 127.0558,
+    "geoApprox": true
   },
   {
     "id": 457,
@@ -7118,7 +7574,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.mapoedu.or.kr/",
     "lat": 37.55818,
-    "lng": 126.88932
+    "lng": 126.88932,
+    "geoApprox": true
   },
   {
     "id": 458,
@@ -7134,7 +7591,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/siwoonvocallab",
     "lat": 37.5376835,
-    "lng": 127.0836849
+    "lng": 127.0836849,
+    "geoApprox": false
   },
   {
     "id": 459,
@@ -7153,7 +7611,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51996,
-    "lng": 126.88974
+    "lng": 126.88974,
+    "geoApprox": true
   },
   {
     "id": 460,
@@ -7168,7 +7627,8 @@ window.VOUCHERS = [
     ],
     "homepage": "mspeech.co.kr",
     "lat": 37.5346333,
-    "lng": 126.8999238
+    "lng": 126.8999238,
+    "geoApprox": false
   },
   {
     "id": 461,
@@ -7183,7 +7643,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5592289,
-    "lng": 126.8358877
+    "lng": 126.8358877,
+    "geoApprox": false
   },
   {
     "id": 462,
@@ -7199,7 +7660,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5412865,
-    "lng": 126.8381
+    "lng": 126.8381,
+    "geoApprox": false
   },
   {
     "id": 463,
@@ -7214,7 +7676,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sgh.co.kr",
     "lat": 37.52192,
-    "lng": 126.87988
+    "lng": 126.87988,
+    "geoApprox": true
   },
   {
     "id": 464,
@@ -7229,7 +7692,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ks.spworks.co.kr/SU86/main.asp",
     "lat": 37.5591553,
-    "lng": 126.8365204
+    "lng": 126.8365204,
+    "geoApprox": false
   },
   {
     "id": 465,
@@ -7244,7 +7708,8 @@ window.VOUCHERS = [
     ],
     "homepage": "globalcaddie.org",
     "lat": 37.4995348,
-    "lng": 127.1469733
+    "lng": 127.1469733,
+    "geoApprox": false
   },
   {
     "id": 466,
@@ -7260,7 +7725,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sungminwelfare.or.kr/",
     "lat": 37.6444,
-    "lng": 127.0721
+    "lng": 127.0721,
+    "geoApprox": true
   },
   {
     "id": 467,
@@ -7275,7 +7741,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/hueinpilates",
     "lat": 37.615027,
-    "lng": 127.076989
+    "lng": 127.076989,
+    "geoApprox": false
   },
   {
     "id": 468,
@@ -7290,7 +7757,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.54082,
-    "lng": 126.84678
+    "lng": 126.84678,
+    "geoApprox": true
   },
   {
     "id": 469,
@@ -7306,7 +7774,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.grccp.or.kr/",
     "lat": 37.54194,
-    "lng": 126.85086
+    "lng": 126.85086,
+    "geoApprox": true
   },
   {
     "id": 470,
@@ -7321,7 +7790,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/seunga25",
     "lat": 37.65952,
-    "lng": 127.05918
+    "lng": 127.05918,
+    "geoApprox": true
   },
   {
     "id": 471,
@@ -7342,7 +7812,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
     "lat": 37.557441,
-    "lng": 127.169679
+    "lng": 127.169679,
+    "geoApprox": false
   },
   {
     "id": 472,
@@ -7357,7 +7828,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.lawschool.co.kr",
     "lat": 37.46552,
-    "lng": 126.93868
+    "lng": 126.93868,
+    "geoApprox": true
   },
   {
     "id": 473,
@@ -7372,7 +7844,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.smart.ac.kr/",
     "lat": 37.5236,
-    "lng": 126.9461
+    "lng": 126.9461,
+    "geoApprox": true
   },
   {
     "id": 474,
@@ -7387,7 +7860,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53428,
-    "lng": 127.076465
+    "lng": 127.076465,
+    "geoApprox": false
   },
   {
     "id": 475,
@@ -7405,7 +7879,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://free1english.com",
     "lat": 37.51884,
-    "lng": 126.88566
+    "lng": 126.88566,
+    "geoApprox": true
   },
   {
     "id": 476,
@@ -7421,7 +7896,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.papa-power.com",
     "lat": 37.489007,
-    "lng": 126.9923344
+    "lng": 126.9923344,
+    "geoApprox": false
   },
   {
     "id": 477,
@@ -7436,7 +7912,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://kd.pulip.kr/",
     "lat": 37.5329,
-    "lng": 127.0959
+    "lng": 127.0959,
+    "geoApprox": true
   },
   {
     "id": 478,
@@ -7455,7 +7932,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://lle.ssgu.ac.kr/",
     "lat": 37.53956,
-    "lng": 126.89314
+    "lng": 126.89314,
+    "geoApprox": true
   },
   {
     "id": 479,
@@ -7470,7 +7948,8 @@ window.VOUCHERS = [
     ],
     "homepage": "luxuryedu.kr",
     "lat": 37.52476,
-    "lng": 127.05784
+    "lng": 127.05784,
+    "geoApprox": true
   },
   {
     "id": 480,
@@ -7485,7 +7964,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hackersut.com/",
     "lat": 37.4753,
-    "lng": 127.0358
+    "lng": 127.0358,
+    "geoApprox": true
   },
   {
     "id": 481,
@@ -7500,7 +7980,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodymulti",
     "lat": 37.52506,
-    "lng": 127.13934
+    "lng": 127.13934,
+    "geoApprox": true
   },
   {
     "id": 482,
@@ -7515,7 +7996,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6001543,
-    "lng": 127.0336766
+    "lng": 127.0336766,
+    "geoApprox": false
   },
   {
     "id": 483,
@@ -7532,7 +8014,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sdmvision.org/",
     "lat": 37.56678,
-    "lng": 126.92592
+    "lng": 126.92592,
+    "geoApprox": true
   },
   {
     "id": 484,
@@ -7547,7 +8030,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gumjung.edu2080.co.kr/",
     "lat": 37.4985696,
-    "lng": 127.0257413
+    "lng": 127.0257413,
+    "geoApprox": false
   },
   {
     "id": 485,
@@ -7562,7 +8046,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jaeil-cook.com/",
     "lat": 37.5716,
-    "lng": 127.0294
+    "lng": 127.0294,
+    "geoApprox": true
   },
   {
     "id": 486,
@@ -7577,7 +8062,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.js-hanc.com",
     "lat": 37.51478,
-    "lng": 127.08992
+    "lng": 127.08992,
+    "geoApprox": true
   },
   {
     "id": 487,
@@ -7592,7 +8078,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/moonpilates01",
     "lat": 37.55622,
-    "lng": 126.85188
+    "lng": 126.85188,
+    "geoApprox": true
   },
   {
     "id": 488,
@@ -7608,7 +8095,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5785911,
-    "lng": 127.0355703
+    "lng": 127.0355703,
+    "geoApprox": false
   },
   {
     "id": 489,
@@ -7623,7 +8111,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.classcloud.kr",
     "lat": 37.5643473,
-    "lng": 126.9829236
+    "lng": 126.9829236,
+    "geoApprox": false
   },
   {
     "id": 490,
@@ -7641,7 +8130,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.happyall.or.kr",
     "lat": 37.54586,
-    "lng": 126.86514
+    "lng": 126.86514,
+    "geoApprox": true
   },
   {
     "id": 491,
@@ -7657,7 +8147,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.misoye.co.kr",
     "lat": 37.48846,
-    "lng": 127.03274
+    "lng": 127.03274,
+    "geoApprox": true
   },
   {
     "id": 492,
@@ -7672,7 +8163,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5002336,
-    "lng": 127.0514517
+    "lng": 127.0514517,
+    "geoApprox": false
   },
   {
     "id": 493,
@@ -7688,7 +8180,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://yongsan.seoulwomanup.or.kr/yongsan/main/main.do",
     "lat": 37.52484,
-    "lng": 126.97946
+    "lng": 126.97946,
+    "geoApprox": true
   },
   {
     "id": 494,
@@ -7703,7 +8196,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://dcgplatform.com/",
     "lat": 37.5812398,
-    "lng": 127.0040209
+    "lng": 127.0040209,
+    "geoApprox": false
   },
   {
     "id": 495,
@@ -7718,7 +8212,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hackers.com/voucher.html",
     "lat": 37.4725,
-    "lng": 127.0256
+    "lng": 127.0256,
+    "geoApprox": true
   },
   {
     "id": 496,
@@ -7733,7 +8228,8 @@ window.VOUCHERS = [
     ],
     "homepage": "wow3d.co.kr",
     "lat": 37.5479183,
-    "lng": 126.9237718
+    "lng": 126.9237718,
+    "geoApprox": false
   },
   {
     "id": 497,
@@ -7748,7 +8244,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.educase.co.kr",
     "lat": 37.49484,
-    "lng": 126.88536
+    "lng": 126.88536,
+    "geoApprox": true
   },
   {
     "id": 498,
@@ -7763,7 +8260,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.daehan1.com/",
     "lat": 37.5330124,
-    "lng": 126.9042532
+    "lng": 126.9042532,
+    "geoApprox": false
   },
   {
     "id": 499,
@@ -7778,7 +8276,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6199065,
-    "lng": 127.0166786
+    "lng": 127.0166786,
+    "geoApprox": false
   },
   {
     "id": 500,
@@ -7793,7 +8292,8 @@ window.VOUCHERS = [
     ],
     "homepage": "art-ate.com",
     "lat": 37.545519,
-    "lng": 127.046409
+    "lng": 127.046409,
+    "geoApprox": false
   },
   {
     "id": 501,
@@ -7810,7 +8310,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.yangcheon.go.kr/dong/sinwol07/main.do",
     "lat": 37.517,
-    "lng": 126.8664
+    "lng": 126.8664,
+    "geoApprox": true
   },
   {
     "id": 502,
@@ -7825,7 +8326,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.56424,
-    "lng": 127.02296
+    "lng": 127.02296,
+    "geoApprox": true
   },
   {
     "id": 503,
@@ -7840,7 +8342,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodymulti",
     "lat": 37.58604,
-    "lng": 127.00446
+    "lng": 127.00446,
+    "geoApprox": true
   },
   {
     "id": 504,
@@ -7855,7 +8358,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.chamnamu.net/",
     "lat": 37.5483,
-    "lng": 127.067
+    "lng": 127.067,
+    "geoApprox": true
   },
   {
     "id": 505,
@@ -7870,7 +8374,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.vocal-planet.com/",
     "lat": 37.5558879,
-    "lng": 127.0818015
+    "lng": 127.0818015,
+    "geoApprox": false
   },
   {
     "id": 506,
@@ -7885,7 +8390,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5655342,
-    "lng": 127.0230656
+    "lng": 127.0230656,
+    "geoApprox": false
   },
   {
     "id": 507,
@@ -7900,7 +8406,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://shesculture.com/",
     "lat": 37.4843554,
-    "lng": 126.9555346
+    "lng": 126.9555346,
+    "geoApprox": false
   },
   {
     "id": 508,
@@ -7915,7 +8422,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52164,
-    "lng": 126.95596
+    "lng": 126.95596,
+    "geoApprox": true
   },
   {
     "id": 509,
@@ -7936,7 +8444,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sll.seoul.go.kr/main/doMainView.do?main_se=ssu",
     "lat": 37.5714564,
-    "lng": 126.966272
+    "lng": 126.966272,
+    "geoApprox": false
   },
   {
     "id": 510,
@@ -7951,7 +8460,8 @@ window.VOUCHERS = [
     ],
     "homepage": "lectus.kr",
     "lat": 37.5563432,
-    "lng": 126.9063965
+    "lng": 126.9063965,
+    "geoApprox": false
   },
   {
     "id": 511,
@@ -7967,7 +8477,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.mapocc.or.kr/",
     "lat": 37.5422226,
-    "lng": 126.9556344
+    "lng": 126.9556344,
+    "geoApprox": false
   },
   {
     "id": 512,
@@ -7982,7 +8493,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52372,
-    "lng": 126.85688
+    "lng": 126.85688,
+    "geoApprox": true
   },
   {
     "id": 513,
@@ -7997,7 +8509,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.brstudy.net",
     "lat": 37.5809939,
-    "lng": 127.0037072
+    "lng": 127.0037072,
+    "geoApprox": false
   },
   {
     "id": 514,
@@ -8012,7 +8525,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5257703,
-    "lng": 126.8631614
+    "lng": 126.8631614,
+    "geoApprox": false
   },
   {
     "id": 515,
@@ -8027,7 +8541,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55594,
-    "lng": 126.83386
+    "lng": 126.83386,
+    "geoApprox": true
   },
   {
     "id": 516,
@@ -8042,7 +8557,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.66768,
-    "lng": 127.04302
+    "lng": 127.04302,
+    "geoApprox": true
   },
   {
     "id": 517,
@@ -8057,7 +8573,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangnam.trenmi.co.kr/",
     "lat": 37.50404,
-    "lng": 127.05036
+    "lng": 127.05036,
+    "geoApprox": true
   },
   {
     "id": 518,
@@ -8072,7 +8589,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47978,
-    "lng": 127.01812
+    "lng": 127.01812,
+    "geoApprox": true
   },
   {
     "id": 519,
@@ -8087,7 +8605,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.saycraft.co.kr",
     "lat": 37.6368554,
-    "lng": 127.0247494
+    "lng": 127.0247494,
+    "geoApprox": false
   },
   {
     "id": 520,
@@ -8102,7 +8621,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4541926,
-    "lng": 126.9010927
+    "lng": 126.9010927,
+    "geoApprox": false
   },
   {
     "id": 521,
@@ -8117,7 +8637,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5058102,
-    "lng": 127.10624
+    "lng": 127.10624,
+    "geoApprox": false
   },
   {
     "id": 522,
@@ -8132,7 +8653,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://fause.or.kr",
     "lat": 37.532,
-    "lng": 126.8826
+    "lng": 126.8826,
+    "geoApprox": true
   },
   {
     "id": 523,
@@ -8150,7 +8672,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.yongsanedu.or.kr/",
     "lat": 37.53884,
-    "lng": 126.99646
+    "lng": 126.99646,
+    "geoApprox": true
   },
   {
     "id": 524,
@@ -8166,7 +8689,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.dobongwoman.or.kr/",
     "lat": 37.663349,
-    "lng": 127.030457
+    "lng": 127.030457,
+    "geoApprox": false
   },
   {
     "id": 525,
@@ -8181,7 +8705,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6208768,
-    "lng": 126.9191007
+    "lng": 126.9191007,
+    "geoApprox": false
   },
   {
     "id": 526,
@@ -8196,7 +8721,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.557441,
-    "lng": 127.169679
+    "lng": 127.169679,
+    "geoApprox": false
   },
   {
     "id": 527,
@@ -8213,7 +8739,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kramerschool.com",
     "lat": 37.50638,
-    "lng": 127.09332
+    "lng": 127.09332,
+    "geoApprox": true
   },
   {
     "id": 528,
@@ -8228,7 +8755,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kisa.co.kr",
     "lat": 37.4790648,
-    "lng": 126.8834517
+    "lng": 126.8834517,
+    "geoApprox": false
   },
   {
     "id": 529,
@@ -8243,7 +8771,8 @@ window.VOUCHERS = [
     ],
     "homepage": "edutpk.co.kr",
     "lat": 37.508,
-    "lng": 126.8823
+    "lng": 126.8823,
+    "geoApprox": true
   },
   {
     "id": 530,
@@ -8260,7 +8789,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jpurme.org/",
     "lat": 37.5840944,
-    "lng": 126.9698377
+    "lng": 126.9698377,
+    "geoApprox": false
   },
   {
     "id": 531,
@@ -8276,7 +8806,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.517066,
-    "lng": 126.8644758
+    "lng": 126.8644758,
+    "geoApprox": false
   },
   {
     "id": 532,
@@ -8291,7 +8822,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5413762,
-    "lng": 126.9733381
+    "lng": 126.9733381,
+    "geoApprox": false
   },
   {
     "id": 533,
@@ -8306,7 +8838,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.topedu.kr",
     "lat": 37.57782,
-    "lng": 126.99688
+    "lng": 126.99688,
+    "geoApprox": true
   },
   {
     "id": 534,
@@ -8322,7 +8855,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://coloso.co.kr/",
     "lat": 37.503382,
-    "lng": 127.0415998
+    "lng": 127.0415998,
+    "geoApprox": false
   },
   {
     "id": 535,
@@ -8338,7 +8872,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://jungnang.seoulwomanup.or.kr/",
     "lat": 37.6161,
-    "lng": 127.0774
+    "lng": 127.0774,
+    "geoApprox": true
   },
   {
     "id": 536,
@@ -8354,7 +8889,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.fwc.or.kr/",
     "lat": 37.48196,
-    "lng": 126.87244
+    "lng": 126.87244,
+    "geoApprox": true
   },
   {
     "id": 537,
@@ -8369,7 +8905,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://live-lab.siwonschool.ac/",
     "lat": 37.5565154,
-    "lng": 126.9240228
+    "lng": 126.9240228,
+    "geoApprox": false
   },
   {
     "id": 538,
@@ -8384,7 +8921,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4825893,
-    "lng": 127.1228334
+    "lng": 127.1228334,
+    "geoApprox": false
   },
   {
     "id": 539,
@@ -8399,7 +8937,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://naver.me/5VmsbrYp",
     "lat": 37.48624,
-    "lng": 126.94616
+    "lng": 126.94616,
+    "geoApprox": true
   },
   {
     "id": 540,
@@ -8414,7 +8953,8 @@ window.VOUCHERS = [
     ],
     "homepage": "nowon.allthat-beauty.com",
     "lat": 37.6543215,
-    "lng": 127.0621692
+    "lng": 127.0621692,
+    "geoApprox": false
   },
   {
     "id": 541,
@@ -8429,7 +8969,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50888,
-    "lng": 126.85382
+    "lng": 126.85382,
+    "geoApprox": true
   },
   {
     "id": 542,
@@ -8444,7 +8985,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.didgevibe.com",
     "lat": 37.52,
-    "lng": 127.0575
+    "lng": 127.0575,
+    "geoApprox": true
   },
   {
     "id": 543,
@@ -8459,7 +9001,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kedu21.co.kr",
     "lat": 37.53828,
-    "lng": 126.99442
+    "lng": 126.99442,
+    "geoApprox": true
   },
   {
     "id": 544,
@@ -8474,7 +9017,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51974,
-    "lng": 127.13696
+    "lng": 127.13696,
+    "geoApprox": true
   },
   {
     "id": 545,
@@ -8492,7 +9036,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://songpa.seoulwomanup.or.kr",
     "lat": 37.4963405,
-    "lng": 127.1187984
+    "lng": 127.1187984,
+    "geoApprox": false
   },
   {
     "id": 546,
@@ -8507,7 +9052,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5505129,
-    "lng": 127.1450294
+    "lng": 127.1450294,
+    "geoApprox": false
   },
   {
     "id": 547,
@@ -8522,7 +9068,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/allforu01",
     "lat": 37.52954,
-    "lng": 127.12166
+    "lng": 127.12166,
+    "geoApprox": true
   },
   {
     "id": 548,
@@ -8537,7 +9084,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dreamingtree.kr",
     "lat": 37.52092,
-    "lng": 126.88068
+    "lng": 126.88068,
+    "geoApprox": true
   },
   {
     "id": 549,
@@ -8552,7 +9100,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ncdrive.co.kr",
     "lat": 37.66428,
-    "lng": 127.05952
+    "lng": 127.05952,
+    "geoApprox": true
   },
   {
     "id": 550,
@@ -8567,7 +9116,8 @@ window.VOUCHERS = [
     ],
     "homepage": "allpasscampus.co.kr",
     "lat": 37.50576,
-    "lng": 126.87414
+    "lng": 126.87414,
+    "geoApprox": true
   },
   {
     "id": 551,
@@ -8582,7 +9132,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.newbornpilates.com",
     "lat": 37.4826,
-    "lng": 126.9499
+    "lng": 126.9499,
+    "geoApprox": true
   },
   {
     "id": 552,
@@ -8597,7 +9148,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.shuvpilates.com",
     "lat": 37.572405,
-    "lng": 127.0555089
+    "lng": 127.0555089,
+    "geoApprox": false
   },
   {
     "id": 553,
@@ -8613,7 +9165,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gwangjin.or.kr/",
     "lat": 37.5375773,
-    "lng": 127.0705582
+    "lng": 127.0705582,
+    "geoApprox": false
   },
   {
     "id": 554,
@@ -8628,7 +9181,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hyehwa.sbsart.com/",
     "lat": 37.5842131,
-    "lng": 127.0019032
+    "lng": 127.0019032,
+    "geoApprox": false
   },
   {
     "id": 555,
@@ -8643,7 +9197,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47222,
-    "lng": 127.04158
+    "lng": 127.04158,
+    "geoApprox": true
   },
   {
     "id": 556,
@@ -8658,7 +9213,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5454984,
-    "lng": 126.8626921
+    "lng": 126.8626921,
+    "geoApprox": false
   },
   {
     "id": 557,
@@ -8679,7 +9235,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5582383,
-    "lng": 126.9994886
+    "lng": 126.9994886,
+    "geoApprox": false
   },
   {
     "id": 558,
@@ -8694,7 +9251,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4809069,
-    "lng": 127.1217328
+    "lng": 127.1217328,
+    "geoApprox": false
   },
   {
     "id": 559,
@@ -8709,7 +9267,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.insadream.com/main/index.html",
     "lat": 37.49742,
-    "lng": 127.03138
+    "lng": 127.03138,
+    "geoApprox": true
   },
   {
     "id": 560,
@@ -8728,7 +9287,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.seochowomen.kr/seocho/index.do",
     "lat": 37.5026616,
-    "lng": 127.0221206
+    "lng": 127.0221206,
+    "geoApprox": false
   },
   {
     "id": 561,
@@ -8743,7 +9303,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ssuedu.kr/",
     "lat": 37.495414,
-    "lng": 126.954892
+    "lng": 126.954892,
+    "geoApprox": false
   },
   {
     "id": 562,
@@ -8759,7 +9320,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://banposenior.org",
     "lat": 37.48706,
-    "lng": 127.04464
+    "lng": 127.04464,
+    "geoApprox": true
   },
   {
     "id": 563,
@@ -8774,7 +9336,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/withpiano07",
     "lat": 37.60046,
-    "lng": 126.92094
+    "lng": 126.92094,
+    "geoApprox": true
   },
   {
     "id": 564,
@@ -8789,7 +9352,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5007016,
-    "lng": 127.0341008
+    "lng": 127.0341008,
+    "geoApprox": false
   },
   {
     "id": 565,
@@ -8806,7 +9370,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51168,
-    "lng": 126.86402
+    "lng": 126.86402,
+    "geoApprox": true
   },
   {
     "id": 566,
@@ -8822,7 +9387,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4714,
-    "lng": 126.9431
+    "lng": 126.9431,
+    "geoApprox": true
   },
   {
     "id": 567,
@@ -8837,7 +9403,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kiveed.co.kr/",
     "lat": 37.53458,
-    "lng": 127.14002
+    "lng": 127.14002,
+    "geoApprox": true
   },
   {
     "id": 568,
@@ -8852,7 +9419,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://cafe.naver.com/leesamcom",
     "lat": 37.59878,
-    "lng": 126.91482
+    "lng": 126.91482,
+    "geoApprox": true
   },
   {
     "id": 569,
@@ -8868,7 +9436,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.gla.or.kr",
     "lat": 37.5070011,
-    "lng": 127.1050955
+    "lng": 127.1050955,
+    "geoApprox": false
   },
   {
     "id": 570,
@@ -8883,7 +9452,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kkspc.kr/",
     "lat": 37.500254,
-    "lng": 126.922654
+    "lng": 126.922654,
+    "geoApprox": false
   },
   {
     "id": 571,
@@ -8898,7 +9468,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.inbm.kr/main/index.jsp",
     "lat": 37.52618,
-    "lng": 127.07142
+    "lng": 127.07142,
+    "geoApprox": true
   },
   {
     "id": 572,
@@ -8913,7 +9484,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5582067,
-    "lng": 126.8449136
+    "lng": 126.8449136,
+    "geoApprox": false
   },
   {
     "id": 573,
@@ -8928,7 +9500,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.esmod.co.kr",
     "lat": 37.5227539,
-    "lng": 127.0203176
+    "lng": 127.0203176,
+    "geoApprox": false
   },
   {
     "id": 574,
@@ -8944,7 +9517,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://beautifulbodyacademy.kr/",
     "lat": 37.5077714,
-    "lng": 127.0367033
+    "lng": 127.0367033,
+    "geoApprox": false
   },
   {
     "id": 575,
@@ -8959,7 +9533,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gn-hscook.com/main/index.do",
     "lat": 37.4987437,
-    "lng": 127.0267
+    "lng": 127.0267,
+    "geoApprox": false
   },
   {
     "id": 576,
@@ -8974,7 +9549,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.csu.ac.kr/",
     "lat": 37.52472,
-    "lng": 126.95018
+    "lng": 126.95018,
+    "geoApprox": true
   },
   {
     "id": 577,
@@ -8989,7 +9565,8 @@ window.VOUCHERS = [
     ],
     "homepage": "7study.co.kr",
     "lat": 37.4566024,
-    "lng": 127.0595123
+    "lng": 127.0595123,
+    "geoApprox": false
   },
   {
     "id": 578,
@@ -9007,7 +9584,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.nsice.kr",
     "lat": 37.57328,
-    "lng": 127.03552
+    "lng": 127.03552,
+    "geoApprox": true
   },
   {
     "id": 579,
@@ -9022,7 +9600,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://academy.crowdworks.kr/",
     "lat": 37.5035476,
-    "lng": 127.0444153
+    "lng": 127.0444153,
+    "geoApprox": false
   },
   {
     "id": 580,
@@ -9037,7 +9616,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.smartonepass.co.kr/",
     "lat": 37.50148,
-    "lng": 126.95052
+    "lng": 126.95052,
+    "geoApprox": true
   },
   {
     "id": 581,
@@ -9052,7 +9632,8 @@ window.VOUCHERS = [
     ],
     "homepage": "hyon.hanyang.ac.kr",
     "lat": 37.5569876,
-    "lng": 127.0470893
+    "lng": 127.0470893,
+    "geoApprox": false
   },
   {
     "id": 582,
@@ -9067,7 +9648,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.educksung.com/",
     "lat": 37.48756,
-    "lng": 126.89284
+    "lng": 126.89284,
+    "geoApprox": true
   },
   {
     "id": 583,
@@ -9082,7 +9664,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.no1hsk.co.kr",
     "lat": 37.5463327,
-    "lng": 126.9226841
+    "lng": 126.9226841,
+    "geoApprox": false
   },
   {
     "id": 584,
@@ -9098,7 +9681,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/mmsi2020",
     "lat": 37.47474,
-    "lng": 127.03376
+    "lng": 127.03376,
+    "geoApprox": true
   },
   {
     "id": 585,
@@ -9113,7 +9697,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6063817,
-    "lng": 127.0946261
+    "lng": 127.0946261,
+    "geoApprox": false
   },
   {
     "id": 586,
@@ -9128,7 +9713,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://kelispetaca.com/academy/introduce.asp",
     "lat": 37.48034,
-    "lng": 127.02016
+    "lng": 127.02016,
+    "geoApprox": true
   },
   {
     "id": 587,
@@ -9143,7 +9729,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kib.or.kr",
     "lat": 37.53564,
-    "lng": 126.91286
+    "lng": 126.91286,
+    "geoApprox": true
   },
   {
     "id": 588,
@@ -9158,7 +9745,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lab.siwonschool.ac/",
     "lat": 37.5565154,
-    "lng": 126.9240228
+    "lng": 126.9240228,
+    "geoApprox": false
   },
   {
     "id": 589,
@@ -9173,7 +9761,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sida.or.kr",
     "lat": 37.51212,
-    "lng": 126.95528
+    "lng": 126.95528,
+    "geoApprox": true
   },
   {
     "id": 590,
@@ -9188,7 +9777,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://new.uniwise.kr/",
     "lat": 37.4883111,
-    "lng": 127.1040363
+    "lng": 127.1040363,
+    "geoApprox": false
   },
   {
     "id": 591,
@@ -9203,7 +9793,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51926,
-    "lng": 127.10624
+    "lng": 127.10624,
+    "geoApprox": true
   },
   {
     "id": 592,
@@ -9218,7 +9809,8 @@ window.VOUCHERS = [
     ],
     "homepage": "edu.jobgo.ne.kr",
     "lat": 37.4898,
-    "lng": 126.901
+    "lng": 126.901,
+    "geoApprox": true
   },
   {
     "id": 593,
@@ -9233,7 +9825,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/bangwhapulib",
     "lat": 37.55762,
-    "lng": 126.83998
+    "lng": 126.83998,
+    "geoApprox": true
   },
   {
     "id": 594,
@@ -9248,7 +9841,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gurocc.or.kr",
     "lat": 37.49456,
-    "lng": 126.90134
+    "lng": 126.90134,
+    "geoApprox": true
   },
   {
     "id": 595,
@@ -9263,7 +9857,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5825682,
-    "lng": 127.0441478
+    "lng": 127.0441478,
+    "geoApprox": false
   },
   {
     "id": 596,
@@ -9278,7 +9873,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.imbpilates.com",
     "lat": 37.51436,
-    "lng": 126.90334
+    "lng": 126.90334,
+    "geoApprox": true
   },
   {
     "id": 597,
@@ -9293,7 +9889,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://friendlyuni2.com/",
     "lat": 37.5491624,
-    "lng": 126.9182108
+    "lng": 126.9182108,
+    "geoApprox": false
   },
   {
     "id": 598,
@@ -9308,7 +9905,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5457314,
-    "lng": 126.9512725
+    "lng": 126.9512725,
+    "geoApprox": false
   },
   {
     "id": 599,
@@ -9324,7 +9922,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.isbcc.or.kr",
     "lat": 37.59164,
-    "lng": 127.02486
+    "lng": 127.02486,
+    "geoApprox": true
   },
   {
     "id": 600,
@@ -9343,7 +9942,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://class101.net/ko/pages/lllcard_voucher",
     "lat": 37.4991955,
-    "lng": 127.0282138
+    "lng": 127.0282138,
+    "geoApprox": false
   },
   {
     "id": 601,
@@ -9359,7 +9959,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://laroseschool.com/",
     "lat": 37.5242,
-    "lng": 127.0558
+    "lng": 127.0558,
+    "geoApprox": true
   },
   {
     "id": 602,
@@ -9374,7 +9975,8 @@ window.VOUCHERS = [
     ],
     "homepage": "musiclifebalance.com",
     "lat": 37.5413,
-    "lng": 127.1305
+    "lng": 127.1305,
+    "geoApprox": true
   },
   {
     "id": 603,
@@ -9389,7 +9991,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://lifelong.rts.ac.kr/index.php",
     "lat": 37.63848,
-    "lng": 127.02162
+    "lng": 127.02162,
+    "geoApprox": true
   },
   {
     "id": 604,
@@ -9405,7 +10008,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.epurun.org/xe/",
     "lat": 37.57188,
-    "lng": 127.04742
+    "lng": 127.04742,
+    "geoApprox": true
   },
   {
     "id": 605,
@@ -9420,7 +10024,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4918444,
-    "lng": 126.8545728
+    "lng": 126.8545728,
+    "geoApprox": false
   },
   {
     "id": 606,
@@ -9435,7 +10040,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ezenac.co.kr/",
     "lat": 37.5012347,
-    "lng": 127.0249422
+    "lng": 127.0249422,
+    "geoApprox": false
   },
   {
     "id": 607,
@@ -9454,7 +10060,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dongjakedu.or.kr",
     "lat": 37.51296,
-    "lng": 126.94134
+    "lng": 126.94134,
+    "geoApprox": true
   },
   {
     "id": 608,
@@ -9469,7 +10076,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.oflec.co.kr",
     "lat": 37.5984231,
-    "lng": 127.0917744
+    "lng": 127.0917744,
+    "geoApprox": false
   },
   {
     "id": 609,
@@ -9485,7 +10093,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://culture.lottemart.com/cu/branch/main.do?search_str_cd=103",
     "lat": 37.5278168,
-    "lng": 126.904734
+    "lng": 126.904734,
+    "geoApprox": false
   },
   {
     "id": 610,
@@ -9501,7 +10110,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.tomatopass.com",
     "lat": 37.56378,
-    "lng": 126.90972
+    "lng": 126.90972,
+    "geoApprox": true
   },
   {
     "id": 611,
@@ -9516,7 +10126,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.58414,
-    "lng": 126.98376
+    "lng": 126.98376,
+    "geoApprox": true
   },
   {
     "id": 612,
@@ -9531,7 +10142,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.beveragemaster.kr",
     "lat": 37.52108,
-    "lng": 126.95392
+    "lng": 126.95392,
+    "geoApprox": true
   },
   {
     "id": 613,
@@ -9546,7 +10158,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.daum.net/Yulbang",
     "lat": 37.4828526,
-    "lng": 126.98155
+    "lng": 126.98155,
+    "geoApprox": false
   },
   {
     "id": 614,
@@ -9562,7 +10175,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nowon.seoulwomanup.or.kr/nowon/main/main.do",
     "lat": 37.626405,
-    "lng": 127.0790931
+    "lng": 127.0790931,
+    "geoApprox": false
   },
   {
     "id": 615,
@@ -9577,7 +10191,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.postacademy.co.kr/",
     "lat": 37.50876,
-    "lng": 126.94304
+    "lng": 126.94304,
+    "geoApprox": true
   },
   {
     "id": 616,
@@ -9592,7 +10207,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://weepcc.com/main.do",
     "lat": 37.4827695,
-    "lng": 126.9971207
+    "lng": 126.9971207,
+    "geoApprox": false
   },
   {
     "id": 617,
@@ -9607,7 +10223,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://seohaegeunart.qshop.ai",
     "lat": 37.6494,
-    "lng": 127.0104
+    "lng": 127.0104,
+    "geoApprox": true
   },
   {
     "id": 618,
@@ -9622,7 +10239,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kmdplus.net",
     "lat": 37.5564,
-    "lng": 127.0284
+    "lng": 127.0284,
+    "geoApprox": true
   },
   {
     "id": 619,
@@ -9637,7 +10255,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hackers.com/voucher.html",
     "lat": 37.47362,
-    "lng": 127.02968
+    "lng": 127.02968,
+    "geoApprox": true
   },
   {
     "id": 620,
@@ -9653,7 +10272,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.58744,
-    "lng": 127.02656
+    "lng": 127.02656,
+    "geoApprox": true
   },
   {
     "id": 621,
@@ -9668,7 +10288,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.654217,
-    "lng": 127.059212
+    "lng": 127.059212,
+    "geoApprox": false
   },
   {
     "id": 622,
@@ -9683,7 +10304,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.lumiepiano.com",
     "lat": 37.50946,
-    "lng": 127.12154
+    "lng": 127.12154,
+    "geoApprox": true
   },
   {
     "id": 623,
@@ -9698,7 +10320,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://아람컴퓨터학원.kr",
     "lat": 37.5054,
-    "lng": 126.9308
+    "lng": 126.9308,
+    "geoApprox": true
   },
   {
     "id": 624,
@@ -9714,7 +10337,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://vylzstudio.com/",
     "lat": 37.5894,
-    "lng": 127.0167
+    "lng": 127.0167,
+    "geoApprox": true
   },
   {
     "id": 625,
@@ -9729,7 +10353,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hiroto.imweb.me",
     "lat": 37.52108,
-    "lng": 126.89382
+    "lng": 126.89382,
+    "geoApprox": true
   },
   {
     "id": 626,
@@ -9744,7 +10369,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.f4school.com",
     "lat": 37.4889887,
-    "lng": 126.8924294
+    "lng": 126.8924294,
+    "geoApprox": false
   },
   {
     "id": 627,
@@ -9759,7 +10385,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://artafterwork.modoo.at/",
     "lat": 37.5963217,
-    "lng": 127.0844825
+    "lng": 127.0844825,
+    "geoApprox": false
   },
   {
     "id": 628,
@@ -9774,7 +10401,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.57238,
-    "lng": 126.94632
+    "lng": 126.94632,
+    "geoApprox": true
   },
   {
     "id": 629,
@@ -9789,7 +10417,8 @@ window.VOUCHERS = [
     ],
     "homepage": "job.hackers.com",
     "lat": 37.4893,
-    "lng": 127.0188
+    "lng": 127.0188,
+    "geoApprox": true
   },
   {
     "id": 630,
@@ -9808,7 +10437,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ydpedu.or.kr/",
     "lat": 37.525,
-    "lng": 126.9081
+    "lng": 126.9081,
+    "geoApprox": true
   },
   {
     "id": 631,
@@ -9829,7 +10459,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50468,
-    "lng": 126.85552
+    "lng": 126.85552,
+    "geoApprox": true
   },
   {
     "id": 632,
@@ -9846,7 +10477,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kapca.co.kr",
     "lat": 37.47446,
-    "lng": 127.01574
+    "lng": 127.01574,
+    "geoApprox": true
   },
   {
     "id": 633,
@@ -9861,7 +10493,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.sjau.co.kr/",
     "lat": 37.4669097,
-    "lng": 126.8884175
+    "lng": 126.8884175,
+    "geoApprox": false
   },
   {
     "id": 634,
@@ -9876,7 +10509,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/eve_pilates",
     "lat": 37.4791709,
-    "lng": 126.9520792
+    "lng": 126.9520792,
+    "geoApprox": false
   },
   {
     "id": 635,
@@ -9891,7 +10525,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangnam.greenart.co.kr/?cam_idx=1",
     "lat": 37.5001716,
-    "lng": 127.0290709
+    "lng": 127.0290709,
+    "geoApprox": false
   },
   {
     "id": 636,
@@ -9906,7 +10541,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.champstudy.com",
     "lat": 37.49462,
-    "lng": 127.02118
+    "lng": 127.02118,
+    "geoApprox": true
   },
   {
     "id": 637,
@@ -9921,7 +10557,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.phonetimes.co.kr",
     "lat": 37.48874,
-    "lng": 127.01676
+    "lng": 127.01676,
+    "geoApprox": true
   },
   {
     "id": 638,
@@ -9936,7 +10573,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.pagoda21.com/",
     "lat": 37.499765,
-    "lng": 127.0261518
+    "lng": 127.0261518,
+    "geoApprox": false
   },
   {
     "id": 639,
@@ -9951,7 +10589,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ddazua.com",
     "lat": 37.50824,
-    "lng": 127.04866
+    "lng": 127.04866,
+    "geoApprox": true
   },
   {
     "id": 640,
@@ -9966,7 +10605,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.epasskorea.com",
     "lat": 37.5144234,
-    "lng": 126.8993143
+    "lng": 126.8993143,
+    "geoApprox": false
   },
   {
     "id": 641,
@@ -9981,7 +10621,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/pilates_thelab",
     "lat": 37.5328892,
-    "lng": 126.8641735
+    "lng": 126.8641735,
+    "geoApprox": false
   },
   {
     "id": 642,
@@ -9996,7 +10637,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5427,
-    "lng": 127.1186
+    "lng": 127.1186,
+    "geoApprox": true
   },
   {
     "id": 643,
@@ -10011,7 +10653,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://delightyogapilates.modoo.at/",
     "lat": 37.51632,
-    "lng": 126.95358
+    "lng": 126.95358,
+    "geoApprox": true
   },
   {
     "id": 644,
@@ -10027,7 +10670,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.iedunet.com",
     "lat": 37.50638,
-    "lng": 127.09332
+    "lng": 127.09332,
+    "geoApprox": true
   },
   {
     "id": 645,
@@ -10042,7 +10686,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53486,
-    "lng": 127.12404
+    "lng": 127.12404,
+    "geoApprox": true
   },
   {
     "id": 646,
@@ -10057,7 +10702,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.re-onpilates.com/",
     "lat": 37.5682664,
-    "lng": 126.8403632
+    "lng": 126.8403632,
+    "geoApprox": false
   },
   {
     "id": 647,
@@ -10073,7 +10719,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ktaia.or.kr",
     "lat": 37.57042,
-    "lng": 126.98478
+    "lng": 126.98478,
+    "geoApprox": true
   },
   {
     "id": 648,
@@ -10089,7 +10736,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.scu.ac.kr/index.html",
     "lat": 37.6027,
-    "lng": 126.9291
+    "lng": 126.9291,
+    "geoApprox": true
   },
   {
     "id": 649,
@@ -10106,7 +10754,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.senior21.or.kr/",
     "lat": 37.57078,
-    "lng": 126.91822
+    "lng": 126.91822,
+    "geoApprox": true
   },
   {
     "id": 650,
@@ -10121,7 +10770,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://labstandard.kr/",
     "lat": 37.46692,
-    "lng": 126.96078
+    "lng": 126.96078,
+    "geoApprox": true
   },
   {
     "id": 651,
@@ -10136,7 +10786,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5288187,
-    "lng": 127.1247769
+    "lng": 127.1247769,
+    "geoApprox": false
   },
   {
     "id": 652,
@@ -10151,7 +10802,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5065133,
-    "lng": 127.1085171
+    "lng": 127.1085171,
+    "geoApprox": false
   },
   {
     "id": 653,
@@ -10166,7 +10818,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5082948,
-    "lng": 127.1069803
+    "lng": 127.1069803,
+    "geoApprox": false
   },
   {
     "id": 654,
@@ -10181,7 +10834,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.japansisa.com/",
     "lat": 37.50572,
-    "lng": 127.05648
+    "lng": 127.05648,
+    "geoApprox": true
   },
   {
     "id": 655,
@@ -10196,7 +10850,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.49736,
-    "lng": 126.87754
+    "lng": 126.87754,
+    "geoApprox": true
   },
   {
     "id": 656,
@@ -10211,7 +10866,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5584946,
-    "lng": 126.8443127
+    "lng": 126.8443127,
+    "geoApprox": false
   },
   {
     "id": 657,
@@ -10226,7 +10882,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.57348,
-    "lng": 127.03962
+    "lng": 127.03962,
+    "geoApprox": true
   },
   {
     "id": 658,
@@ -10244,7 +10901,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50848,
-    "lng": 126.92502
+    "lng": 126.92502,
+    "geoApprox": true
   },
   {
     "id": 659,
@@ -10259,7 +10917,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6386648,
-    "lng": 126.9191072
+    "lng": 126.9191072,
+    "geoApprox": false
   },
   {
     "id": 660,
@@ -10274,7 +10933,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://miraesoledu.com/web/html/00_main/",
     "lat": 37.5144234,
-    "lng": 126.8993143
+    "lng": 126.8993143,
+    "geoApprox": false
   },
   {
     "id": 661,
@@ -10290,7 +10950,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://culture.lottemart.com/cu/common/main.do",
     "lat": 37.6371777,
-    "lng": 126.9179672
+    "lng": 126.9179672,
+    "geoApprox": false
   },
   {
     "id": 662,
@@ -10305,7 +10966,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hakjum.com/",
     "lat": 37.5646,
-    "lng": 127.0549
+    "lng": 127.0549,
+    "geoApprox": true
   },
   {
     "id": 663,
@@ -10320,7 +10982,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://career.baeoom.com/",
     "lat": 37.52,
-    "lng": 127.0575
+    "lng": 127.0575,
+    "geoApprox": true
   },
   {
     "id": 664,
@@ -10335,7 +10998,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kyungrok.com",
     "lat": 37.52532,
-    "lng": 127.05988
+    "lng": 127.05988,
+    "geoApprox": true
   },
   {
     "id": 665,
@@ -10351,7 +11015,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://ddm2016.or.kr/",
     "lat": 37.56488,
-    "lng": 127.03892
+    "lng": 127.03892,
+    "geoApprox": true
   },
   {
     "id": 666,
@@ -10367,7 +11032,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.dreammoa.co.kr",
     "lat": 37.52794,
-    "lng": 127.12086
+    "lng": 127.12086,
+    "geoApprox": true
   },
   {
     "id": 667,
@@ -10383,7 +11049,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.jongnoedu.or.kr/",
     "lat": 37.5707276,
-    "lng": 126.9889123
+    "lng": 126.9889123,
+    "geoApprox": false
   },
   {
     "id": 668,
@@ -10399,7 +11066,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5447128,
-    "lng": 126.8644593
+    "lng": 126.8644593,
+    "geoApprox": false
   },
   {
     "id": 669,
@@ -10414,7 +11082,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com",
     "lat": 37.57322,
-    "lng": 126.99498
+    "lng": 126.99498,
+    "geoApprox": true
   },
   {
     "id": 670,
@@ -10429,7 +11098,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.unisense.co.kr",
     "lat": 37.559507,
-    "lng": 127.080497
+    "lng": 127.080497,
+    "geoApprox": false
   },
   {
     "id": 671,
@@ -10444,7 +11114,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.carnegie.co.kr",
     "lat": 37.51104,
-    "lng": 127.05886
+    "lng": 127.05886,
+    "geoApprox": true
   },
   {
     "id": 672,
@@ -10459,7 +11130,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edueroom.co.kr",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 673,
@@ -10474,7 +11146,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.64608,
-    "lng": 127.04422
+    "lng": 127.04422,
+    "geoApprox": true
   },
   {
     "id": 674,
@@ -10490,7 +11163,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.3pbinder.com",
     "lat": 37.50526,
-    "lng": 127.08924
+    "lng": 127.08924,
+    "geoApprox": true
   },
   {
     "id": 675,
@@ -10505,7 +11179,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ssamplus.com/",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 676,
@@ -10520,7 +11195,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.58926,
-    "lng": 126.91414
+    "lng": 126.91414,
+    "geoApprox": true
   },
   {
     "id": 677,
@@ -10535,7 +11211,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://gaonacademy.co.kr",
     "lat": 37.5259,
-    "lng": 127.1254
+    "lng": 127.1254,
+    "geoApprox": true
   },
   {
     "id": 678,
@@ -10550,7 +11227,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.barunlawhr.com/",
     "lat": 37.53064,
-    "lng": 127.06226
+    "lng": 127.06226,
+    "geoApprox": true
   },
   {
     "id": 679,
@@ -10565,7 +11243,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/deerbloom21",
     "lat": 37.5025979,
-    "lng": 126.9210344
+    "lng": 126.9210344,
+    "geoApprox": false
   },
   {
     "id": 680,
@@ -10580,7 +11259,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.542226,
-    "lng": 126.839469
+    "lng": 126.839469,
+    "geoApprox": false
   },
   {
     "id": 681,
@@ -10597,7 +11277,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.jgwoman.or.kr",
     "lat": 37.55318,
-    "lng": 127.00912
+    "lng": 127.00912,
+    "geoApprox": true
   },
   {
     "id": 682,
@@ -10612,7 +11293,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5074,
-    "lng": 127.0626
+    "lng": 127.0626,
+    "geoApprox": true
   },
   {
     "id": 683,
@@ -10627,7 +11309,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5213989,
-    "lng": 126.9302334
+    "lng": 126.9302334,
+    "geoApprox": false
   },
   {
     "id": 684,
@@ -10642,7 +11325,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://rapha-rehab.co.kr",
     "lat": 37.5422,
-    "lng": 126.9747
+    "lng": 126.9747,
+    "geoApprox": true
   },
   {
     "id": 685,
@@ -10661,7 +11345,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47138,
-    "lng": 127.02152
+    "lng": 127.02152,
+    "geoApprox": true
   },
   {
     "id": 686,
@@ -10676,7 +11361,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sihf.or.kr",
     "lat": 37.4995563,
-    "lng": 126.9081492
+    "lng": 126.9081492,
+    "geoApprox": false
   },
   {
     "id": 687,
@@ -10691,7 +11377,8 @@ window.VOUCHERS = [
     ],
     "homepage": "newpass.co.kr",
     "lat": 37.49008,
-    "lng": 126.88502
+    "lng": 126.88502,
+    "geoApprox": true
   },
   {
     "id": 688,
@@ -10706,7 +11393,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gd-hscook.com/main/index.do",
     "lat": 37.54214,
-    "lng": 127.11656
+    "lng": 127.11656,
+    "geoApprox": true
   },
   {
     "id": 689,
@@ -10721,7 +11409,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangnam.sbsgameacademy.com",
     "lat": 37.47474,
-    "lng": 127.03376
+    "lng": 127.03376,
+    "geoApprox": true
   },
   {
     "id": 690,
@@ -10738,7 +11427,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.gosipoco.co.kr",
     "lat": 37.5365475,
-    "lng": 127.0847528
+    "lng": 127.0847528,
+    "geoApprox": false
   },
   {
     "id": 691,
@@ -10757,7 +11447,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.longlearn.go.kr",
     "lat": 37.4911461,
-    "lng": 127.073598
+    "lng": 127.073598,
+    "geoApprox": false
   },
   {
     "id": 692,
@@ -10772,7 +11463,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ringleplus.kr",
     "lat": 37.5057026,
-    "lng": 127.0517173
+    "lng": 127.0517173,
+    "geoApprox": false
   },
   {
     "id": 693,
@@ -10788,7 +11480,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.ccpe.co.kr",
     "lat": 37.50824,
-    "lng": 127.04866
+    "lng": 127.04866,
+    "geoApprox": true
   },
   {
     "id": 694,
@@ -10803,7 +11496,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://blog.naver.com/zioverbodycare",
     "lat": 37.53648,
-    "lng": 126.89892
+    "lng": 126.89892,
+    "geoApprox": true
   },
   {
     "id": 695,
@@ -10818,7 +11512,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/gbedu",
     "lat": 37.5819,
-    "lng": 126.947
+    "lng": 126.947,
+    "geoApprox": true
   },
   {
     "id": 696,
@@ -10839,7 +11534,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gurovision.org/",
     "lat": 37.48644,
-    "lng": 126.88876
+    "lng": 126.88876,
+    "geoApprox": true
   },
   {
     "id": 697,
@@ -10854,7 +11550,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kec.sc.kr",
     "lat": 37.5600351,
-    "lng": 126.9907291
+    "lng": 126.9907291,
+    "geoApprox": false
   },
   {
     "id": 698,
@@ -10872,7 +11569,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://scec.sogang.ac.kr/",
     "lat": 37.5520909,
-    "lng": 126.9409875
+    "lng": 126.9409875,
+    "geoApprox": false
   },
   {
     "id": 699,
@@ -10887,7 +11585,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.unisense.co.kr",
     "lat": 37.5569749,
-    "lng": 126.9223959
+    "lng": 126.9223959,
+    "geoApprox": false
   },
   {
     "id": 700,
@@ -10902,7 +11601,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5125024,
-    "lng": 127.0211574
+    "lng": 127.0211574,
+    "geoApprox": false
   },
   {
     "id": 701,
@@ -10917,7 +11617,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.musicstory1.co.kr/",
     "lat": 37.5053589,
-    "lng": 126.8893713
+    "lng": 126.8893713,
+    "geoApprox": false
   },
   {
     "id": 702,
@@ -10932,7 +11633,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.urichina.com",
     "lat": 37.5462664,
-    "lng": 126.9521231
+    "lng": 126.9521231,
+    "geoApprox": false
   },
   {
     "id": 703,
@@ -10951,7 +11653,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4729259,
-    "lng": 126.9338743
+    "lng": 126.9338743,
+    "geoApprox": false
   },
   {
     "id": 704,
@@ -10969,7 +11672,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.job2060.or.kr/",
     "lat": 37.5772585,
-    "lng": 127.0301327
+    "lng": 127.0301327,
+    "geoApprox": false
   },
   {
     "id": 705,
@@ -10984,7 +11688,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52248,
-    "lng": 126.94202
+    "lng": 126.94202,
+    "geoApprox": true
   },
   {
     "id": 706,
@@ -10999,7 +11704,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://intotheharmonica.creatorlink.net",
     "lat": 37.47196,
-    "lng": 126.94514
+    "lng": 126.94514,
+    "geoApprox": true
   },
   {
     "id": 707,
@@ -11014,7 +11720,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://map.naver.com/p/entry/place/1548637451?placePath=%252Fhome%253Fentry%253Dplt&searchType=plac",
     "lat": 37.6215391,
-    "lng": 127.0824278
+    "lng": 127.0824278,
+    "geoApprox": false
   },
   {
     "id": 708,
@@ -11029,7 +11736,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5010741,
-    "lng": 126.8438229
+    "lng": 126.8438229,
+    "geoApprox": false
   },
   {
     "id": 709,
@@ -11044,7 +11752,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.languagesharp.net",
     "lat": 37.48818,
-    "lng": 127.04872
+    "lng": 127.04872,
+    "geoApprox": true
   },
   {
     "id": 710,
@@ -11059,7 +11768,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5257,
-    "lng": 127.1127
+    "lng": 127.1127,
+    "geoApprox": true
   },
   {
     "id": 711,
@@ -11074,7 +11784,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hscook.com/",
     "lat": 37.6547731,
-    "lng": 127.0600443
+    "lng": 127.0600443,
+    "geoApprox": false
   },
   {
     "id": 712,
@@ -11089,7 +11800,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.50806,
-    "lng": 127.09944
+    "lng": 127.09944,
+    "geoApprox": true
   },
   {
     "id": 713,
@@ -11109,7 +11821,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.fgedu.co.kr",
     "lat": 37.667449,
-    "lng": 127.041097
+    "lng": 127.041097,
+    "geoApprox": false
   },
   {
     "id": 714,
@@ -11124,7 +11837,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/nemohome",
     "lat": 37.65984,
-    "lng": 127.04846
+    "lng": 127.04846,
+    "geoApprox": true
   },
   {
     "id": 715,
@@ -11139,7 +11853,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.hanbit.co.kr",
     "lat": 37.56986,
-    "lng": 126.92014
+    "lng": 126.92014,
+    "geoApprox": true
   },
   {
     "id": 716,
@@ -11154,7 +11869,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/myfineart/223792135258",
     "lat": 37.6269257,
-    "lng": 127.0795755
+    "lng": 127.0795755,
+    "geoApprox": false
   },
   {
     "id": 717,
@@ -11170,7 +11886,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.jungnang.go.kr/study/main.do",
     "lat": 37.6005659,
-    "lng": 127.1015047
+    "lng": 127.1015047,
+    "geoApprox": false
   },
   {
     "id": 718,
@@ -11185,7 +11902,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/newbornpilates",
     "lat": 37.5165123,
-    "lng": 126.9060848
+    "lng": 126.9060848,
+    "geoApprox": false
   },
   {
     "id": 719,
@@ -11200,7 +11918,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.allworkedu.co.kr",
     "lat": 37.49266,
-    "lng": 127.03104
+    "lng": 127.03104,
+    "geoApprox": true
   },
   {
     "id": 720,
@@ -11215,7 +11934,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.jrit.or.kr/",
     "lat": 37.5983945,
-    "lng": 127.0918305
+    "lng": 127.0918305,
+    "geoApprox": false
   },
   {
     "id": 721,
@@ -11230,7 +11950,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.644019,
-    "lng": 127.0226811
+    "lng": 127.0226811,
+    "geoApprox": false
   },
   {
     "id": 722,
@@ -11245,7 +11966,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://newificampus.com",
     "lat": 37.4857086,
-    "lng": 127.1204659
+    "lng": 127.1204659,
+    "geoApprox": false
   },
   {
     "id": 723,
@@ -11260,7 +11982,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.496471,
-    "lng": 126.908618
+    "lng": 126.908618,
+    "geoApprox": false
   },
   {
     "id": 724,
@@ -11276,7 +11999,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://mirae.hanyang.ac.kr/front/ko",
     "lat": 37.5569876,
-    "lng": 127.0470893
+    "lng": 127.0470893,
+    "geoApprox": false
   },
   {
     "id": 725,
@@ -11291,7 +12015,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/clpilates_7",
     "lat": 37.63372,
-    "lng": 127.02128
+    "lng": 127.02128,
+    "geoApprox": true
   },
   {
     "id": 726,
@@ -11306,7 +12031,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.sdulife.com/index_edu.asp",
     "lat": 37.5430664,
-    "lng": 126.9476356
+    "lng": 126.9476356,
+    "geoApprox": false
   },
   {
     "id": 727,
@@ -11321,7 +12047,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.pmg.co.kr/user/pno/main.asp",
     "lat": 37.5132656,
-    "lng": 126.9421684
+    "lng": 126.9421684,
+    "geoApprox": false
   },
   {
     "id": 728,
@@ -11338,7 +12065,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.instagram.com/kkotdanji5293/",
     "lat": 37.5941485,
-    "lng": 127.0865334
+    "lng": 127.0865334,
+    "geoApprox": false
   },
   {
     "id": 729,
@@ -11353,7 +12081,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.477709,
-    "lng": 126.8898286
+    "lng": 126.8898286,
+    "geoApprox": false
   },
   {
     "id": 730,
@@ -11371,7 +12100,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/nsedu35",
     "lat": 37.5750861,
-    "lng": 127.0247257
+    "lng": 127.0247257,
+    "geoApprox": false
   },
   {
     "id": 731,
@@ -11386,7 +12116,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.igsc.kr",
     "lat": 37.4772556,
-    "lng": 126.883671
+    "lng": 126.883671,
+    "geoApprox": false
   },
   {
     "id": 732,
@@ -11401,7 +12132,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hidi.co.kr/",
     "lat": 37.68224,
-    "lng": 127.06206
+    "lng": 127.06206,
+    "geoApprox": true
   },
   {
     "id": 733,
@@ -11416,7 +12148,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55818,
-    "lng": 126.84202
+    "lng": 126.84202,
+    "geoApprox": true
   },
   {
     "id": 734,
@@ -11431,7 +12164,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hrd-inup.co.kr/",
     "lat": 37.48426,
-    "lng": 127.03444
+    "lng": 127.03444,
+    "geoApprox": true
   },
   {
     "id": 735,
@@ -11446,7 +12180,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.63652,
-    "lng": 127.03148
+    "lng": 127.03148,
+    "geoApprox": true
   },
   {
     "id": 736,
@@ -11463,7 +12198,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.instagram.com/maumsmile",
     "lat": 37.50572,
-    "lng": 127.05648
+    "lng": 127.05648,
+    "geoApprox": true
   },
   {
     "id": 737,
@@ -11478,7 +12214,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.podopilates.co.kr/",
     "lat": 37.5203639,
-    "lng": 126.9303637
+    "lng": 126.9303637,
+    "geoApprox": false
   },
   {
     "id": 738,
@@ -11493,7 +12230,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.bnplab.org",
     "lat": 37.47222,
-    "lng": 127.04158
+    "lng": 127.04158,
+    "geoApprox": true
   },
   {
     "id": 739,
@@ -11510,7 +12248,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.nowonvision.org",
     "lat": 37.65336,
-    "lng": 127.07074
+    "lng": 127.07074,
+    "geoApprox": true
   },
   {
     "id": 740,
@@ -11525,7 +12264,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/clpilates6",
     "lat": 37.50862,
-    "lng": 127.10148
+    "lng": 127.10148,
+    "geoApprox": true
   },
   {
     "id": 741,
@@ -11540,7 +12280,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com",
     "lat": 37.5586708,
-    "lng": 126.8321705
+    "lng": 126.8321705,
+    "geoApprox": false
   },
   {
     "id": 742,
@@ -11555,7 +12296,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.hyundai-ngv.com/",
     "lat": 37.458115,
-    "lng": 126.9521607
+    "lng": 126.9521607,
+    "geoApprox": false
   },
   {
     "id": 743,
@@ -11570,7 +12312,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sidaegosi.com",
     "lat": 37.5412012,
-    "lng": 126.9462893
+    "lng": 126.9462893,
+    "geoApprox": false
   },
   {
     "id": 744,
@@ -11585,7 +12328,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5117931,
-    "lng": 127.1092468
+    "lng": 127.1092468,
+    "geoApprox": false
   },
   {
     "id": 745,
@@ -11600,7 +12344,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50358,
-    "lng": 127.11712
+    "lng": 127.11712,
+    "geoApprox": true
   },
   {
     "id": 746,
@@ -11615,7 +12360,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://realmovement.imweb.me/",
     "lat": 37.545742,
-    "lng": 127.0546166
+    "lng": 127.0546166,
+    "geoApprox": false
   },
   {
     "id": 747,
@@ -11630,7 +12376,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.678445,
-    "lng": 127.053122
+    "lng": 127.053122,
+    "geoApprox": false
   },
   {
     "id": 748,
@@ -11645,7 +12392,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hopenuri2024.mycafe24.com/",
     "lat": 37.52288,
-    "lng": 126.87082
+    "lng": 126.87082,
+    "geoApprox": true
   },
   {
     "id": 749,
@@ -11660,7 +12408,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.nhhanc.com",
     "lat": 37.5080209,
-    "lng": 127.0223226
+    "lng": 127.0223226,
+    "geoApprox": false
   },
   {
     "id": 750,
@@ -11675,7 +12424,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://luxbitart.co.kr/",
     "lat": 37.5592309,
-    "lng": 126.9568111
+    "lng": 126.9568111,
+    "geoApprox": false
   },
   {
     "id": 751,
@@ -11690,7 +12440,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.collars.co.kr",
     "lat": 37.5704,
-    "lng": 127.0454
+    "lng": 127.0454,
+    "geoApprox": true
   },
   {
     "id": 752,
@@ -11705,7 +12456,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.tmsarang.net",
     "lat": 37.57412,
-    "lng": 127.05558
+    "lng": 127.05558,
+    "geoApprox": true
   },
   {
     "id": 753,
@@ -11720,7 +12472,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.mapovision.org",
     "lat": 37.56966,
-    "lng": 126.91414
+    "lng": 126.91414,
+    "geoApprox": true
   },
   {
     "id": 754,
@@ -11735,7 +12488,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.44598,
-    "lng": 126.90672
+    "lng": 126.90672,
+    "geoApprox": true
   },
   {
     "id": 755,
@@ -11753,7 +12507,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.dobong.go.kr/",
     "lat": 37.662079,
-    "lng": 127.027718
+    "lng": 127.027718,
+    "geoApprox": false
   },
   {
     "id": 756,
@@ -11768,7 +12523,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://naver.me/F6lRCmSJ",
     "lat": 37.59752,
-    "lng": 127.02928
+    "lng": 127.02928,
+    "geoApprox": true
   },
   {
     "id": 757,
@@ -11783,7 +12539,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://booking.naver.com/booking/13/bizes/1423445?theme=place&entry=pll&lang=ko&area=pll",
     "lat": 37.5589529,
-    "lng": 126.8392541
+    "lng": 126.8392541,
+    "geoApprox": false
   },
   {
     "id": 758,
@@ -11799,7 +12556,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5125024,
-    "lng": 127.0211574
+    "lng": 127.0211574,
+    "geoApprox": false
   },
   {
     "id": 759,
@@ -11814,7 +12572,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafeone.co.kr/",
     "lat": 37.60578,
-    "lng": 126.92332
+    "lng": 126.92332,
+    "geoApprox": true
   },
   {
     "id": 760,
@@ -11829,7 +12588,8 @@ window.VOUCHERS = [
     ],
     "homepage": "mg.theartacademy.co.kr",
     "lat": 37.5584937,
-    "lng": 126.8252126
+    "lng": 126.8252126,
+    "geoApprox": false
   },
   {
     "id": 761,
@@ -11849,7 +12609,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yahak.org",
     "lat": 37.5614229,
-    "lng": 127.0224603
+    "lng": 127.0224603,
+    "geoApprox": false
   },
   {
     "id": 762,
@@ -11864,7 +12625,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://art-ate.com",
     "lat": 37.5100554,
-    "lng": 127.083969
+    "lng": 127.083969,
+    "geoApprox": false
   },
   {
     "id": 763,
@@ -11879,7 +12641,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yeinedu.com",
     "lat": 37.541254,
-    "lng": 126.83989
+    "lng": 126.83989,
+    "geoApprox": false
   },
   {
     "id": 764,
@@ -11894,7 +12657,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.gdcedu.com/home/main/main.jsp",
     "lat": 37.53942,
-    "lng": 126.85868
+    "lng": 126.85868,
+    "geoApprox": true
   },
   {
     "id": 765,
@@ -11910,7 +12674,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.songpa1.co.kr",
     "lat": 37.50862,
-    "lng": 127.10148
+    "lng": 127.10148,
+    "geoApprox": true
   },
   {
     "id": 766,
@@ -11925,7 +12690,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ucp.or.kr/",
     "lat": 37.56314,
-    "lng": 126.99226
+    "lng": 126.99226,
+    "geoApprox": true
   },
   {
     "id": 767,
@@ -11940,7 +12706,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sabok.edu2080.co.kr/",
     "lat": 37.4985696,
-    "lng": 127.0257413
+    "lng": 127.0257413,
+    "geoApprox": false
   },
   {
     "id": 768,
@@ -11955,7 +12722,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5291766,
-    "lng": 127.1357576
+    "lng": 127.1357576,
+    "geoApprox": false
   },
   {
     "id": 769,
@@ -11970,7 +12738,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/1gspilates",
     "lat": 37.556477,
-    "lng": 126.9553226
+    "lng": 126.9553226,
+    "geoApprox": false
   },
   {
     "id": 770,
@@ -11985,7 +12754,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.shuvpilates.com",
     "lat": 37.5664338,
-    "lng": 127.0247848
+    "lng": 127.0247848,
+    "geoApprox": false
   },
   {
     "id": 771,
@@ -12000,7 +12770,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5670627,
-    "lng": 126.8186193
+    "lng": 126.8186193,
+    "geoApprox": false
   },
   {
     "id": 772,
@@ -12015,7 +12786,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/sadang",
     "lat": 37.52248,
-    "lng": 126.94202
+    "lng": 126.94202,
+    "geoApprox": true
   },
   {
     "id": 773,
@@ -12030,7 +12802,8 @@ window.VOUCHERS = [
     ],
     "homepage": "hanseonmo.com",
     "lat": 37.55986,
-    "lng": 126.84814
+    "lng": 126.84814,
+    "geoApprox": true
   },
   {
     "id": 774,
@@ -12046,7 +12819,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://seocho.seoulwomanup.or.kr/",
     "lat": 37.49462,
-    "lng": 127.02118
+    "lng": 127.02118,
+    "geoApprox": true
   },
   {
     "id": 775,
@@ -12061,7 +12835,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hanilcom.com",
     "lat": 37.54326,
-    "lng": 127.08264
+    "lng": 127.08264,
+    "geoApprox": true
   },
   {
     "id": 776,
@@ -12080,7 +12855,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/hanstyle2026",
     "lat": 37.5222772,
-    "lng": 127.0547746
+    "lng": 127.0547746,
+    "geoApprox": false
   },
   {
     "id": 777,
@@ -12095,7 +12871,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.101phone.co.kr",
     "lat": 37.50358,
-    "lng": 127.11712
+    "lng": 127.11712,
+    "geoApprox": true
   },
   {
     "id": 778,
@@ -12110,7 +12887,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://winspec.co.kr/",
     "lat": 37.50824,
-    "lng": 127.04866
+    "lng": 127.04866,
+    "geoApprox": true
   },
   {
     "id": 779,
@@ -12125,7 +12903,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://onecookacademy.creatorlink.net/",
     "lat": 37.5425,
-    "lng": 126.8529
+    "lng": 126.8529,
+    "geoApprox": true
   },
   {
     "id": 780,
@@ -12140,7 +12919,8 @@ window.VOUCHERS = [
     ],
     "homepage": "huspeech.com",
     "lat": 37.4966894,
-    "lng": 127.0304206
+    "lng": 127.0304206,
+    "geoApprox": false
   },
   {
     "id": 781,
@@ -12155,7 +12935,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://kfp.re.kr",
     "lat": 37.5267977,
-    "lng": 127.0407234
+    "lng": 127.0407234,
+    "geoApprox": false
   },
   {
     "id": 782,
@@ -12170,7 +12951,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hackers.com/voucher.html",
     "lat": 37.4879,
-    "lng": 127.0307
+    "lng": 127.0307,
+    "geoApprox": true
   },
   {
     "id": 783,
@@ -12185,7 +12967,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://e4u.ybmedu.com/hakwon/center/center_main.asp",
     "lat": 37.56678,
-    "lng": 126.98852
+    "lng": 126.98852,
+    "geoApprox": true
   },
   {
     "id": 784,
@@ -12200,7 +12983,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.sisacook.com/",
     "lat": 37.50712,
-    "lng": 127.04458
+    "lng": 127.04458,
+    "geoApprox": true
   },
   {
     "id": 785,
@@ -12215,7 +12999,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5114,
-    "lng": 126.88
+    "lng": 126.88,
+    "geoApprox": true
   },
   {
     "id": 786,
@@ -12230,7 +13015,8 @@ window.VOUCHERS = [
     ],
     "homepage": "gangnam.sbsart.com",
     "lat": 37.4809,
-    "lng": 127.0222
+    "lng": 127.0222,
+    "geoApprox": true
   },
   {
     "id": 787,
@@ -12245,7 +13031,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.48202,
-    "lng": 127.02628
+    "lng": 127.02628,
+    "geoApprox": true
   },
   {
     "id": 788,
@@ -12262,7 +13049,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://adult.duksung.ac.kr/",
     "lat": 37.5595,
-    "lng": 126.962
+    "lng": 126.962,
+    "geoApprox": true
   },
   {
     "id": 789,
@@ -12277,7 +13065,8 @@ window.VOUCHERS = [
     ],
     "homepage": "운전면허학원.kr",
     "lat": 37.48728,
-    "lng": 126.87482
+    "lng": 126.87482,
+    "geoApprox": true
   },
   {
     "id": 790,
@@ -12293,7 +13082,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.edukmc.com/",
     "lat": 37.5605552,
-    "lng": 127.0665542
+    "lng": 127.0665542,
+    "geoApprox": false
   },
   {
     "id": 791,
@@ -12308,7 +13098,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://cafe.naver.com/newaeon",
     "lat": 37.47222,
-    "lng": 127.04158
+    "lng": 127.04158,
+    "geoApprox": true
   },
   {
     "id": 792,
@@ -12323,7 +13114,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gangseo.atelierkorea.com/",
     "lat": 37.51028,
-    "lng": 126.87592
+    "lng": 126.87592,
+    "geoApprox": true
   },
   {
     "id": 793,
@@ -12341,7 +13133,8 @@ window.VOUCHERS = [
     ],
     "homepage": "yerihan.com",
     "lat": 37.563429,
-    "lng": 126.9934452
+    "lng": 126.9934452,
+    "geoApprox": false
   },
   {
     "id": 794,
@@ -12356,7 +13149,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5027268,
-    "lng": 127.0983432
+    "lng": 127.0983432,
+    "geoApprox": false
   },
   {
     "id": 795,
@@ -12371,7 +13165,8 @@ window.VOUCHERS = [
     ],
     "homepage": "carewith.co.kr",
     "lat": 37.6472,
-    "lng": 127.0483
+    "lng": 127.0483,
+    "geoApprox": true
   },
   {
     "id": 796,
@@ -12386,7 +13181,8 @@ window.VOUCHERS = [
     ],
     "homepage": "lab.siwonschool.com",
     "lat": 37.5229322,
-    "lng": 126.9022224
+    "lng": 126.9022224,
+    "geoApprox": false
   },
   {
     "id": 797,
@@ -12401,7 +13197,8 @@ window.VOUCHERS = [
     ],
     "homepage": "globalinnoedu.com",
     "lat": 37.5144234,
-    "lng": 126.8993143
+    "lng": 126.8993143,
+    "geoApprox": false
   },
   {
     "id": 798,
@@ -12416,7 +13213,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.542443,
-    "lng": 127.124509
+    "lng": 127.124509,
+    "geoApprox": false
   },
   {
     "id": 799,
@@ -12431,7 +13229,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.51748,
-    "lng": 127.03132
+    "lng": 127.03132,
+    "geoApprox": true
   },
   {
     "id": 800,
@@ -12446,7 +13245,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://seabc.co.kr/",
     "lat": 37.5088,
-    "lng": 127.0507
+    "lng": 127.0507,
+    "geoApprox": true
   },
   {
     "id": 801,
@@ -12461,7 +13261,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6567466,
-    "lng": 127.0399775
+    "lng": 127.0399775,
+    "geoApprox": false
   },
   {
     "id": 802,
@@ -12476,7 +13277,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.lcampus.co.kr/",
     "lat": 37.4808373,
-    "lng": 126.8821596
+    "lng": 126.8821596,
+    "geoApprox": false
   },
   {
     "id": 803,
@@ -12491,7 +13293,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://mg.theartpet.co.kr/",
     "lat": 37.5584937,
-    "lng": 126.8252126
+    "lng": 126.8252126,
+    "geoApprox": false
   },
   {
     "id": 804,
@@ -12506,7 +13309,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://art-ate.com",
     "lat": 37.5541728,
-    "lng": 126.9256397
+    "lng": 126.9256397,
+    "geoApprox": false
   },
   {
     "id": 805,
@@ -12522,7 +13326,8 @@ window.VOUCHERS = [
     ],
     "homepage": "mylight.co.kr",
     "lat": 37.503382,
-    "lng": 127.0415998
+    "lng": 127.0415998,
+    "geoApprox": false
   },
   {
     "id": 806,
@@ -12537,7 +13342,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/hhszoro",
     "lat": 37.5567956,
-    "lng": 126.9348107
+    "lng": 126.9348107,
+    "geoApprox": false
   },
   {
     "id": 807,
@@ -12553,7 +13359,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.st.ac.kr",
     "lat": 37.558209,
-    "lng": 127.0791727
+    "lng": 127.0791727,
+    "geoApprox": false
   },
   {
     "id": 808,
@@ -12568,7 +13375,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55062,
-    "lng": 126.86548
+    "lng": 126.86548,
+    "geoApprox": true
   },
   {
     "id": 809,
@@ -12583,7 +13391,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://quat.life/",
     "lat": 37.4992903,
-    "lng": 127.0359666
+    "lng": 127.0359666,
+    "geoApprox": false
   },
   {
     "id": 810,
@@ -12598,7 +13407,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.bompilates.com",
     "lat": 37.486136,
-    "lng": 126.9472851
+    "lng": 126.9472851,
+    "geoApprox": false
   },
   {
     "id": 811,
@@ -12613,7 +13423,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5071945,
-    "lng": 127.1095026
+    "lng": 127.1095026,
+    "geoApprox": false
   },
   {
     "id": 812,
@@ -12628,7 +13439,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.koreahrd.org/",
     "lat": 37.5229,
-    "lng": 127.1025
+    "lng": 127.1025,
+    "geoApprox": true
   },
   {
     "id": 813,
@@ -12644,7 +13456,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6552152,
-    "lng": 127.063518
+    "lng": 127.063518,
+    "geoApprox": false
   },
   {
     "id": 814,
@@ -12659,7 +13472,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.edu2080.co.kr",
     "lat": 37.4985696,
-    "lng": 127.0257413
+    "lng": 127.0257413,
+    "geoApprox": false
   },
   {
     "id": 815,
@@ -12674,7 +13488,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://with-piano.com",
     "lat": 37.52868,
-    "lng": 127.03812
+    "lng": 127.03812,
+    "geoApprox": true
   },
   {
     "id": 816,
@@ -12689,7 +13504,8 @@ window.VOUCHERS = [
     ],
     "homepage": "edu.dizzo.com",
     "lat": 37.56298,
-    "lng": 126.99382
+    "lng": 126.99382,
+    "geoApprox": true
   },
   {
     "id": 817,
@@ -12704,7 +13520,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.seocho-edu.or.kr",
     "lat": 37.47978,
-    "lng": 127.01812
+    "lng": 127.01812,
+    "geoApprox": true
   },
   {
     "id": 818,
@@ -12719,7 +13536,8 @@ window.VOUCHERS = [
     ],
     "homepage": "kses.kr",
     "lat": 37.5310819,
-    "lng": 126.9700577
+    "lng": 126.9700577,
+    "geoApprox": false
   },
   {
     "id": 819,
@@ -12734,7 +13552,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://datarian.io/",
     "lat": 37.5487442,
-    "lng": 127.0438843
+    "lng": 127.0438843,
+    "geoApprox": false
   },
   {
     "id": 820,
@@ -12751,7 +13570,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://taiwha.or.kr/",
     "lat": 37.4847225,
-    "lng": 127.0935055
+    "lng": 127.0935055,
+    "geoApprox": false
   },
   {
     "id": 821,
@@ -12766,7 +13586,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.theshowproject.com",
     "lat": 37.57124,
-    "lng": 127.03146
+    "lng": 127.03146,
+    "geoApprox": true
   },
   {
     "id": 822,
@@ -12781,7 +13602,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.579816,
-    "lng": 127.083686
+    "lng": 127.083686,
+    "geoApprox": false
   },
   {
     "id": 823,
@@ -12799,7 +13621,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://open.sookmyung.ac.kr/fro_end/html/main/#none",
     "lat": 37.53212,
-    "lng": 127.00598
+    "lng": 127.00598,
+    "geoApprox": true
   },
   {
     "id": 824,
@@ -12814,7 +13637,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/jjzzang72",
     "lat": 37.5559671,
-    "lng": 127.0110311
+    "lng": 127.0110311,
+    "geoApprox": false
   },
   {
     "id": 825,
@@ -12829,7 +13653,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.현대중장비학원.com",
     "lat": 37.54782,
-    "lng": 126.85528
+    "lng": 126.85528,
+    "geoApprox": true
   },
   {
     "id": 826,
@@ -12848,7 +13673,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.egreen.or.kr/",
     "lat": 37.54866,
-    "lng": 126.84134
+    "lng": 126.84134,
+    "geoApprox": true
   },
   {
     "id": 827,
@@ -12863,7 +13689,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.caedu.co.kr/",
     "lat": 37.49512,
-    "lng": 126.90338
+    "lng": 126.90338,
+    "geoApprox": true
   },
   {
     "id": 828,
@@ -12878,7 +13705,8 @@ window.VOUCHERS = [
     ],
     "homepage": "sdc.or.kr",
     "lat": 37.5410151,
-    "lng": 126.9734275
+    "lng": 126.9734275,
+    "geoApprox": false
   },
   {
     "id": 829,
@@ -12897,7 +13725,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/dcm1002",
     "lat": 37.5582067,
-    "lng": 126.8280692
+    "lng": 126.8280692,
+    "geoApprox": false
   },
   {
     "id": 830,
@@ -12914,7 +13743,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://event.eduwill.net/Event/2023/0/Education_Voucher",
     "lat": 37.50464,
-    "lng": 126.90406
+    "lng": 126.90406,
+    "geoApprox": true
   },
   {
     "id": 831,
@@ -12929,7 +13759,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5147762,
-    "lng": 127.0427368
+    "lng": 127.0427368,
+    "geoApprox": false
   },
   {
     "id": 832,
@@ -12944,7 +13775,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5508885,
-    "lng": 126.8365256
+    "lng": 126.8365256,
+    "geoApprox": false
   },
   {
     "id": 833,
@@ -12959,7 +13791,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kotga.or.kr/",
     "lat": 37.565276,
-    "lng": 127.027669
+    "lng": 127.027669,
+    "geoApprox": false
   },
   {
     "id": 834,
@@ -12977,7 +13810,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.silwel.or.kr/v2/index.php",
     "lat": 37.4831739,
-    "lng": 126.9410966
+    "lng": 126.9410966,
+    "geoApprox": false
   },
   {
     "id": 835,
@@ -12992,7 +13826,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.daehan1.com/",
     "lat": 37.50834,
-    "lng": 127.11746
+    "lng": 127.11746,
+    "geoApprox": true
   },
   {
     "id": 836,
@@ -13007,7 +13842,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://rebornpilates.com/",
     "lat": 37.5419034,
-    "lng": 126.9498186
+    "lng": 126.9498186,
+    "geoApprox": false
   },
   {
     "id": 837,
@@ -13022,7 +13858,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.baeulhak.com/",
     "lat": 37.56964,
-    "lng": 127.03926
+    "lng": 127.03926,
+    "geoApprox": true
   },
   {
     "id": 838,
@@ -13037,7 +13874,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5721914,
-    "lng": 127.0483418
+    "lng": 127.0483418,
+    "geoApprox": false
   },
   {
     "id": 839,
@@ -13052,7 +13890,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6034703,
-    "lng": 127.0371152
+    "lng": 127.0371152,
+    "geoApprox": false
   },
   {
     "id": 840,
@@ -13068,7 +13907,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/amuryum/224153238035",
     "lat": 37.51352,
-    "lng": 126.88328
+    "lng": 126.88328,
+    "geoApprox": true
   },
   {
     "id": 841,
@@ -13083,7 +13923,8 @@ window.VOUCHERS = [
     ],
     "homepage": "jn.firstcoffee.co.kr",
     "lat": 37.58358,
-    "lng": 126.98172
+    "lng": 126.98172,
+    "geoApprox": true
   },
   {
     "id": 842,
@@ -13098,7 +13939,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.gibbun.or.kr",
     "lat": 37.56126,
-    "lng": 126.83624
+    "lng": 126.83624,
+    "geoApprox": true
   },
   {
     "id": 843,
@@ -13113,7 +13955,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.miraelicense.com/",
     "lat": 37.513017,
-    "lng": 126.939945
+    "lng": 126.939945,
+    "geoApprox": false
   },
   {
     "id": 844,
@@ -13130,7 +13973,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://daily.siwonschool.com/",
     "lat": 37.5229322,
-    "lng": 126.9022224
+    "lng": 126.9022224,
+    "geoApprox": false
   },
   {
     "id": 845,
@@ -13146,7 +13990,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5075709,
-    "lng": 127.0923868
+    "lng": 127.0923868,
+    "geoApprox": false
   },
   {
     "id": 846,
@@ -13161,7 +14006,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.cmimusic.kr",
     "lat": 37.65196,
-    "lng": 127.04864
+    "lng": 127.04864,
+    "geoApprox": true
   },
   {
     "id": 847,
@@ -13176,7 +14022,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://hongdai.kcookart.com/",
     "lat": 37.5571273,
-    "lng": 126.9236034
+    "lng": 126.9236034,
+    "geoApprox": false
   },
   {
     "id": 848,
@@ -13191,7 +14038,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5508119,
-    "lng": 127.0907165
+    "lng": 127.0907165,
+    "geoApprox": false
   },
   {
     "id": 849,
@@ -13208,7 +14056,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://ma.pulip.kr/",
     "lat": 37.62672,
-    "lng": 127.01278
+    "lng": 127.01278,
+    "geoApprox": true
   },
   {
     "id": 850,
@@ -13223,7 +14072,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.kjcc.or.kr/",
     "lat": 37.54942,
-    "lng": 127.07108
+    "lng": 127.07108,
+    "geoApprox": true
   },
   {
     "id": 851,
@@ -13238,7 +14088,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6518065,
-    "lng": 127.0608976
+    "lng": 127.0608976,
+    "geoApprox": false
   },
   {
     "id": 852,
@@ -13253,7 +14104,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://homkeullin.co.kr/",
     "lat": 37.65052,
-    "lng": 127.01448
+    "lng": 127.01448,
+    "geoApprox": true
   },
   {
     "id": 853,
@@ -13268,7 +14120,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.rebornpilates.com",
     "lat": 37.5033063,
-    "lng": 126.8810839
+    "lng": 126.8810839,
+    "geoApprox": false
   },
   {
     "id": 854,
@@ -13283,7 +14136,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5024662,
-    "lng": 127.0236375
+    "lng": 127.0236375,
+    "geoApprox": false
   },
   {
     "id": 855,
@@ -13298,7 +14152,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sjsrea.co.kr",
     "lat": 37.65676,
-    "lng": 127.05424
+    "lng": 127.05424,
+    "geoApprox": true
   },
   {
     "id": 856,
@@ -13319,7 +14174,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://life.gangnam.go.kr/fmcs/1",
     "lat": 37.53092,
-    "lng": 127.04628
+    "lng": 127.04628,
+    "geoApprox": true
   },
   {
     "id": 857,
@@ -13334,7 +14190,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://newave.modoo.at/",
     "lat": 37.54074,
-    "lng": 127.12846
+    "lng": 127.12846,
+    "geoApprox": true
   },
   {
     "id": 858,
@@ -13349,7 +14206,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ybmclass.com",
     "lat": 37.58358,
-    "lng": 126.98172
+    "lng": 126.98172,
+    "geoApprox": true
   },
   {
     "id": 859,
@@ -13366,7 +14224,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.gctogether.org",
     "lat": 37.4555,
-    "lng": 126.9074
+    "lng": 126.9074,
+    "geoApprox": true
   },
   {
     "id": 860,
@@ -13385,7 +14244,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.49876,
-    "lng": 126.89964
+    "lng": 126.89964,
+    "geoApprox": true
   },
   {
     "id": 861,
@@ -13400,7 +14260,8 @@ window.VOUCHERS = [
     ],
     "homepage": "dcyc.pulip.kr",
     "lat": 37.55258,
-    "lng": 126.85562
+    "lng": 126.85562,
+    "geoApprox": true
   },
   {
     "id": 862,
@@ -13415,7 +14276,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.instagram.com/yogi_tree_/",
     "lat": 37.54838,
-    "lng": 126.85732
+    "lng": 126.85732,
+    "geoApprox": true
   },
   {
     "id": 863,
@@ -13430,7 +14292,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://yeoksam.greenart.co.kr/?cam_idx=34",
     "lat": 37.5009437,
-    "lng": 127.026675
+    "lng": 127.026675,
+    "geoApprox": false
   },
   {
     "id": 864,
@@ -13450,7 +14313,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.lingoo.co.kr",
     "lat": 37.56676,
-    "lng": 127.04914
+    "lng": 127.04914,
+    "geoApprox": true
   },
   {
     "id": 865,
@@ -13465,7 +14329,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5054443,
-    "lng": 127.0470687
+    "lng": 127.0470687,
+    "geoApprox": false
   },
   {
     "id": 866,
@@ -13480,7 +14345,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.yadoc.co.kr",
     "lat": 37.4813997,
-    "lng": 126.8839016
+    "lng": 126.8839016,
+    "geoApprox": false
   },
   {
     "id": 867,
@@ -13495,7 +14361,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://culturecomplex.co.kr/?gad_source=1&gad_campaignid=21958844355&gbraid=0AAAAApwiuHj9TyUxSO3kfC",
     "lat": 37.52868,
-    "lng": 127.03812
+    "lng": 127.03812,
+    "geoApprox": true
   },
   {
     "id": 868,
@@ -13510,7 +14377,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55062,
-    "lng": 126.86548
+    "lng": 126.86548,
+    "geoApprox": true
   },
   {
     "id": 869,
@@ -13525,7 +14393,8 @@ window.VOUCHERS = [
     ],
     "homepage": "solviolin.com",
     "lat": 37.4808373,
-    "lng": 126.8821596
+    "lng": 126.8821596,
+    "geoApprox": false
   },
   {
     "id": 870,
@@ -13540,7 +14409,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edubank.hunet.co.kr/",
     "lat": 37.49568,
-    "lng": 126.87142
+    "lng": 126.87142,
+    "geoApprox": true
   },
   {
     "id": 871,
@@ -13557,7 +14427,8 @@ window.VOUCHERS = [
     ],
     "homepage": "shantiaromayoga.com",
     "lat": 37.47252,
-    "lng": 126.94718
+    "lng": 126.94718,
+    "geoApprox": true
   },
   {
     "id": 872,
@@ -13572,7 +14443,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.mediact.org",
     "lat": 37.5733,
-    "lng": 126.9104
+    "lng": 126.9104,
+    "geoApprox": true
   },
   {
     "id": 873,
@@ -13589,7 +14461,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.bbcenter.or.kr",
     "lat": 37.4767,
-    "lng": 127.0239
+    "lng": 127.0239,
+    "geoApprox": true
   },
   {
     "id": 874,
@@ -13604,7 +14477,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://art-ate.com",
     "lat": 37.5520269,
-    "lng": 127.1436853
+    "lng": 127.1436853,
+    "geoApprox": false
   },
   {
     "id": 875,
@@ -13619,7 +14493,8 @@ window.VOUCHERS = [
     ],
     "homepage": "edu.icrpw.com",
     "lat": 37.4597,
-    "lng": 126.9057
+    "lng": 126.9057,
+    "geoApprox": true
   },
   {
     "id": 876,
@@ -13635,7 +14510,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.sbwomen.or.kr",
     "lat": 37.56426,
-    "lng": 126.96234
+    "lng": 126.96234,
+    "geoApprox": true
   },
   {
     "id": 877,
@@ -13650,7 +14526,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/nightspp",
     "lat": 37.5571304,
-    "lng": 127.0806988
+    "lng": 127.0806988,
+    "geoApprox": false
   },
   {
     "id": 878,
@@ -13665,7 +14542,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.koreaedu.tv",
     "lat": 37.58106,
-    "lng": 126.98954
+    "lng": 126.98954,
+    "geoApprox": true
   },
   {
     "id": 879,
@@ -13680,7 +14558,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://vlabpilates.com/",
     "lat": 37.5675555,
-    "lng": 127.0271278
+    "lng": 127.0271278,
+    "geoApprox": false
   },
   {
     "id": 880,
@@ -13696,7 +14575,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nowon.sbsart.com",
     "lat": 37.6542,
-    "lng": 127.0568
+    "lng": 127.0568,
+    "geoApprox": true
   },
   {
     "id": 881,
@@ -13711,7 +14591,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/daehan1777",
     "lat": 37.6007,
-    "lng": 127.1063
+    "lng": 127.1063,
+    "geoApprox": true
   },
   {
     "id": 882,
@@ -13726,7 +14607,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4669097,
-    "lng": 126.8884175
+    "lng": 126.8884175,
+    "geoApprox": false
   },
   {
     "id": 883,
@@ -13742,7 +14624,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/roooopi",
     "lat": 37.51856,
-    "lng": 126.90164
+    "lng": 126.90164,
+    "geoApprox": true
   },
   {
     "id": 884,
@@ -13760,7 +14643,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://culture.cbs.co.kr/",
     "lat": 37.5282353,
-    "lng": 126.874992
+    "lng": 126.874992,
+    "geoApprox": false
   },
   {
     "id": 885,
@@ -13775,7 +14659,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.kspia.kr/",
     "lat": 37.58106,
-    "lng": 126.98954
+    "lng": 126.98954,
+    "geoApprox": true
   },
   {
     "id": 886,
@@ -13790,7 +14675,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.rebornpilates.com/deungchon_studio",
     "lat": 37.551493,
-    "lng": 126.8649313
+    "lng": 126.8649313,
+    "geoApprox": false
   },
   {
     "id": 887,
@@ -13805,7 +14691,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://sdc.or.kr/",
     "lat": 37.5410151,
-    "lng": 126.9734275
+    "lng": 126.9734275,
+    "geoApprox": false
   },
   {
     "id": 888,
@@ -13821,7 +14708,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.gangseo.ac.kr/fro_end/html/main/#",
     "lat": 37.55622,
-    "lng": 126.85188
+    "lng": 126.85188,
+    "geoApprox": true
   },
   {
     "id": 889,
@@ -13836,7 +14724,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://with-piano.com/",
     "lat": 37.48846,
-    "lng": 127.03274
+    "lng": 127.03274,
+    "geoApprox": true
   },
   {
     "id": 890,
@@ -13851,7 +14740,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5781386,
-    "lng": 126.9095566
+    "lng": 126.9095566,
+    "geoApprox": false
   },
   {
     "id": 891,
@@ -13867,7 +14757,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/withinlonglife",
     "lat": 37.617446,
-    "lng": 127.0114953
+    "lng": 127.0114953,
+    "geoApprox": false
   },
   {
     "id": 892,
@@ -13882,7 +14773,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.studywill.net",
     "lat": 37.48728,
-    "lng": 126.87482
+    "lng": 126.87482,
+    "geoApprox": true
   },
   {
     "id": 893,
@@ -13897,7 +14789,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/beverit_official",
     "lat": 37.51954,
-    "lng": 127.09026
+    "lng": 127.09026,
+    "geoApprox": true
   },
   {
     "id": 894,
@@ -13912,7 +14805,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6349324,
-    "lng": 127.06571
+    "lng": 127.06571,
+    "geoApprox": false
   },
   {
     "id": 895,
@@ -13927,7 +14821,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://m.blog.naver.com/100musicacademy/223258172152",
     "lat": 37.58834,
-    "lng": 126.95346
+    "lng": 126.95346,
+    "geoApprox": true
   },
   {
     "id": 896,
@@ -13942,7 +14837,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.nilenglish.com/",
     "lat": 37.494,
-    "lng": 126.8993
+    "lng": 126.8993,
+    "geoApprox": true
   },
   {
     "id": 897,
@@ -13957,7 +14853,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://chungkang1.com/",
     "lat": 37.5707,
-    "lng": 126.9688
+    "lng": 126.9688,
+    "geoApprox": true
   },
   {
     "id": 898,
@@ -13972,7 +14869,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.55286,
-    "lng": 126.83964
+    "lng": 126.83964,
+    "geoApprox": true
   },
   {
     "id": 899,
@@ -13987,7 +14885,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://nw.mbccomputer.co.kr",
     "lat": 37.65252,
-    "lng": 127.05068
+    "lng": 127.05068,
+    "geoApprox": true
   },
   {
     "id": 900,
@@ -14002,7 +14901,8 @@ window.VOUCHERS = [
     ],
     "homepage": "blog.naver.com/bornagain_pilayoga",
     "lat": 37.60032,
-    "lng": 127.00548
+    "lng": 127.00548,
+    "geoApprox": true
   },
   {
     "id": 901,
@@ -14017,7 +14917,8 @@ window.VOUCHERS = [
     ],
     "homepage": "m.pagoda21.com",
     "lat": 37.5561551,
-    "lng": 126.9393113
+    "lng": 126.9393113,
+    "geoApprox": false
   },
   {
     "id": 902,
@@ -14032,7 +14933,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.changeus.kr",
     "lat": 37.4764639,
-    "lng": 126.8873368
+    "lng": 126.8873368,
+    "geoApprox": false
   },
   {
     "id": 903,
@@ -14047,7 +14949,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://fn.hackers.com/",
     "lat": 37.48594,
-    "lng": 127.04056
+    "lng": 127.04056,
+    "geoApprox": true
   },
   {
     "id": 904,
@@ -14062,7 +14965,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6184198,
-    "lng": 127.0216393
+    "lng": 127.0216393,
+    "geoApprox": false
   },
   {
     "id": 905,
@@ -14077,7 +14981,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://lllcard.alpaedu.co.kr",
     "lat": 37.55724,
-    "lng": 127.04846
+    "lng": 127.04846,
+    "geoApprox": true
   },
   {
     "id": 906,
@@ -14092,7 +14997,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ket.or.kr/",
     "lat": 37.500254,
-    "lng": 126.922654
+    "lng": 126.922654,
+    "geoApprox": false
   },
   {
     "id": 907,
@@ -14107,7 +15013,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.hanuricampus.com/main/index.jsp",
     "lat": 37.52976,
-    "lng": 126.90844
+    "lng": 126.90844,
+    "geoApprox": true
   },
   {
     "id": 908,
@@ -14122,7 +15029,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5027268,
-    "lng": 127.0983432
+    "lng": 127.0983432,
+    "geoApprox": false
   },
   {
     "id": 909,
@@ -14137,7 +15045,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5097542,
-    "lng": 127.1272828
+    "lng": 127.1272828,
+    "geoApprox": false
   },
   {
     "id": 910,
@@ -14152,7 +15061,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5708778,
-    "lng": 127.0214175
+    "lng": 127.0214175,
+    "geoApprox": false
   },
   {
     "id": 911,
@@ -14167,7 +15077,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6031004,
-    "lng": 127.0653037
+    "lng": 127.0653037,
+    "geoApprox": false
   },
   {
     "id": 912,
@@ -14184,7 +15095,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://womanedu.nowon.kr/",
     "lat": 37.6416,
-    "lng": 127.0619
+    "lng": 127.0619,
+    "geoApprox": true
   },
   {
     "id": 913,
@@ -14199,7 +15111,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://im1004.net",
     "lat": 37.5194,
-    "lng": 126.8877
+    "lng": 126.8877,
+    "geoApprox": true
   },
   {
     "id": 914,
@@ -14214,7 +15127,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://naver.me/5GyKBj4z",
     "lat": 37.46832,
-    "lng": 126.94888
+    "lng": 126.94888,
+    "geoApprox": true
   },
   {
     "id": 915,
@@ -14229,7 +15143,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.re-onpilates.com",
     "lat": 37.526783,
-    "lng": 127.135574
+    "lng": 127.135574,
+    "geoApprox": false
   },
   {
     "id": 916,
@@ -14244,7 +15159,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://cafe.naver.com/bg2011",
     "lat": 37.5254705,
-    "lng": 126.8972112
+    "lng": 126.8972112,
+    "geoApprox": false
   },
   {
     "id": 917,
@@ -14260,7 +15176,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://gd.seoulwomanup.or.kr",
     "lat": 37.535896,
-    "lng": 127.1396012
+    "lng": 127.1396012,
+    "geoApprox": false
   },
   {
     "id": 918,
@@ -14275,7 +15192,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.onnuri21.co.kr",
     "lat": 37.59178,
-    "lng": 126.94032
+    "lng": 126.94032,
+    "geoApprox": true
   },
   {
     "id": 919,
@@ -14290,7 +15208,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.48846,
-    "lng": 127.03274
+    "lng": 127.03274,
+    "geoApprox": true
   },
   {
     "id": 920,
@@ -14305,7 +15224,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://yuhadayo.com",
     "lat": 37.50638,
-    "lng": 127.09332
+    "lng": 127.09332,
+    "geoApprox": true
   },
   {
     "id": 921,
@@ -14321,7 +15241,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.laze.co.kr",
     "lat": 37.5528457,
-    "lng": 126.937547
+    "lng": 126.937547,
+    "geoApprox": false
   },
   {
     "id": 922,
@@ -14336,7 +15257,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.kbselife.com",
     "lat": 37.580299,
-    "lng": 126.8888929
+    "lng": 126.8888929,
+    "geoApprox": false
   },
   {
     "id": 923,
@@ -14351,7 +15273,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.general.coffee",
     "lat": 37.6312,
-    "lng": 127.0291
+    "lng": 127.0291,
+    "geoApprox": true
   },
   {
     "id": 924,
@@ -14368,7 +15291,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.workers.or.kr",
     "lat": 37.5575552,
-    "lng": 126.9432128
+    "lng": 126.9432128,
+    "geoApprox": false
   },
   {
     "id": 925,
@@ -14383,7 +15307,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.edudsok.co.kr",
     "lat": 37.4854,
-    "lng": 126.9601
+    "lng": 126.9601,
+    "geoApprox": true
   },
   {
     "id": 926,
@@ -14399,7 +15324,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://ksmile.kumon.co.kr/",
     "lat": 37.566493,
-    "lng": 126.983682
+    "lng": 126.983682,
+    "geoApprox": false
   },
   {
     "id": 927,
@@ -14414,7 +15340,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.edumbc.net",
     "lat": 37.58894,
-    "lng": 127.0046543
+    "lng": 127.0046543,
+    "geoApprox": false
   },
   {
     "id": 928,
@@ -14429,7 +15356,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.53458,
-    "lng": 127.14002
+    "lng": 127.14002,
+    "geoApprox": true
   },
   {
     "id": 929,
@@ -14444,7 +15372,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5587122,
-    "lng": 126.8445084
+    "lng": 126.8445084,
+    "geoApprox": false
   },
   {
     "id": 930,
@@ -14459,7 +15388,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.leespresso.com",
     "lat": 37.51674,
-    "lng": 127.11406
+    "lng": 127.11406,
+    "geoApprox": true
   },
   {
     "id": 931,
@@ -14474,7 +15404,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.50016,
-    "lng": 126.88774
+    "lng": 126.88774,
+    "geoApprox": true
   },
   {
     "id": 932,
@@ -14489,7 +15420,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.zenoschool.co.kr/",
     "lat": 37.482971,
-    "lng": 126.8787536
+    "lng": 126.8787536,
+    "geoApprox": false
   },
   {
     "id": 933,
@@ -14504,7 +15436,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.pmg.co.kr",
     "lat": 37.5132656,
-    "lng": 126.9421684
+    "lng": 126.9421684,
+    "geoApprox": false
   },
   {
     "id": 934,
@@ -14522,7 +15455,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://sce.ewha.ac.kr/",
     "lat": 37.5643371,
-    "lng": 126.9468925
+    "lng": 126.9468925,
+    "geoApprox": false
   },
   {
     "id": 935,
@@ -14540,7 +15474,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://loverock.net",
     "lat": 37.5194,
-    "lng": 126.9478
+    "lng": 126.9478,
+    "geoApprox": true
   },
   {
     "id": 936,
@@ -14555,7 +15490,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://lookspilates.com/",
     "lat": 37.531107,
-    "lng": 126.8466977
+    "lng": 126.8466977,
+    "geoApprox": false
   },
   {
     "id": 937,
@@ -14570,7 +15506,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.46916,
-    "lng": 126.93494
+    "lng": 126.93494,
+    "geoApprox": true
   },
   {
     "id": 938,
@@ -14585,7 +15522,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.narest.com/",
     "lat": 37.57328,
-    "lng": 127.03552
+    "lng": 127.03552,
+    "geoApprox": true
   },
   {
     "id": 939,
@@ -14600,7 +15538,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://rebornpilates.com/",
     "lat": 37.5593,
-    "lng": 126.8934
+    "lng": 126.8934,
+    "geoApprox": true
   },
   {
     "id": 940,
@@ -14615,7 +15554,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://fastcampus.co.kr/category_online_voucher",
     "lat": 37.4988877,
-    "lng": 127.0292951
+    "lng": 127.0292951,
+    "geoApprox": false
   },
   {
     "id": 941,
@@ -14630,7 +15570,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.lyzeum.com",
     "lat": 37.4879,
-    "lng": 127.0307
+    "lng": 127.0307,
+    "geoApprox": true
   },
   {
     "id": 942,
@@ -14645,7 +15586,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.47418,
-    "lng": 127.03172
+    "lng": 127.03172,
+    "geoApprox": true
   },
   {
     "id": 943,
@@ -14660,7 +15602,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.cyedu.ac.kr/",
     "lat": 37.4785081,
-    "lng": 126.8834936
+    "lng": 126.8834936,
+    "geoApprox": false
   },
   {
     "id": 944,
@@ -14675,7 +15618,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5085472,
-    "lng": 126.8954958
+    "lng": 126.8954958,
+    "geoApprox": false
   },
   {
     "id": 945,
@@ -14691,7 +15635,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.bbedu.co.kr/",
     "lat": 37.50016,
-    "lng": 126.88774
+    "lng": 126.88774,
+    "geoApprox": true
   },
   {
     "id": 946,
@@ -14706,7 +15651,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/hyewony715",
     "lat": 37.6033572,
-    "lng": 126.9353843
+    "lng": 126.9353843,
+    "geoApprox": false
   },
   {
     "id": 947,
@@ -14723,7 +15669,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://edu.cyber.co.kr",
     "lat": 37.5565,
-    "lng": 126.9172
+    "lng": 126.9172,
+    "geoApprox": true
   },
   {
     "id": 948,
@@ -14739,7 +15686,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://seoulidd.or.kr",
     "lat": 37.52612,
-    "lng": 126.93828
+    "lng": 126.93828,
+    "geoApprox": true
   },
   {
     "id": 949,
@@ -14756,7 +15704,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.shinjung.or.kr",
     "lat": 37.52372,
-    "lng": 126.85688
+    "lng": 126.85688,
+    "geoApprox": true
   },
   {
     "id": 950,
@@ -14771,7 +15720,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.oncampus.or.kr",
     "lat": 37.47754,
-    "lng": 127.04396
+    "lng": 127.04396,
+    "geoApprox": true
   },
   {
     "id": 951,
@@ -14787,7 +15737,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ubob.com/",
     "lat": 37.5223683,
-    "lng": 126.9262529
+    "lng": 126.9262529,
+    "geoApprox": false
   },
   {
     "id": 952,
@@ -14802,7 +15753,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.6199065,
-    "lng": 127.0166786
+    "lng": 127.0166786,
+    "geoApprox": false
   },
   {
     "id": 953,
@@ -14818,7 +15770,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.52736,
-    "lng": 127.00564
+    "lng": 127.00564,
+    "geoApprox": true
   },
   {
     "id": 954,
@@ -14833,7 +15786,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://anibugs.ac/",
     "lat": 37.5019054,
-    "lng": 127.0270054
+    "lng": 127.0270054,
+    "geoApprox": false
   },
   {
     "id": 955,
@@ -14848,7 +15802,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://art-ate.com/",
     "lat": 37.525004,
-    "lng": 126.864234
+    "lng": 126.864234,
+    "geoApprox": false
   },
   {
     "id": 956,
@@ -14863,7 +15818,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.66544,
-    "lng": 127.03486
+    "lng": 127.03486,
+    "geoApprox": true
   },
   {
     "id": 957,
@@ -14880,7 +15836,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://go.yonsei.ac.kr/",
     "lat": 37.567836,
-    "lng": 126.9393747
+    "lng": 126.9393747,
+    "geoApprox": false
   },
   {
     "id": 958,
@@ -14896,7 +15853,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.ableacademy.co.kr",
     "lat": 37.5213552,
-    "lng": 126.8976569
+    "lng": 126.8976569,
+    "geoApprox": false
   },
   {
     "id": 959,
@@ -14911,7 +15869,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://comento.kr/edu",
     "lat": 37.559251,
-    "lng": 126.972116
+    "lng": 126.972116,
+    "geoApprox": false
   },
   {
     "id": 960,
@@ -14927,7 +15886,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.4917455,
-    "lng": 127.1177801
+    "lng": 127.1177801,
+    "geoApprox": false
   },
   {
     "id": 961,
@@ -14942,7 +15902,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/bodymulti",
     "lat": 37.666271,
-    "lng": 127.04599
+    "lng": 127.04599,
+    "geoApprox": false
   },
   {
     "id": 962,
@@ -14957,7 +15918,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.56714,
-    "lng": 126.88796
+    "lng": 126.88796,
+    "geoApprox": true
   },
   {
     "id": 963,
@@ -14973,7 +15935,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.q-edu.co.kr",
     "lat": 37.5245,
-    "lng": 127.1373
+    "lng": 127.1373,
+    "geoApprox": true
   },
   {
     "id": 964,
@@ -14988,7 +15951,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://skyabc.co.kr/",
     "lat": 37.52224,
-    "lng": 127.03166
+    "lng": 127.03166,
+    "geoApprox": true
   },
   {
     "id": 965,
@@ -15003,7 +15967,8 @@ window.VOUCHERS = [
     ],
     "homepage": "culcom.co.kr",
     "lat": 37.59486,
-    "lng": 126.93454
+    "lng": 126.93454,
+    "geoApprox": true
   },
   {
     "id": 966,
@@ -15019,7 +15984,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5165772,
-    "lng": 127.0383419
+    "lng": 127.0383419,
+    "geoApprox": false
   },
   {
     "id": 967,
@@ -15034,7 +16000,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://www.pagodaone.com/main",
     "lat": 37.56314,
-    "lng": 126.99226
+    "lng": 126.99226,
+    "geoApprox": true
   },
   {
     "id": 968,
@@ -15049,7 +16016,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://blog.naver.com/studiojfit5",
     "lat": 37.5192676,
-    "lng": 126.8890181
+    "lng": 126.8890181,
+    "geoApprox": false
   },
   {
     "id": 969,
@@ -15065,7 +16033,8 @@ window.VOUCHERS = [
     ],
     "homepage": "sd.seoulwomanup.or.kr",
     "lat": 37.5438976,
-    "lng": 127.0613659
+    "lng": 127.0613659,
+    "geoApprox": false
   },
   {
     "id": 970,
@@ -15080,7 +16049,8 @@ window.VOUCHERS = [
     ],
     "homepage": "",
     "lat": 37.5399281,
-    "lng": 127.0695702
+    "lng": 127.0695702,
+    "geoApprox": false
   },
   {
     "id": 971,
@@ -15095,7 +16065,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.iyulim.com",
     "lat": 37.541118,
-    "lng": 127.047184
+    "lng": 127.047184,
+    "geoApprox": false
   },
   {
     "id": 972,
@@ -15110,7 +16081,8 @@ window.VOUCHERS = [
     ],
     "homepage": "http://www.kbaristaschool.com",
     "lat": 37.519474,
-    "lng": 126.9053777
+    "lng": 126.9053777,
+    "geoApprox": false
   },
   {
     "id": 973,
@@ -15125,7 +16097,8 @@ window.VOUCHERS = [
     ],
     "homepage": "https://m.place.naver.com/place/866050595/home?entry=pll",
     "lat": 37.6133648,
-    "lng": 127.0297725
+    "lng": 127.0297725,
+    "geoApprox": false
   },
   {
     "id": 974,
@@ -15140,7 +16113,8 @@ window.VOUCHERS = [
     ],
     "homepage": "www.cyberyori.com",
     "lat": 37.64856,
-    "lng": 127.02434
+    "lng": 127.02434,
+    "geoApprox": true
   }
 ];
 window.DATA_META = {

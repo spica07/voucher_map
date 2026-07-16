@@ -281,6 +281,8 @@ body {
 .tag.kind-online { background: #DEF7FA; color: #157A8C; }
 .tag.kind-mixed { background: #FFF1DC; color: #B0740A; }
 .tag.ai { background: #E8FBF3; color: #0E8F5F; }
+.tag.approx { background: #FFF1DC; color: #B0740A; }
+.approx-note { color: #B0740A; }
 .card-info { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; }
 .card-info .ico { margin-right: 4px; }
 .card-locate {
