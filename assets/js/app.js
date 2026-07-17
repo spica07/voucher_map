@@ -235,7 +235,7 @@
     renderMarkers(list);
     renderCards(list);
     document.getElementById('resultCount').textContent =
-      '총 ' + list.length + '곳이 있어요' + (list.length < VOUCHERS.length ? ' (전체 ' + VOUCHERS.length + '곳 중)' : '!');
+      '총 ' + list.length + '곳' + (list.length < VOUCHERS.length ? ' (전체 ' + VOUCHERS.length + '곳 중)' : '');
   }
 
   /* ---------- 초기 UI 구성 ---------- */
@@ -417,7 +417,6 @@
   });
 
   /* ---------- 시작 ---------- */
-  document.getElementById('totalCount').textContent = VOUCHERS.length;
   document.getElementById('surveyDate').textContent = DATA_META.surveyDate || '';
   buildFilterPills();
   buildDistrictSelect();
