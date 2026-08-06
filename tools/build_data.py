@@ -74,13 +74,27 @@ def clean_phone(raw):
     return cleaned
 
 
+# 원본(lllcard.kr)에 운영 측 테스트 레코드가 섞여 들어온다.
+# 실제로 "사용기관위경도테스트7", "사용기관위경도테스트77" 이 지도에 올라간 적이 있어
+# 이름으로 걸러낸다. 실제 사용처 이름과 겹치지 않도록 패턴을 좁게 잡는다.
+TEST_NAME_RE = re.compile(r"위경도\s*테스트|^사용기관.*테스트\s*\d*$|^테스트\s*\d*$")
+
+
+def is_test_record(name):
+    return bool(TEST_NAME_RE.search((name or "").strip()))
+
+
 def main():
     list_items = json.loads(LIST_SRC.read_text(encoding="utf-8"))
     detail = json.loads(DETAIL_SRC.read_text(encoding="utf-8"))
 
     merged = []
     missing_detail = 0
+    dropped_test = []
     for it in list_items:
+        if is_test_record(it.get("name")):
+            dropped_test.append(it.get("name"))
+            continue
         d = detail.get(it["organCd"])
         if not d:
             missing_detail += 1
@@ -101,6 +115,8 @@ def main():
 
     OUT.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"병합 완료: {len(merged)}건 -> {OUT} (상세 누락 {missing_detail}건)")
+    if dropped_test:
+        print(f"테스트 레코드 제외 {len(dropped_test)}건: {', '.join(dropped_test)}")
 
     no_district = sum(1 for m in merged if not m["district"])
     print(f"자치구 추출 실패: {no_district}건")
